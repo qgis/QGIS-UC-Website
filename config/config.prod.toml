@@ -1,0 +1,3 @@
+baseURL = 'https://uc2025.qgis.org/'
+publishDir = "public_prod"
+minify = true
