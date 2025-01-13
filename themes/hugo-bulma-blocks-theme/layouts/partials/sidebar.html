@@ -11,7 +11,7 @@
     {{- range site.Menus.main }}
         {{ $i = add $i 1 }}
         {{ $menuItemID := printf "ul-%d" $i }}
-        <li {{ if findRE (replaceRE "/$" "" .URL) $pageUrl }} class="is-active"{{ end }}>
+        <li {{ if and (findRE (replaceRE "/$" "" .URL) $pageUrl) (ne .URL "/") }} class="is-active"{{ end }}>
 
         {{ if .HasChildren }}
             <div class="has-child">

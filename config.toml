@@ -137,21 +137,40 @@ sectionPagesMenu = 'main'
 # See https://gohugo.io/content-management/menus/
 [menu]
 [[menu.main]]
-  name = "Conference"
+  name = "Home"
   url = "/"
   weight = 10
 
 [[menu.main]]
   name = "About"
-  parent = "Conference"
-  url = "/uc-2025/about/"
+  url = "/about/"
   weight = 20
 
 [[menu.main]]
-  name = "Attending"
-  parent = "Conference"
-  url = "/uc-2025/attending/"
+  name = "Schedule"
+  url = "/schedule/"
   weight = 30
+
+[[menu.main]]
+  name = "Schedule"
+  parent = "Detailed Schedule"
+  url = "/schedule-details/"
+  weight = 10
+
+[[menu.main]]
+  name = "Sponsors"
+  url = "/sponsors/"
+  weight = 40
+
+[[menu.main]]
+  name = "Attending"
+  url = "/attending/"
+  weight = 50
+
+[[menu.main]]
+  name = "Tickets"
+  url = "/tickets/"
+  weight = 60
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
