@@ -9,75 +9,57 @@
             <div class="column mb-6">
                 <div class="columns is-desktop">
                     <ul class="column mb-5">
-                        <li class="is-size-5 mb-5 ">
-                            <a href="/" class="footertitle text-nowrap">
-                                Conference
-                            </a>
-                        </li>
-                        <!-- {{- range site.Menus.main }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Project" -}}
-                                    <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
-                                    </li>
-                                {{ end }}
-                            {{ end }}
-                        {{ end }} -->
-                    </ul>
-
-                    <ul class="column mb-5">
                         <li class="is-size-5 mb-5">
                             <a
-                                href="{{ absURL "uc-2025/about" }}"
+                                href="{{ absURL "about" }}"
                                 class="footertitle text-nowrap"
                             >
                                 About
                             </a>
                         </li>
-                        <!-- {{- range site.Menus.main }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Community" -}}
-                                    <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
-                                    </li>
-                                {{ end }}
-                            {{ end }}
-                        {{ end }} -->
+                    </ul>
+
+                    <ul class="column mb-5">
+                        <li class="is-size-5 mb-5">
+                            <a
+                                href="{{ absURL "schedule" }}"
+                                class="footertitle text-nowrap"
+                            >
+                                Schedule
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="column mb-5">
+                        <li class="is-size-5 mb-5">
+                            <a
+                                href="{{ absURL "sponsors" }}"
+                                class="footertitle text-nowrap"
+                            >
+                                Sponsors
+                            </a>
+                        </li>
                     </ul>
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5 footertitle">
                             <a
-                                href="{{ absURL "uc-2025/attending" }}"
+                                href="{{ absURL "attending" }}"
                                 class="footertitle text-nowrap"
                             >
                                 Attending
                             </a>
                         </li>
-                        <!-- {{- range site.Menus.main }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Resources" -}}
-                                    <li class="mb-4">
-                                        <a
-                                            class="has-text-white text-nowrap"
-                                            href="{{ .URL }}"
-                                        >
-                                            {{ .Name }}
-                                        </a>
-                                    </li>
-                                {{ end }}
-                            {{ end }}
-                        {{ end }} -->
+                    </ul>
+
+                    <ul class="column mb-5">
+                        <li class="is-size-5 mb-5">
+                            <a
+                                href="{{ absURL "tickets" }}"
+                                class="footertitle text-nowrap"
+                            >
+                                Tickets
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
