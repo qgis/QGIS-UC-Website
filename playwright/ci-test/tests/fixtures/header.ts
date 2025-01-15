@@ -94,6 +94,6 @@ export class Header {
         this.donateLink = this.mainNavigation.getByRole("link", {
             name: "Donate",
         });
-        this.searchInput = this.page.getByPlaceholder("Search");
+        this.searchInput = this.page.getByPlaceholder("Search").last();
     }
 }
