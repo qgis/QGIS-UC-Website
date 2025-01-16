@@ -4,7 +4,8 @@ title: "QGIS User Conference 2025"
 draft: false
 heroSize: "is-medium"
 heroImage: "uc-2025/visualization_center.webp"
-heroLogo: "uc-2025/logo_multicolor.png"
+heroLogo: "img/logosign.svg"
+additionalLogo: "uc-2025/logo_multicolor.png"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
