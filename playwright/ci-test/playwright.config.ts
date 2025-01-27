@@ -36,7 +36,7 @@ export default defineConfig({
         trace: "on-first-retry",
         baseURL:
             process.env.STAGING === "1"
-                ? "https://qgis.github.io/QGIS-Website/"
+                ? "https://qgis.github.io/QGIS-UC-Website/"
                 : "http://127.0.0.1:1313",
     },
 
