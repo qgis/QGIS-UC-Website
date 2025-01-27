@@ -1,4 +1,4 @@
-# robots.txt for qgis.org
+# robots.txt for uc2025.qgis.org
 # Protecting against malicious bots, unwanted crawling, and AI bots
 
 User-agent: *
@@ -29,7 +29,7 @@ Allow: /download/
 Allow: /support/
 
 # Specify the location of the sitemap
-Sitemap: https://qgis.org/sitemap.xml
+Sitemap: https://uc2025.qgis.org/sitemap.xml
 
 # Block known bad bots and AI bots
 User-agent: AhrefsBot
