@@ -152,10 +152,16 @@ sectionPagesMenu = 'main'
   weight = 30
 
 [[menu.main]]
-  name = "Schedule"
-  parent = "Detailed Schedule"
-  url = "/schedule-details/"
+  name = "Overview"
+  parent = "Schedule"
+  url = "/schedule/schedule-overview/"
   weight = 10
+
+[[menu.main]]
+  name = "Detailed Schedule"
+  parent = "Schedule"
+  url = "/schedule/schedule-details/"
+  weight = 20
 
 [[menu.main]]
   name = "Sponsors"
