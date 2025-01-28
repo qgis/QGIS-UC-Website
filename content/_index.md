@@ -1,6 +1,7 @@
 ---
 type: "page"
 title: "QGIS User Conference 2025"
+subtitle: "2-3 June 2025, Norrköping, Sweden"
 draft: false
 heroSize: "is-medium"
 heroImage: "uc-2025/visualization_center.webp"
