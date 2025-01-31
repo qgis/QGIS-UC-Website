@@ -9,64 +9,112 @@
             <div class="column mb-6">
                 <div class="columns is-desktop">
                     <ul class="column mb-5">
-                        <li class="is-size-5 mb-5">
+                        <li class="is-size-5 mb-5 ">
                             <a
-                                href="{{ absURL "about" }}"
+                                href="https://qgis.org/project/overview"
                                 class="footertitle text-nowrap"
                             >
-                                About
+                                Project
                             </a>
                         </li>
+                        {{- range site.Menus.qgis_org }}
+                            {{ range sort .Children "Weight" }}
+                                {{- if eq .Parent "Project" -}}
+                                    <li class="mb-4">
+                                        <a
+                                            class="has-text-white text-nowrap"
+                                            href="{{ .URL }}"
+                                        >
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5">
                             <a
-                                href="{{ absURL "schedule" }}"
+                                href="https://qgis.org/community/involve"
                                 class="footertitle text-nowrap"
                             >
-                                Schedule
+                                Community
                             </a>
                         </li>
-                    </ul>
-                    <ul class="column mb-5">
-                        <li class="is-size-5 mb-5">
-                            <a
-                                href="{{ absURL "sponsors" }}"
-                                class="footertitle text-nowrap"
-                            >
-                                Sponsors
-                            </a>
-                        </li>
+                        {{- range site.Menus.qgis_org }}
+                            {{ range sort .Children "Weight" }}
+                                {{- if eq .Parent "Community" -}}
+                                    <li class="mb-4">
+                                        <a
+                                            class="has-text-white text-nowrap"
+                                            href="{{ .URL }}"
+                                        >
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
 
                     <ul class="column mb-5">
                         <li class="is-size-5 mb-5 footertitle">
                             <a
-                                href="{{ absURL "attending" }}"
+                                href="https://qgis.org/resources/hub"
                                 class="footertitle text-nowrap"
                             >
-                                Attending
+                                Resources
                             </a>
                         </li>
+                        {{- range site.Menus.qgis_org }}
+                            {{ range sort .Children "Weight" }}
+                                {{- if eq .Parent "Resources" -}}
+                                    <li class="mb-4">
+                                        <a
+                                            class="has-text-white text-nowrap"
+                                            href="{{ .URL }}"
+                                        >
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
 
                     <ul class="column mb-5">
-                        <li class="is-size-5 mb-5">
+                        <li class="is-size-5 mb-5 ">
                             <a
-                                href="{{ absURL "tickets" }}"
+                                href="https://qgis.org/funding/donate"
                                 class="footertitle text-nowrap"
                             >
-                                Tickets
+                                Funding
                             </a>
                         </li>
+                        {{- range site.Menus.qgis_org }}
+                            {{ range sort .Children "Weight" }}
+                                {{- if eq .Parent "Funding" -}}
+                                    <li class="mb-4">
+                                        <a
+                                            class="has-text-white text-nowrap"
+                                            href="{{ .URL }}"
+                                        >
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
                     </ul>
                 </div>
             </div>
             <div class="column is-2-desktop">
-                <!-- <a href="{{ absURL "download" }}">
-                    <button class="button is-primary1 is-size-5">Download</button>
-                </a> -->
+                <a href="https://qgis.org/download">
+                    <button class="button is-primary1 is-size-5">
+                        Download
+                    </button>
+                </a>
             </div>
         </div>
         <div class="columns is-desktop">
@@ -92,11 +140,38 @@
                 </a>
                 <a
                     class="has-text-white"
-                    href="{{ absURL "community/organisation/mailinglists" }}"
+                    href="https://qgis.org/community/organisation/mailinglists"
                 >
                     <i class="fa-solid fa-envelope"></i>
                 </a>
             </div>
+        </div>
+        <div class="columns is-desktop privacy-links">
+            <a
+                href="https://qgis.org/diversity"
+                class="column is-narrow is-offset-2-desktop"
+                >Diversity statement</a
+            >
+            <a href="https://qgis.org/conduct" class="column is-narrow"
+                >Code of conduct</a
+            >
+            <a
+                href="https://qgis.org/environmental-policy"
+                class="column is-narrow"
+                >Environmental policy</a
+            >
+            <a href="https://qgis.org/license" class="column is-narrow"
+                >License</a
+            >
+            <a href="https://qgis.org/styleguide" class="column is-narrow"
+                >Visual Style Guide</a
+            >
+            <a href="https://qgis.org/goodies" class="column is-narrow"
+                >Goodies</a
+            >
+            <a href="https://qgis.org/archive" class="column is-narrow"
+                >Archive</a
+            >
         </div>
         <div
             class="columns is-desktop issue-report-link is-justify-content-center"
