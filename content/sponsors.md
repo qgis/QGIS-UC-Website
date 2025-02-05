@@ -3,7 +3,7 @@ type: "page"
 title: "QGIS User Conference 2025"
 subtitle: "2-3 June 2025, Norrköping, Sweden"
 heroImage: "/visualization_center.webp"
-heroLogo: "/logo_multicolor.png"
+heroLogo: "/uc25_logo_re_color.png"
 heroMenu: "uc-2025"
 heroIsUserConference: true
 heroSize: "is-halfheight"
@@ -16,11 +16,12 @@ sidebar: true
 
 # Sponsors
 
-None here yet, want to be the first?
+[![Midvatten](/sponsors/midvatten_ps.png)](https://midvatten.se/)
+[![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)](https://north-road.com/)
 
 ## Become a sponsor
 
-We are honoured to invite you to take thsi opportunity to be a financial partner for the QGIS User Conference in
+We are honoured to invite you to take this opportunity to be a financial partner for the QGIS User Conference in
 Norrköping in 2025. By sponsoring the conference, you are extending your support to the whole QGIS community, a
 contribution that is essential in keeping this valuable community vibrant. In return this offers you the possibility to
 network and showcase your work and solutions to future customers or partners.

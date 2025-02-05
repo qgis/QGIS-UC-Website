@@ -5,8 +5,8 @@ subtitle: "2-3 June 2025, Norrköping, Sweden"
 draft: false
 heroSize: "is-medium"
 heroImage: "/visualization_center.webp"
-heroLogo: "/logo_multicolor.png"
-additionalLogo: "logo_multicolor.png"
+heroLogo: "/uc25_logo_re_color.png"
+additionalLogo: "uc25_logo_re_color.png"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
@@ -44,7 +44,7 @@ The program has not yet been set, but you can find some examples of what to expe
 {{< rich-content-start themeClass="coloring-6" >}}
 ### Tickets
 
-Tickets will go on sale on the 6th of February.
+Tickets will go on sale on the 10th of February.
 
 [Get your ticket](/tickets)
 
