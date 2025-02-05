@@ -22,7 +22,7 @@ Tickets go on sale 10th of February. There are a limited number of Early-Bird ti
 
 All participants need a ticket for the conference, including those who give a talk or a workshop.
 
-We offer a refund when a ticket is cancelled more than 14 days before the event. Cancellations less than 14 days prior
+We offer a refund when a ticket is cancelled more than 30 days before the event. Cancellations less than 30 days prior
 to the event are not refunded.
 
 ## Venue
@@ -112,7 +112,7 @@ Norrköping is located on both the E4 and E22 highways. Please note that parking
 
 ## Getting around
 
-**Walk**: The venue is in the heart of the city, and it is easy to explose the city on foot. Most points-of-interest are
+**Walk**: The venue is in the heart of the city, and it is easy to explore the city on foot. Most points-of-interest are
 within a walking distance of 15 minutes.
 
 **Bus or tram**: The public transport has a fairly good network and is operated by [Östgötatrafiken](https://www.ostgotatrafiken.se/).
@@ -146,9 +146,9 @@ if you want to ensure that you get a room from one of our recommended hotels.
 
 [Elite Grand Hotel](https://www.elite.se/en/?hotel=EL020&checkIn=2025-06-01&checkOut=2025-06-04&guests=1&rooms=1&adults=1&group=QGIS&step=step3packages) (800 m from the venue)
 
-[Scandic Strömmen](https://www.scandichotels.se/) (1000 m from the venue, use code BQGI010625)
+[Scandic Strömmen](https://www.scandichotels.com/hotelreservation/select-rate?hotel=827&fromDate=2025-06-1&toDate=2025-06-4&room%5b0%5d.adults=1&bookingCode=BQGI010625) (1000 m from the venue, use code BQGI010625)
 
-Strawberry Comfort Hotel (1400 m from the venue)
+[Strawberry Comfort Hotel](https://app.mews.com/distributor/7dd5ff2c-3f22-437f-a0c8-affd01143857?mewsAvailabilityBlockId=288bdb89-6fb2-427a-803b-b26000b2386e&mewsStart=2025-06-01&mewsEnd=2025-06-04) (1400 m from the venue)
 
 ### Other recommended options
 
