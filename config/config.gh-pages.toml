@@ -1,4 +1,1 @@
 minify = true
-
-[params]
-uniNavHeaderLocationPrefix = "/QGIS-UC-Website"
