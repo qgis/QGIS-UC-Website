@@ -41,7 +41,9 @@ will be able to attend longer workshops and get more hands-on experience with QG
 Additionally, this day will have "onboarding sessions" for those who want to become an active participant in the QGIS
 community, with sessions on how to contribute to the project (filing issues, translating, developing code, etc.).
 
-Exact details and schedule for this day will be published later.
+And for those who want to relax a bit after the conference we will also offer two Social Activities.
+
+Note that the Workshops and Social Activities require registration. See [activities](/activities/) for more information.
 
 ## Contributor Meeting
 

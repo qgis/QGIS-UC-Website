@@ -151,6 +151,12 @@ sectionPagesMenu = 'main'
   url = "/schedule/"
   weight = 30
 
+
+[[menu.main]]
+  name = "Activities"
+  url = "/activities/"
+  weight = 35
+
 [[menu.main]]
   name = "Sponsors"
   url = "/sponsors/"

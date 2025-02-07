@@ -25,6 +25,10 @@ All participants need a ticket for the conference, including those who give a ta
 We offer a refund when a ticket is cancelled more than 30 days before the event. Cancellations less than 30 days prior
 to the event are not refunded.
 
+Do note that some additional activities, such as during the extra Workshop Day, require additional registration. You
+can add these activities during while purchasing your ticket or at a later point in time, do note however that the
+spots are limited.
+
 ## Venue
 
 The event will be held at the [Visualization Center C](https://www.visualiseringscenter.se/en/), [Cnema](https://cnema.se/)
@@ -74,13 +78,6 @@ This is an official QGIS event. That means that all attendees are expected to fo
 project. In short, be nice to others, so that everyone feels safe and welcome. If there is someone behaving poorly,
 please do not hesitate to report them to the event staff members.
 
-## Sunday Warm-up & Early Registration
-
-We also invite you to a warm-up event on Sunday evening, where you can meet other participants and the organisers, and
-have a wine, beer or non-alcoholic drink (at your own expense). The whole place will be reserved for us and some snacks
-will be provided by the conference. We will have a registration desk there as well, in case you would like to avoid
-queuing for registration on Monday morning.
-
 ## Getting there
 
 ### By plane
@@ -129,7 +126,7 @@ along the new residential area "Inner Harbour", and by the canal out to Bråvike
 **E-Scooter**: There are several companies offering e-scooter rentals in Norrköping; Voi, Qick, Tier and Enjoy. You
 book and unlock the E-scooters using their respective apps.
 
-## Accomodation
+## Accommodation
 
 Attendants need to organize and pay for their own accommodation, it is not included in your ticket. Norrköping offers a wide variety
 of hotels at different price levels.
