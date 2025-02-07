@@ -77,4 +77,26 @@ and [Campus Norrköping](https://liu.se/en/article/campus-norrkoping) of [Linkö
 situated in the heart of Norrköping, a city with a rich industrial history and beautiful water displays right outside
 the venues.
 
+
+{{< columns-start >}}
+{{< column-start>}}
+
+![](./globe_c.png)
+
+{{< column-end >}}
+{{< column-start>}}
+
+![](./visualcity_ostlanken-2000x1500.webp)
+
+{{< column-end >}}
+{{< column-start>}}
+
+![](./Domen-scaled.webp)
+
+{{< column-end >}}
+{{< columns-end >}}
+
+{{< column-end >}}
+{{< columns-end >}}
+
 {{< content-end >}}
