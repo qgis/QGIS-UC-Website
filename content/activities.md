@@ -21,7 +21,9 @@ This page lists all offered activities, including the main conference and the co
 
 See also the [schedule](/schedule) for more information about times.
 
-## Guided City Tour
+We reserve the right to cancel any of the social activities if there are too few participants for it.
+
+## Social Activity: Guided City Tour
 
 Arriving early? Join us for a Guided City Tour, a city guide will give you an introduction to the city of Norrköping,
 some prominent buildings along with a bit of history.
@@ -58,7 +60,7 @@ Price: Included in the conference ticket
 ## Hands-on Workshops
 
 While there will be workshops during the main conference, we additionally want to offer you the opportunity to attend
-some halv-day long workshops. Topics will be announced later, however the number of spots is limited so make sure to
+some half-day long workshops. Topics will be announced later, however the number of spots is limited so make sure to
 get your ticket if you want to attend!
 
 The price includes lunch after the workshops.

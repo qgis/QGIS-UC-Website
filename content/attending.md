@@ -103,6 +103,10 @@ Norrköping is well-connected to other Swedish and Scandinavian cities by train 
 Copenhagen (about 4.5 h). Additionally, there are night trains from Berlin (about 14 h) that stop in Norrköping. If coming
 from Oslo you will have to change once (about 6 h in total). Tickets and information can be found at [SJ](https://sj.se/).
 
+If you prefer bus there are long distance buses from Berlin and Copenhagen with stops in Norrköping, as well as long
+distance buses between many Swedish cities. Tickets and information can be found at [Flixbus](https://flixbus.se/)
+and [Bus4you](https://bus4ou.se/).
+
 ### By car
 
 Norrköping is located on both the E4 and E22 highways. Please note that parking around the venue is regulated.
