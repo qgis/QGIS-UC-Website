@@ -51,7 +51,7 @@ Right after the conference, QGIS Contributor Meeting will take place on 4-6 June
 is for those who contribute to the development of QGIS. It’s free to join but you are expected to make yourself useful
 on improving the QGIS application, documentation or website or do anything else QGIS will benefit from.
 
-<!-- See Contributor Meeting details on GitHub.-->
+[See Contributor Meeting details on GitHub.](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping)
 
 ## Local Committee
 

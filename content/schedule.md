@@ -41,11 +41,11 @@ While the overall outline is set, we might still make some minor adjustments whe
 <td style="background-color: lightgreen; text-align: center;" rowspan="3">Talks &amp; Workshops</td>
 <td style="background-color: lightgreen; text-align: center;" rowspan="7">Hands-on Workshops*</td>
 <td style="background-color: lightsteelblue; text-align: center;" rowspan="7">
-Onboarding<br/><br/>
-Contributor Meeting
+<a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Onboarding<br/><br/>
+Contributor Meeting</a>
 </td>
-<td style="background-color: lightsteelblue; text-align: center;" rowspan="7">Contributor Meeting</td>
-<td style="background-color: lightsteelblue; text-align: center;" rowspan="7">Contributor Meeting</td>
+<td style="background-color: lightsteelblue; text-align: center;" rowspan="7"><a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Contributor Meeting</a></td>
+<td style="background-color: lightsteelblue; text-align: center;" rowspan="7"><a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Contributor Meeting</a></td>
 </tr>
 <tr>
 <td>09:00</td>
@@ -96,11 +96,11 @@ Contributor Meeting
 <td style="background-color: lightgreen; text-align: center;" rowspan="3">Talks &amp; Workshops</td>
 <td style="background-color: lavender; text-align: center;" rowspan="9"><a href="/activities/" style="color:inherit">Social Activities</a>*</td>
 <td style="background-color: lightsteelblue; text-align: center;" rowspan="9">
-Onboarding<br/><br/>
-Contributor Meeting
+<a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Onboarding<br/><br/>
+Contributor Meeting</a>
 </td>
-<td style="background-color: lightsteelblue; text-align: center;" rowspan="9">Contributor Meeting</td>
-<td style="background-color: lightsteelblue; text-align: center;" rowspan="9">Contributor Meeting</td>
+<td style="background-color: lightsteelblue; text-align: center;" rowspan="9"><a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Contributor Meeting</a></td>
+<td style="background-color: lightsteelblue; text-align: center;" rowspan="9"><a href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping" style="color:inherit">Contributor Meeting</a></td>
 </tr>
 <tr>
 <td>13:30</td>

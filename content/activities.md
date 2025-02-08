@@ -106,6 +106,8 @@ Price: Free, no registration required
 The Contributor Meeting will be held on Wednesday through Friday, and is open to anyone who wants to contribute to QGIS.
 Tackle bugs, write documentation, or help with translations, there is something for everyone!
 
+See more information and register (not required but helps us ensure that there's enough food and t-shirts) on [GitHub](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping).
+
 Time: Wednesday-Friday 4-7th of June, 08:30-17:00<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, open to everyone
