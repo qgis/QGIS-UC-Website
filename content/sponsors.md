@@ -12,12 +12,159 @@ draft: false
 sidebar: true
 ---
 
+<style>
+[id^=sponsors] a {
+    margin-bottom: 0 !important;
+}
+[id^=sponsors] figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+[id^=sponsors] .column {
+    justify-content: center;
+    align-items: center;
+}
+[id^=sponsors] figure > div {
+    margin-left: auto;
+    margin-right: auto;
+}
+[id^=sponsors] figure > div img {
+    width: 100%;
+}
+</style>
+
 {{< content-start >}}
 
-# Sponsors
+## Co-organizers
 
-[![Midvatten](/sponsors/midvatten_ps.png)](https://midvatten.se/)
-[![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)](https://north-road.com/)
+{{< columns-start id="sponsors1" >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://qgis.se/" style="color:inherit;font-weight:inherit" class="mb-5">
+<figure><div style="width:90%;max-width:200px;">
+
+![QGIS Sverige](/sponsors/qgis_sverige_logotyp.png)
+
+</div>
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://www.sweco.se/" style="color:inherit;font-weight:inherit" class="mb-5">
+<figure><div>
+
+![Sweco](/sponsors/sweco_black.svg)
+
+</div>
+</figure>
+</a>
+
+{{< column-end >}}
+<!--{{< column-start class="is-one-third" >}}
+
+<a href="https://www.smhi.se/" style="color:inherit;font-weight:inherit">
+<figure><div style="width:100%">
+
+![SMHI](/sponsors/SMHI_Logo.svg)
+
+</div>
+</figure>
+</a>
+
+{{< column-end >}}-->
+{{< columns-end >}}
+
+## Sponsors
+
+### Platinum
+
+{{< columns-start id="sponsors2" >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://qfield.cloud/">
+<figure><div>
+
+![QFieldCloud](/sponsors/Logo_QFieldCloud-by-OPENGIS.svg)
+
+</div></figure>
+</a>
+
+{{< column-end >}}
+{{< columns-end >}}
+
+<!--
+### Gold
+
+{{< columns-start id="sponsors3" >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://midvatten.se/">
+<figure>
+
+![Midvatten](/sponsors/midvatten_ps.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://north-road.com/">
+<figure>
+
+![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://midvatten.se/">
+<figure>
+
+![Midvatten](/sponsors/midvatten_ps.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< columns-end >}}
+-->
+
+### Silver
+
+{{< columns-start id="sponsors4" >}}
+{{< column-start class="is-one-quarter" >}}
+
+<a href="https://midvatten.se/">
+<figure>
+
+![Midvatten](/sponsors/midvatten_ps.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< columns-end >}}
+
+### Bronze
+
+{{< columns-start id="sponsors5" >}}
+{{< column-start class="is-one-fifth" >}}
+
+<a href="https://north-road.com/">
+<figure>
+
+![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< columns-end >}}
 
 ## Become a sponsor
 
