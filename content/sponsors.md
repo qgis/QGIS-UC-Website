@@ -191,7 +191,7 @@ Partnership in the QGIS User Conference gives you:
 If you are interested in becoming a sponsor, please contact us at: [uc2025@qgis.se](mailto:uc2025@qgis.se).
 
 To learn more about the sponsorship packages and opportunities we offer, please have a look at the
-[sponsorship brochure](https://www.qgis.se/wp-content/uploads/2025/01/QGIS-UC-2025-Sponsorship.pdf).
+[sponsorship brochure](https://www.qgis.se/wp-content/uploads/2025/02/QGIS-UC-2025-Sponsorship.pdf).
 
 We are also happy to discuss additional sponsorship opportunities, or to customize a package to best fit your needs.
 
