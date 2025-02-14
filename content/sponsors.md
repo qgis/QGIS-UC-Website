@@ -15,33 +15,55 @@ sidebar: true
 <style>
 [id^=sponsors] a {
     margin-bottom: 0 !important;
+    width: 100%;
 }
 [id^=sponsors] figure {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+    width: 100%;
 }
 [id^=sponsors] .column {
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 [id^=sponsors] figure > div {
     margin-left: auto;
     margin-right: auto;
-}
-[id^=sponsors] figure > div img {
     width: 100%;
+}
+[id^=sponsors] figure p {
+    width: 100%;
+}
+[id^=sponsors] figure img {
+    width: 100%;
+}
+
+.content :empty:first-child ~ h2 {
+    margin-top: 0;
 }
 </style>
 
 {{< content-start >}}
 
+{{< columns-start >}}
+{{< column-start class="pb-0 pt-0 is-one-half" >}}
+
+## Organizers
+
+{{< column-end >}}
+{{< column-start class="pb-0 pt-0 is-one-half is-hidden-mobile" >}}
+
 ## Co-organizers
 
+{{< column-end >}}
+{{< columns-end >}}
+
 {{< columns-start id="sponsors1" >}}
-{{< column-start class="is-one-third" >}}
+{{< column-start class="is-one-quarter" >}}
 
 <a href="https://qgis.se/" style="color:inherit;font-weight:inherit" class="mb-5">
-<figure><div style="width:90%;max-width:200px;">
+<figure><div style="width:80%;max-width:200px;">
 
 ![QGIS Sverige](/sponsors/qgis_sverige_logotyp.png)
 
@@ -50,10 +72,28 @@ sidebar: true
 </a>
 
 {{< column-end >}}
-{{< column-start class="is-one-third" >}}
+{{< column-start class="is-one-quarter" >}}
+
+<a href="https://qgis.org/" style="color:inherit;font-weight:inherit" class="mb-5">
+<figure><div style="max-width:200px;">
+
+![QGIS.org](/sponsors/qgis-logo.svg)
+
+</div>
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-quarter" >}}
+
+<div class="is-hidden-tablet" style="margin-right:auto">
+
+## Co-organizers
+
+</div>
 
 <a href="https://www.sweco.se/" style="color:inherit;font-weight:inherit" class="mb-5">
-<figure><div>
+<figure><div style="max-width:200px">
 
 ![Sweco](/sponsors/sweco_black.svg)
 
@@ -62,10 +102,10 @@ sidebar: true
 </a>
 
 {{< column-end >}}
-<!--{{< column-start class="is-one-third" >}}
+{{< column-start class="is-one-quarter" >}}
 
-<a href="https://www.smhi.se/" style="color:inherit;font-weight:inherit">
-<figure><div style="width:100%">
+<a href="https://www.smhi.se/en/" style="color:inherit;font-weight:inherit">
+<figure><div style="width:70%">
 
 ![SMHI](/sponsors/SMHI_Logo.svg)
 
@@ -73,7 +113,7 @@ sidebar: true
 </figure>
 </a>
 
-{{< column-end >}}-->
+{{< column-end >}}
 {{< columns-end >}}
 
 ## Sponsors
@@ -81,7 +121,7 @@ sidebar: true
 ### Platinum
 
 {{< columns-start id="sponsors2" >}}
-{{< column-start class="is-one-third" >}}
+{{< column-start class="is-half" >}}
 
 <a href="https://qfield.cloud/">
 <figure><div>
@@ -137,7 +177,7 @@ sidebar: true
 ### Silver
 
 {{< columns-start id="sponsors4" >}}
-{{< column-start class="is-one-quarter" >}}
+{{< column-start class="is-one-third" >}}
 
 <a href="https://midvatten.se/">
 <figure>
@@ -153,7 +193,7 @@ sidebar: true
 ### Bronze
 
 {{< columns-start id="sponsors5" >}}
-{{< column-start class="is-one-fifth" >}}
+{{< column-start class="is-one-third" >}}
 
 <a href="https://north-road.com/">
 <figure>
