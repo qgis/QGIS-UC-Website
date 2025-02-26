@@ -33,7 +33,9 @@ The program has not yet been set, but you can find some examples of what to expe
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ### Call for Papers
-[Send in your presentation and workshop proposals](https://talks.osgeo.org/qgis-uc2025/cfp)
+
+The call for papers has ended, and we're currently reviewing the submissions. We will contact
+the accepted proposals soon.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -43,8 +45,6 @@ The program has not yet been set, but you can find some examples of what to expe
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6" >}}
 ### Tickets
-
-Tickets will go on sale on the 10th of February.
 
 [Get your ticket](/tickets)
 
