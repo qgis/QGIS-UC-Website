@@ -157,6 +157,17 @@ the accepted proposals soon.
 {{< column-end >}}
 {{< column-start class="is-one-third" >}}
 
+<a href="https://gispo.fi/">
+<figure>
+
+![Gispo](/sponsors/Gispo_nimilogo.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
 <a href="https://midvatten.se/">
 <figure>
 
@@ -167,6 +178,17 @@ the accepted proposals soon.
 
 {{< column-end >}}
 {{< column-start class="is-one-third" >}}
+
+<a href="https://merginmaps.com/">
+<figure>
+
+![Mergin Maps](/sponsors/MM_logo_HORIZ_COLOR_TRANSPARENT.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-quarter" >}}
 
 <a href="https://north-road.com/">
 <figure>

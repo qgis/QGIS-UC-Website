@@ -134,45 +134,21 @@ sidebar: true
 {{< column-end >}}
 {{< columns-end >}}
 
-<!--
 ### Gold
 
 {{< columns-start id="sponsors3" >}}
 {{< column-start class="is-one-third" >}}
 
-<a href="https://midvatten.se/">
+<a href="https://gispo.fi/">
 <figure>
 
-![Midvatten](/sponsors/midvatten_ps.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://north-road.com/">
-<figure>
-
-![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://midvatten.se/">
-<figure>
-
-![Midvatten](/sponsors/midvatten_ps.png)
+![Gispo](/sponsors/Gispo_nimilogo.png)
 
 </figure>
 </a>
 
 {{< column-end >}}
 {{< columns-end >}}
--->
 
 ### Silver
 
@@ -188,12 +164,23 @@ sidebar: true
 </a>
 
 {{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://merginmaps.com/">
+<figure>
+
+![Mergin Maps](/sponsors/MM_logo_HORIZ_COLOR_TRANSPARENT.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
 {{< columns-end >}}
 
 ### Bronze
 
 {{< columns-start id="sponsors5" >}}
-{{< column-start class="is-one-third" >}}
+{{< column-start class="is-one-quarter" >}}
 
 <a href="https://north-road.com/">
 <figure>
