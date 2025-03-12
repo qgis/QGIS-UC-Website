@@ -144,6 +144,8 @@ the accepted proposals soon.
 </a>
 
 {{< column-end >}}
+{{< column-start class="is-one-quarter" >}}
+{{< column-end >}}
 {{< column-start class="is-half" >}}
 
 <a href="https://qfield.cloud/">
@@ -155,23 +157,14 @@ the accepted proposals soon.
 </a>
 
 {{< column-end >}}
+{{< column-start class="is-one-quarter" >}}
+{{< column-end >}}
 {{< column-start class="is-one-third" >}}
 
 <a href="https://gispo.fi/">
 <figure>
 
 ![Gispo](/sponsors/Gispo_nimilogo.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://midvatten.se/">
-<figure>
-
-![Midvatten](/sponsors/midvatten_ps.png)
 
 </figure>
 </a>
@@ -188,12 +181,34 @@ the accepted proposals soon.
 </a>
 
 {{< column-end >}}
+{{< column-start class="is-one-third" >}}
+
+<a href="https://midvatten.se/">
+<figure>
+
+![Midvatten](/sponsors/midvatten_ps.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
 {{< column-start class="is-one-quarter" >}}
 
 <a href="https://north-road.com/">
 <figure>
 
 ![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)
+
+</figure>
+</a>
+
+{{< column-end >}}
+{{< column-start class="is-one-quarter" >}}
+
+<a href="https://www.wheregroup.com/">
+<figure>
+
+![WhereGroup GmbH](/sponsors/WhereGroup-Logo-quer-cmyk-1.png)
 
 </figure>
 </a>
