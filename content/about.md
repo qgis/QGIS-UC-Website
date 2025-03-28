@@ -30,8 +30,7 @@ Presentations cover topics such as:
 <li>Workshops provide hands-on experience with specific QGIS tools and techniques - both for beginners and advanced users.</li>
 </ul>
 
-The program for this year has not yet been set, but you can find some examples of what to expect at the
-[QGIS User Conference 2024](https://uc2024.qgis.sk/) website.
+The program has now been published, see the details at schedule page [Schedule](/schedule/).
 
 ## Workshop & Onboarding Day
 
