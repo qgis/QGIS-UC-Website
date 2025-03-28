@@ -24,7 +24,7 @@ This year, the conference is being held on **2-3 June 2025** in **Norrköping, S
 
 Right after the conference, the [**28th QGIS Contributor Meeting**](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping) will be right next door on **4-6 June**. Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.
 
-The program has not yet been set, but you can find some examples of what to expect at the [QGIS User Conference 2024 website](https://uc2024.qgis.sk/).
+The program has now been published, see the details at schedule page [Schedule](https://uc2025.qgis.org/schedule/).
 
 
 {{< columns-start >}}
