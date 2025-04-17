@@ -75,7 +75,7 @@ Want a change of scenery after the conference? Join us for a visit to the zoo of
 unique opportunity to meet the tigers. A bus ride takes you to the zoo where a guide will meet you and bring you in close
 contact with the animals. There will be time for coffee and questions afterward.
 
-Time: Wednesday 4th of June, 13:00-16:00<br/>
+Time: Wednesday 4th of June, 14:00-17:00<br/>
 Place: Bus pickup and drop-of at Visualization Center C<br/>
 Price: €20, registration required, max 15 participants
 
@@ -88,7 +88,7 @@ Swedish "fika" with coffee and cinnamon buns.
 Suitable for people that don't mind narrow and steep paths, bring good shoes and a raincoat, never trust the Swedish
 weather!
 
-Time: Wednesday 4th of June, 13:00-17:00<br/>
+Time: Wednesday 4th of June, 14:00-18:00<br/>
 Place: Bus pickup and drop-of at Visualization Center C<br/>
 Price: €10, registration required, max 29 participants
 
@@ -108,7 +108,7 @@ Tackle bugs, write documentation, or help with translations, there is something 
 
 See more information and register (not required but helps us ensure that there's enough food and t-shirts) on [GitHub](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping).
 
-Time: Wednesday-Friday 4-7th of June, 08:30-17:00<br/>
+Time: Wednesday-Friday 4-6th of June, 08:30-17:00<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, open to everyone
 
