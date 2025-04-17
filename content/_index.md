@@ -24,46 +24,7 @@ This year, the conference is being held on **2-3 June 2025** in **Norrköping, S
 
 Right after the conference, the [**28th QGIS Contributor Meeting**](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping) will be right next door on **4-6 June**. Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.
 
-The program has now been published, see the details at schedule page [Schedule](/schedule/).
-
-
-{{< columns-start >}}
-{{< column-start>}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
-### Call for Papers
-
-The call for papers has ended, and we're currently reviewing the submissions. We will contact
-the accepted proposals soon.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-{{< column-start>}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6" >}}
-### Tickets
-
-[Get your ticket](/tickets)
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
-{{< column-start>}}
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
-### Call for Sponsors
-[Learn more about becoming a sponsor](/sponsors)
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-{{< columns-end >}}
+The program has now been published, see the details on the [schedule](/schedule/).
 
 ## Organizers & Sponsors
 {{< sponsors-simple >}}
