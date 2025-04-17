@@ -48,6 +48,24 @@ Price: Free, no registration required, everyone welcome
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
 opportunities.
 
+### Dome
+
+The Dome is an immersive projection dome capable of showing both 3D and 2D content. It was the first of its kind in the
+entire world. During the conference we'll have two sessions in the Dome, free for all conference participants.
+
+### Visual City
+
+Our venue is the home to the [Visual City](https://visualiseringscenter.se/en/exploranation/visual-city/), a three-dimensional
+physical model of Norrköping. Using the Visual City various data sets can be visualized, but not only that: During the conference
+you will have the opportunity to see your own visualization come to life on the model!
+
+The model is available for exploration during the entire conference, with two guided sessions.
+
+We invite you to contribute your own QGIS-made maps to the interactive 3D-printed city model, an installation that blends
+geodata, projection mapping, and Unreal Engine. This unique platform offers visitors a tangible way to explore urban planning,
+data layers, and spatial narratives. Additionally, the best visualization will be awarded a prize at the closing session. More
+information is sent out to all participants.
+
 ## Social Dinner
 
 After the first day of the conference all conference guests are invited to a social dinner. The dinner is included in the
