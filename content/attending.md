@@ -54,7 +54,9 @@ A **"conference office"** where you sit and work as well as where you can get he
 
 The **Contributor Meeting** will be held in the student pub **Färgeriet**, which is accessed from Skvallertorget.
 
-![](/venue_map.png)
+![](/venue_map_main_conference.png)
+
+![](/venue_map_additional_days.png)
 
 ## Visas
 
