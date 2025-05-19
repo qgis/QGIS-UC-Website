@@ -151,7 +151,6 @@ sectionPagesMenu = 'main'
   url = "/schedule/"
   weight = 30
 
-
 [[menu.main]]
   name = "Activities"
   url = "/activities/"
@@ -171,7 +170,11 @@ sectionPagesMenu = 'main'
   name = "Tickets"
   url = "/tickets/"
   weight = 60
-  
+
+[[menu.main]]
+  name = "Visual City"
+  url = "/visual-city/"
+  weight = 70
 
 [[menu.qgis_org]]
   name = "Project"
