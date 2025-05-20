@@ -33,9 +33,9 @@ at the closing session.
 This is your chance to display your own work of Norrköping, connect with other QGIS users, and explore a truly
 next-level way to visualize cities.
 
-Base datasets are available [here](https://nextcloud.liu.se/s/x8cRT3RC5QFZKzp). Your map should be prepared as either a
+Base datasets are available [here](https://gunet-my.sharepoint.com/:f:/g/personal/fredrikl_gvc_gu_se/EiB2FSEm9SpHjpFzxcHuNZABSExVAym22FP7qottQELtxg?e=u0lI99). Your map should be prepared as either a
 GeoPackage (.gpkg) or GeoTIFF (.tif) in SWEREF99 16 30 (EPSG:3010). The extent should not be beyond the data extent
-found in the base datasets. Deadline for submissions is **May 28th**.
+found in the base datasets. Please send your map to uc2025@qgis.se, the deadline for submissions is **May 28th**.
 
 # Demonstration Session
 
