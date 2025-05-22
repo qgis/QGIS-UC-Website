@@ -58,6 +58,8 @@ The **Contributor Meeting** will be held in the student pub **Färgeriet**, whic
 
 ![](/venue_map_additional_days.png)
 
+![](/venue_map_social_activities.png)
+
 ## Visas
 
 Sweden is part of the Schengen Area. Check out the pages of the

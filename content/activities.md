@@ -25,22 +25,26 @@ We reserve the right to cancel any of the social activities if there are too few
 
 ## Social Activity: Guided City Tour
 
-Arriving early? Join us for a Guided City Tour, a city guide will give you an introduction to the city of Norrköping,
-some prominent buildings along with a bit of history.
+City Planning Strategist Per Haupt from Norrköping Civil Office will will give you an introduction to the city of Norrköping, some prominent buildings along with a bit of history.
 
-Time: Sunday 1th of June, 19:00-20:00<br/>
-Place: TBA<br/>
+Date: Sunday 1th of June<br/>
+Time (registered participants with surnames starting with A-K): 19:00-19:50<br/>
+Time (registered participants with surnames starting with L-Ö): 20:00-20:50<br/>
+Start: Gamla Torget (Old Square, by the Concert Hall, address: Gamla Torget)<br/>
+End: At the Warm-up Pub (Harrys, address: Holmbrogränden 1)<br/>
 Price: Free, but registration required, max 100 participants
+
+Please be at the starting location at least 5 minutes before the start of the tour.
 
 ## Sunday Warm-up & Early Registration
 
 Next invite you to a warm-up event on Sunday evening, where you can meet other participants and the organisers, and
-have a wine, beer or non-alcoholic drink (at your own expense). The whole place will be reserved for us and some snacks
-will be provided by the conference. We will have a registration desk there as well, in case you would like to avoid
-queuing for registration on Monday morning.
+have a wine, beer or non-alcoholic drink (at your own expense).
 
-Time: Sunday 1th of June, 20:00-22:00<br/>
-Place: TBA<br/>
+We will have a registration desk there as well, in case you would like to avoid queuing for registration on Monday morning.
+
+Time: Sunday 1th of June, 18:00-22:00<br/>
+Place: Harrys, Holmbogränden 1<br/>
 Price: Free, no registration required, everyone welcome
 
 ## Main Conference
@@ -89,13 +93,13 @@ Price: €20, registration required, max 60 participants
 
 ## Social Activity: Meet the Tigers
 
-Want a change of scenery after the conference? Join us for a visit to the zoo of Kolmården, where you will be given the
-unique opportunity to meet the tigers. A bus ride takes you to the zoo where a guide will meet you and bring you in close
-contact with the animals. There will be time for coffee and questions afterward.
+A bus ride takes you to the zoo. You will attend the Tiger viewing, ride the Safari Cabin Lift and hang around for a coffee with the monkeys!
 
-Time: Wednesday 4th of June, 14:00-17:00<br/>
-Place: Bus pickup and drop-of at Visualization Center C<br/>
+Time: Wednesday 4th of June, 14:00-18:00<br/>
+Place: Bus pickup and drop-of at Kvarngatan 38, close to the conference venue<br/>
 Price: €20, registration required, max 15 participants
+
+Please be at the bus pickup at least 5 minutes before departure (14:00).
 
 ## Social Activity: Forest Hiking and Swedish "Fika" with a View
 
@@ -107,7 +111,7 @@ Suitable for people that don't mind narrow and steep paths, bring good shoes and
 weather!
 
 Time: Wednesday 4th of June, 14:00-18:00<br/>
-Place: Bus pickup and drop-of at Visualization Center C<br/>
+Place: Bus pickup and drop-of at Kvarngatan 38, close to the conference venue<br/>
 Price: €10, registration required, max 29 participants
 
 ## Onboarding Day

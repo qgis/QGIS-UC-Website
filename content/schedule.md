@@ -83,7 +83,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 <tbody>
 <tr style="height: 23px;">
 <td style="background-color: gray; color: white; height: 23px; width: 42px;">&nbsp;</td>
-<th style="background-color: gray; color: white; text-align: center; height: 23px; width: 157px;">Sunday 1/6</th>
+<th style="background-color: gray; color: white; text-align: center; height: 23px; width: 157px;" colspan="2">Sunday 1/6</th>
 <th style="background-color: gray; color: white; text-align: center; height: 23px; width: 112px;">Monday 2/6</th>
 <th style="background-color: gray; color: white; text-align: center; height: 23px; width: 110px;">Tuesday 3/6</th>
 <th style="background-color: gray; color: white; text-align: center; height: 23px; width: 307px;" colspan="3">Wednesday 4/6</th>
@@ -91,9 +91,19 @@ While the overall outline is set, we might still make some minor adjustments whe
 <th style="background-color: gray; color: white; text-align: center; height: 23px; width: 113px;">Friday 6/6</th>
 </tr>
 <tr style="height: 11px;">
+<td style="width: 42px;">08:00</td>
+<td style="height: 11px; width: 157px;" colspan="2">&nbsp;</td>
+<td style="background-color: orange; text-align: center; height: 11px; width: 112px;" rowspan="2">Registration</td>
+<td style="text-align: center; height: 11px; width: 110px;">&nbsp;</td>
+<td style="height: 11px; text-align: center; width: 68px;">&nbsp;</td>
+<td style="text-align: center; height: 11px; width: 110px;">&nbsp;</td>
+<td style="height: 11px; text-align: center; width: 68px;">&nbsp;</td>
+<td style="text-align: center; height: 11px; width: 110px;">&nbsp;</td>
+<td style="height: 11px; text-align: center; width: 68px;">&nbsp;</td>
+</tr>
+<tr style="height: 11px;">
 <td style="height: 11px; width: 42px;">08:30</td>
-<td style="height: 11px; width: 157px;">&nbsp;</td>
-<td style="background-color: orange; text-align: center; height: 11px; width: 112px;">Registration</td>
+<td style="height: 11px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="text-align: center; height: 11px; width: 110px;">&nbsp;</td>
 <td style="height: 11px; text-align: center; width: 68px;">&nbsp;</td>
 <td style="height: 11px; text-align: center; width: 126.984px;">&nbsp;</td>
@@ -103,7 +113,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 25px;">
 <td style="height: 25px; width: 42px;">09:00</td>
-<td style="height: 25px; width: 157px;">&nbsp;</td>
+<td style="height: 25px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightblue; text-align: center; height: 48px; width: 112px;" rowspan="2">Opening Session</td>
 <td style="background-color: lightgreen; height: 71px; text-align: center; width: 110px;" rowspan="3">Talks &amp; Workshops</td>
 <td style="background-color: lightgreen; height: 105px; text-align: center; width: 68px;" rowspan="6">QField Day*</td>
@@ -112,32 +122,32 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">09:30</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">10:00</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightpink; text-align: center; height: 23px; width: 112px;">Coffee Break</td>
 </tr>
 <tr style="height: 9px;">
 <td style="height: 9px; width: 42px;">10:30</td>
-<td style="height: 9px; width: 157px;">&nbsp;</td>
+<td style="height: 9px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightblue; text-align: center; height: 19px; width: 112px;" rowspan="2">Opening Session</td>
 <td style="background-color: lightpink; height: 9px; text-align: center; width: 110px;">Coffee Break</td>
 </tr>
 <tr style="height: 10px;">
 <td style="height: 10px; width: 42px;">11:00</td>
-<td style="height: 10px; width: 157px;">&nbsp;</td>
+<td style="height: 10px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightgreen; height: 25px; text-align: center; width: 110px;" rowspan="2">Talks &amp; Workshops</td>
 </tr>
 <tr style="height: 15px;">
 <td style="height: 15px; width: 42px;">11:30</td>
-<td style="height: 15px; width: 157px;">&nbsp;</td>
+<td style="height: 15px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightpink; text-align: center; height: 41px; width: 112px;" rowspan="3">Lunch</td>
 </tr>
 <tr style="height: 3px;">
 <td style="height: 3px; width: 42px;">12:00</td>
-<td style="height: 3px; width: 157px;">&nbsp;</td>
+<td style="height: 3px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="height: 48.5px; background-color: lightpink; text-align: center; width: 110px;" rowspan="3">Lunch</td>
 <td style="background-color: lightpink; text-align: center; height: 26px; width: 68px;" rowspan="2">Lunch</td>
 <td style="background-color: lightpink; height: 26px; width: 113px;" rowspan="2">Lunch</td>
@@ -145,24 +155,24 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">12:30</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 </tr>
 <tr style="height: 22.5px;">
 <td style="height: 22.5px; width: 42px;">13:00</td>
-<td style="height: 22.5px; width: 157px;">&nbsp;</td>
+<td style="height: 22.5px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightgreen; text-align: center; height: 88.5px; width: 112px;" rowspan="4">Talks &amp; Workshops</td>
 <td style="width: 68px; height: 22.5px; text-align: center;">&nbsp;</td>
 <td style="background-color: lightpink; height: 44.5px; width: 239px; text-align: center;" colspan="2" rowspan="2">Lunch</td>
 </tr>
 <tr style="height: 22px;">
 <td style="height: 22px; width: 42px;">13:30</td>
-<td style="height: 22px; width: 157px;">&nbsp;</td>
+<td style="height: 22px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightgreen; text-align: center; width: 110px; height: 66px;" rowspan="3">Talks &amp; Workshops</td>
 <td style="width: 68px; height: 22px; text-align: center;">&nbsp;</td>
 </tr>
 <tr style="height: 22px;">
 <td style="height: 22px; width: 42px;">14:00</td>
-<td style="height: 22px; width: 157px;">&nbsp;</td>
+<td style="height: 22px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="width: 68px; height: 22px; text-align: center;">&nbsp;</td>
 <td style="background-color: lavender; text-align: center; height: 203px; width: 126.984px;" rowspan="9"><a style="color: inherit;" href="/activities/">Social Activities</a>*</td>
 <td style="background-color: lightsteelblue; text-align: center; height: 203px; width: 112.016px;" rowspan="9"><a style="color: inherit;" href="https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping">Onboarding<br /><br /> Contributor Meeting</a></td>
@@ -171,49 +181,51 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 22px;">
 <td style="height: 22px; width: 42px;">14:30</td>
-<td style="height: 22px; width: 157px;">&nbsp;</td>
+<td style="height: 22px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="width: 68px; height: 22px; text-align: center;">&nbsp;</td>
 </tr>
 <tr style="height: 22px;">
 <td style="height: 22px; width: 42px;">15:00</td>
-<td style="height: 22px; width: 157px;">&nbsp;</td>
+<td style="height: 22px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightpink; height: 22px; text-align: center; width: 112px;">Coffee Break</td>
 <td style="background-color: lightpink; height: 22px; text-align: center; width: 110px;">Coffee Break</td>
 <td style="width: 68px; height: 22px; text-align: center;">&nbsp;</td>
 </tr>
 <tr style="height: 22px;">
 <td style="height: 22px; width: 42px;">15:30</td>
-<td style="height: 22px; width: 157px;">&nbsp;</td>
+<td style="height: 22px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="background-color: lightgreen; height: 68px; text-align: center; width: 112px;" rowspan="3">Talks &amp; Workshops</td>
 <td style="height: 68px; background-color: lightblue; text-align: center; width: 110px;" rowspan="3">Closing Session</td>
 <td style="width: 68px; height: 22px; text-align: center;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">16:00</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">16:30</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">17:00</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="height: 23px; width: 112px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">17:30</td>
-<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="height: 23px; width: 157px;" colspan="2">&nbsp;</td>
 <td style="height: 23px; width: 112px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">18:00</td>
+<td style="height: 23px; width: 157px;">&nbsp;</td>
+<td style="background-color: lemonchiffon; text-align: center; height: 138px; width: 157px;" rowspan="8"><a style="color: inherit;" href="/activities/">Warm-up &amp; Early Registration</a></td>
 <td style="height: 23px; width: 157px;">&nbsp;</td>
 <td style="height: 23px; width: 112px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
@@ -234,7 +246,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 <td style="height: 23px; width: 42px;">19:00</td>
 <td style="background-color: lavender; text-align: center; height: 46px; width: 157px;" rowspan="2"><a style="color: inherit;" href="/activities/">Guided City Tour</a>*</td>
 <td style="height: 23px; width: 112px;">&nbsp;</td>
-<td style="height: 23px; width: 110px;">&nbsp;</td>
+<td style="height: 23px; width: 112px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 <td style="height: 23px; width: 126.984px;">&nbsp;</td>
 <td style="height: 23px; width: 112.016px;">&nbsp;</td>
@@ -253,7 +265,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">20:00</td>
-<td style="background-color: lemonchiffon; text-align: center; height: 138px; width: 157px;" rowspan="6"><a style="color: inherit;" href="/activities/">Warm-up &amp; Early Registration</a></td>
+<td style="background-color: lavender; text-align: center; height: 46px; width: 157px;" rowspan="2"><a style="color: inherit;" href="/activities/">Guided City Tour</a>*</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 <td style="height: 23px; width: 126.984px;">&nbsp;</td>
@@ -271,6 +283,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">21:00</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 <td style="height: 23px; width: 126.984px;">&nbsp;</td>
 <td style="height: 23px; width: 112.016px;">&nbsp;</td>
@@ -287,13 +300,17 @@ While the overall outline is set, we might still make some minor adjustments whe
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">22:00</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 126.984px;">&nbsp;</td>
 <td style="height: 23px; width: 112.016px;">&nbsp;</td>
 <td style="height: 23px; width: 113px;">&nbsp;</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">22:30</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
 <td style="height: 23px; width: 126.984px;">&nbsp;</td>
@@ -302,6 +319,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">23:00</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 157px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
@@ -312,6 +330,7 @@ While the overall outline is set, we might still make some minor adjustments whe
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px; width: 42px;">23:30</td>
+<td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 157px;">&nbsp;</td>
 <td style="height: 23px; width: 110px;">&nbsp;</td>
 <td style="height: 23px; width: 68px;">&nbsp;</td>
