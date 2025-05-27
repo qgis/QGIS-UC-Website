@@ -76,7 +76,7 @@ After the first day of the conference all conference guests are invited to a soc
 price of your ticket.
 
 Time: Monday 2th of June, 19:30-late<br/>
-Place: TBA<br/>
+Place: Östgöta kök, Nya Torget, Hospitalsgatan 30<br/>
 Price: Included in the conference ticket
 
 ## Hands-on Workshops
@@ -87,9 +87,25 @@ get your ticket if you want to attend!
 
 The price includes lunch after the workshops.
 
-Time: Wednesday 4th of June, 08:30-12:00 with a coffee break<br/>
-Place: TBA<br/>
+Time: Wednesday 4th of June, 09:00-13:00 with a coffee break<br/>
 Price: €20, registration required, max 60 participants
+
+| Workshop Title                                                               | Location                                   |
+|------------------------------------------------------------------------------|--------------------------------------------|
+| Working with Point Cloud Data in QGIS                                        | Arbetets museum: Alvarummet, Floor 6       |
+| Supercharge your fieldwork with QField plugins                               | Arbetets museum: Lokatten, Floor 4         |
+| With your head among the clouds - an introduction to Cloud Native Geospatial | Visualizationcenter C: Wadström, Floor 5   |
+| Data collection with Mergin Maps and QGIS                                    | Visualizationcenter C: Strömmen, Floor -1  |
+| Hydrological Analysis in QGIS                                                | Visualizationcenter C: Eckerberg, Floor -1 |
+
+Lunch at Restaurant Enoteket
+
+## QField Day
+
+Want to learn more about QField, a mobile app for QGIS? Join us for a half-day of everything QField!
+
+Time: Wednesday 4th of June, 08:30-12:00<br/>
+Place: Arbetets museum, Folksamsalen, Floor 6 (lunch at Restaurant Vy)<br/>
 
 ## Social Activity: Meet the Tigers
 
