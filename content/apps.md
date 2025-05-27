@@ -43,7 +43,7 @@ In order to prevent spam the link to join the group is only sent out the registe
 QField is a mobile app for field data collection and editing, built on QGIS. It allows you to access your QGIS projects
 and data on your mobile device, enabling you to work in the field without needing an internet connection.
 
-QFieldCloud/OPENGIS have graciously provided us with a QField project providing a lot of information about the conference:
+QFieldCloud/OPENGIS.ch have graciously provided us with a QField project providing a lot of information about the conference:
 
 * Fully searchable conference schedule
 * Multifloor rooms selector
@@ -57,6 +57,13 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 <div class="qr-container">
 
+<small>
+
+Note: Requires version QField 3.6, which is currently rolling out. Check your app
+store to make sure you've got the latest version, or install it from [Github](https://github.com/opengisch/QField/releases/tag/v3.6.0)
+
+</small>
+
 ![QField QR Code](/qr-uc2025.png)
 
 </div>
@@ -68,8 +75,17 @@ To get started, install QField on your device and scan the QR code or visit [one
   justify-content: center;
   align-items: center;
 }
-.qr-container img {
-  max-height: 200px;
+@media screen and (max-width: 400px) {
+  .qr-container {
+    flex-direction: column;
+  }
+  .qr-container p:has(img) {
+    padding-bottom: 1rem;
+    order: -1;
+  }
+  .qr-container img {
+    max-height: 200px;
+  }
 }
 </style>
 
