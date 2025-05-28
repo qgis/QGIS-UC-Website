@@ -60,7 +60,7 @@ To get started, install QField on your device and scan the QR code or visit [one
 <small>
 
 Note: Requires version QField 3.6, which is currently rolling out. Check your app
-store to make sure you've got the latest version, or install it from [Github](https://github.com/opengisch/QField/releases/tag/v3.6.0)
+store to make sure you've got the latest version, or install it from [Github](https://github.com/opengisch/QField/releases/latest)
 
 </small>
 
