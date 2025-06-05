@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "2-3 June 2026, Switzerland"
 draft: false
 heroSize: "is-medium"
 heroImage: "/visualization_center.webp"
@@ -10,7 +10,7 @@ additionalLogo: "uc25_logo_re_color.png"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
-ButtonLink: "qgis-uc-2025.ics"
+ButtonLink: "qgis-uc-2026.ics"
 sidebar: true
 ---
 
@@ -21,6 +21,8 @@ sidebar: true
 The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
 
 Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
+
+Next conference is being held on **5-6 June 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **7th October**.
 
 ![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
 

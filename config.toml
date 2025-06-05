@@ -1,5 +1,5 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
-baseURL = 'https://uc2025.qgis.org/'
+baseURL = 'https://uc2026.qgis.org/'
 languageCode = 'en-us'
 title = 'QGIS UC Website'
 theme = 'hugo-bulma-blocks-theme'

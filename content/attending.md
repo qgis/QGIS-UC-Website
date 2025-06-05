@@ -1,10 +1,10 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "2-3 June 2026, Switzerland"
 heroImage: "/visualization_center.webp"
 heroLogo: "/uc25_logo_re_color.png"
-heroMenu: "uc-2025"
+heroMenu: "uc-2026"
 heroIsUserConference: true
 heroSize: "is-halfheight"
 HasBanner: true
@@ -36,7 +36,7 @@ and [Campus Norrköping](https://liu.se/en/article/campus-norrkoping) of [Linkö
 situated in the heart of Norrköping, a city with a rich industrial history and beautiful water displays right outside
 the venues.
 
-The address is **Kungsgatan 54, Norrköping, Sweden**.
+The address is **Kungsgatan 54, Switzerland**.
 
 ![](/visualization_center.webp)
 
@@ -159,13 +159,13 @@ if you want to ensure that you get a room from one of our recommended hotels.
 
 ### Recommended hotels with pre-booked rooms
 
-[Best Western Hotel Princess](https://app.mews.com/distributor/d631711c-51b1-4349-bef6-b18d00d33ddb?mewsAvailabilityBlockId=d36f8bac-7085-4823-8e4a-b26b00fc95ca&mewsStart=2025-06-02&mewsEnd=2025-06-06) (650 m from the venue)
+[Best Western Hotel Princess](https://app.mews.com/distributor/d631711c-51b1-4349-bef6-b18d00d33ddb?mewsAvailabilityBlockId=d36f8bac-7085-4823-8e4a-b26b00fc95ca&mewsStart=2026-06-02&mewsEnd=2026-06-06) (650 m from the venue)
 
-[Elite Grand Hotel](https://www.elite.se/en/?hotel=EL020&checkIn=2025-06-01&checkOut=2025-06-04&guests=1&rooms=1&adults=1&group=QGIS&step=step3packages) (800 m from the venue)
+[Elite Grand Hotel](https://www.elite.se/en/?hotel=EL020&checkIn=2026-06-01&checkOut=2026-06-04&guests=1&rooms=1&adults=1&group=QGIS&step=step3packages) (800 m from the venue)
 
-[Scandic Strömmen](https://www.scandichotels.com/hotelreservation/select-rate?hotel=827&fromDate=2025-06-1&toDate=2025-06-4&room%5b0%5d.adults=1&bookingCode=BQGI010625) (1000 m from the venue, use code BQGI010625)
+[Scandic Strömmen](https://www.scandichotels.com/hotelreservation/select-rate?hotel=827&fromDate=2026-06-1&toDate=2026-06-4&room%5b0%5d.adults=1&bookingCode=BQGI010625) (1000 m from the venue, use code BQGI010625)
 
-[Strawberry Comfort Hotel](https://app.mews.com/distributor/7dd5ff2c-3f22-437f-a0c8-affd01143857?mewsAvailabilityBlockId=288bdb89-6fb2-427a-803b-b26000b2386e&mewsStart=2025-06-01&mewsEnd=2025-06-04) (1400 m from the venue)
+[Strawberry Comfort Hotel](https://app.mews.com/distributor/7dd5ff2c-3f22-437f-a0c8-affd01143857?mewsAvailabilityBlockId=288bdb89-6fb2-427a-803b-b26000b2386e&mewsStart=2026-06-01&mewsEnd=2026-06-04) (1400 m from the venue)
 
 ### Other recommended options
 
