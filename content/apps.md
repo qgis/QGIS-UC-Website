@@ -1,10 +1,10 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "2-3 June 2026, Switzerland"
 heroImage: "/visualization_center.webp"
 heroLogo: "/uc25_logo_re_color.png"
-heroMenu: "uc-2025"
+heroMenu: "uc-2026"
 heroIsUserConference: true
 heroSize: "is-halfheight"
 HasBanner: true
@@ -53,7 +53,7 @@ QFieldCloud/OPENGIS.ch have graciously provided us with a QField project providi
 
 Everything (except real-time data) works entirely offline.
 
-To get started, install QField on your device and scan the QR code or visit [onelink.to/uc-2025](https://onelink.to/uc-2025).
+To get started, install QField on your device and scan the QR code or visit [onelink.to/uc-2026](https://onelink.to/uc-2026).
 
 <div class="qr-container">
 
@@ -64,7 +64,7 @@ store to make sure you've got the latest version, or install it from [Github](ht
 
 </small>
 
-![QField QR Code](/qr-uc2025.png)
+![QField QR Code](/qr-uc2026.png)
 
 </div>
 <style>

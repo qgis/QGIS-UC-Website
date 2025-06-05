@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "2-3 June 2026, Switzerland"
 draft: false
 heroSize: "is-medium"
 heroImage: "/visualization_center.webp"
@@ -10,7 +10,7 @@ additionalLogo: "uc25_logo_re_color.png"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
-ButtonLink: "qgis-uc-2025.ics"
+ButtonLink: "qgis-uc-2026.ics"
 sidebar: true
 ---
 
@@ -20,7 +20,7 @@ sidebar: true
 
 The QGIS User Conference is an annual event that brings together users and developers of the QGIS open-source geographic information system (GIS) software. The conference provides an opportunity for attendees to learn about the latest developments in QGIS, share their experiences with others, and network with other QGIS users and developers. The conference attracts attendees from a broad spectrum of organizations and industries.
 
-This year, the conference is being held on **2-3 June 2025** in **Norrköping, Sweden**. Additionally, an additional workshop day is being planned for the **4th June**.
+This year, the conference is being held on **2-3 June 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **4th June**.
 
 Right after the conference, the [**28th QGIS Contributor Meeting**](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping) will be right next door on **4-6 June**. Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.
 

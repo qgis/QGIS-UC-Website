@@ -15,7 +15,7 @@ body:
     attributes:
       label: URL
       description: URL where this was found
-      placeholder: https://uc2025.qgis.org/
+      placeholder: https://uc2026.qgis.org/
   - type: dropdown
     id: issues
     attributes:

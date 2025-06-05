@@ -1,10 +1,10 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "2-3 June 2026, Switzerland"
 heroImage: "/visualization_center.webp"
 heroLogo: "/uc25_logo_re_color.png"
-heroMenu: "uc-2025"
+heroMenu: "uc-2026"
 heroIsUserConference: true
 heroSize: "is-halfheight"
 HasBanner: true
@@ -40,7 +40,7 @@ document.getElementById("scheduleFullSizeButton").addEventListener("click", () =
 });
 </script>
 
-<script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2025/schedule/widget/v2.en.js"></script>
+<script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2026/schedule/widget/v2.en.js"></script>
 <style>
 p:has(> pretalx-schedule) {
     width: 100%;
@@ -62,12 +62,12 @@ p:has(> pretalx-schedule).full-size {
     left: 200px;
 }
 </style>
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2025/" locale="en" format="grid" style="--pretalx-clr-primary: #589632"></pretalx-schedule>
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #589632"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
             JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc2025/schedule/">click here</a>.
+            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc2026/schedule/">click here</a>.
         </div>
     </div>
 </noscript>
