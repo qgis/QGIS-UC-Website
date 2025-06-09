@@ -16,15 +16,48 @@ sidebar: true
 
 {{< content-start >}}
 
-## Welcome to Sweden!
+## Thank you!
 
-The QGIS User Conference is an annual event that brings together users and developers of the QGIS open-source geographic information system (GIS) software. The conference provides an opportunity for attendees to learn about the latest developments in QGIS, share their experiences with others, and network with other QGIS users and developers. The conference attracts attendees from a broad spectrum of organizations and industries.
+The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
 
-This year, the conference is being held on **2-3 June 2025** in **Norrköping, Sweden**. Additionally, an additional workshop day is being planned for the **4th June**.
+![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
 
-Right after the conference, the [**28th QGIS Contributor Meeting**](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping) will be right next door on **4-6 June**. Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.
 
-The program has now been published, see the details on the [schedule](/schedule/).
+{{< columns-start >}}
+{{< column-start >}}
+
+![](./images/20250602_090059.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250602_210839.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250605_113535.jpg)
+
+{{< column-end >}}
+{{< columns-end >}}
+
+{{< columns-start >}}
+{{< column-start >}}
+
+![](./images/20250605_093323.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250602_125447.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250601_195116.jpg)
+
+{{< column-end >}}
+{{< columns-end >}}
 
 ## Organizers & Sponsors
 {{< sponsors-simple >}}
@@ -57,9 +90,6 @@ the venues.
 {{< column-start>}}
 
 ![](./Domen-scaled.webp)
-
-{{< column-end >}}
-{{< columns-end >}}
 
 {{< column-end >}}
 {{< columns-end >}}
