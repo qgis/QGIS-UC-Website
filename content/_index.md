@@ -20,6 +20,8 @@ sidebar: true
 
 The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
 
+Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
+
 ![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
 
 
