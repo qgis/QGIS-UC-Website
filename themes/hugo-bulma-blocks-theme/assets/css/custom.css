@@ -30,3 +30,7 @@ h6:hover > a.heading-anchor {
   visibility: visible;
 
 }
+
+.content ul {
+    color: #4d6370;
+}

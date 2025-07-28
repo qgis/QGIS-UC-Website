@@ -16,190 +16,53 @@ sidebar: true
 
 {{< content-start >}}
 
-## Welcome to Sweden!
+## Thank you!
 
-The QGIS User Conference is an annual event that brings together users and developers of the QGIS open-source geographic information system (GIS) software. The conference provides an opportunity for attendees to learn about the latest developments in QGIS, share their experiences with others, and network with other QGIS users and developers. The conference attracts attendees from a broad spectrum of organizations and industries.
+The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
 
-This year, the conference is being held on **2-3 June 2025** in **Norrköping, Sweden**. Additionally, an additional workshop day is being planned for the **4th June**.
+Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
 
-Right after the conference, the [**28th QGIS Contributor Meeting**](https://github.com/qgis/QGIS/wiki/28th-Contributor-Meeting-in-Norrk%C3%B6ping) will be right next door on **4-6 June**. Contributor meetings bring together active members of the QGIS project to plan their work, hold face-to-face discussions and brainstorm new ideas.
-
-The program has not yet been set, but you can find some examples of what to expect at the [QGIS User Conference 2024 website](https://uc2024.qgis.sk/).
+![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
 
 
 {{< columns-start >}}
-{{< column-start>}}
+{{< column-start >}}
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
-### Call for Papers
+![](./images/20250602_090059.jpg)
 
-The call for papers has ended, and we're currently reviewing the submissions. We will contact
-the accepted proposals soon.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
 {{< column-end >}}
-{{< column-start>}}
+{{< column-start >}}
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6" >}}
-### Tickets
+![](./images/20250602_210839.jpg)
 
-[Get your ticket](/tickets)
+{{< column-end >}}
+{{< column-start >}}
 
-{{< rich-content-end >}}
-{{< rich-box-end >}}
+![](./images/20250605_113535.jpg)
+
 {{< column-end >}}
 {{< columns-end >}}
 
 {{< columns-start >}}
-{{< column-start>}}
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
-### Call for Sponsors
-[Learn more about becoming a sponsor](/sponsors)
+{{< column-start >}}
 
-{{< rich-content-end >}}
-{{< rich-box-end >}}
+![](./images/20250605_093323.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250602_125447.jpg)
+
+{{< column-end >}}
+{{< column-start >}}
+
+![](./images/20250601_195116.jpg)
+
 {{< column-end >}}
 {{< columns-end >}}
 
 ## Organizers & Sponsors
-
-<style>
-#sponsors a {
-    margin-bottom: 0 !important;
-    width: 100%;
-}
-#sponsors figure {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
-    width: 100%;
-}
-#sponsors .column {
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-#sponsors figure > div {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-#sponsors figure p {
-    width: 100%;
-}
-#sponsors figure img {
-    width: 100%;
-}
-</style>
-
-{{< columns-start id="sponsors" >}}
-{{< column-start class="is-one-quarter" >}}
-
-<a href="https://qgis.se/" style="color:inherit;font-weight:inherit" class="mb-5">
-<figure><div style="width:80%;max-width:200px;">
-
-![QGIS Sverige](/sponsors/qgis_sverige_logotyp.png)
-
-</div>
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-quarter" >}}
-
-<a href="https://qgis.org/" style="color:inherit;font-weight:inherit" class="mb-5">
-<figure><div style="max-width:200px;">
-
-![QGIS.org](/sponsors/qgis-logo.svg)
-
-</div>
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-quarter" >}}
-
-<a href="https://www.sweco.se/" style="color:inherit;font-weight:inherit" class="mb-5">
-<figure><div style="max-width:200px">
-
-![Sweco](/sponsors/sweco_black.svg)
-
-</div>
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-quarter" >}}
-
-<a href="https://www.smhi.se/en/" style="color:inherit;font-weight:inherit">
-<figure><div style="width:70%">
-
-![SMHI](/sponsors/SMHI_Logo.svg)
-
-</div>
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-half" >}}
-
-<a href="https://qfield.cloud/">
-<figure><div>
-
-![QFieldCloud](/sponsors/Logo_QFieldCloud-by-OPENGIS.svg)
-
-</div></figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://gispo.fi/">
-<figure>
-
-![Gispo](/sponsors/Gispo_nimilogo.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://midvatten.se/">
-<figure>
-
-![Midvatten](/sponsors/midvatten_ps.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-third" >}}
-
-<a href="https://merginmaps.com/">
-<figure>
-
-![Mergin Maps](/sponsors/MM_logo_HORIZ_COLOR_TRANSPARENT.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< column-start class="is-one-quarter" >}}
-
-<a href="https://north-road.com/">
-<figure>
-
-![North-Road](/sponsors/nr_logo_bgw_color_bg_w.png)
-
-</figure>
-</a>
-
-{{< column-end >}}
-{{< columns-end >}}
+{{< sponsors-simple >}}
 
 ## Venue
 
@@ -229,9 +92,6 @@ the venues.
 {{< column-start>}}
 
 ![](./Domen-scaled.webp)
-
-{{< column-end >}}
-{{< columns-end >}}
 
 {{< column-end >}}
 {{< columns-end >}}

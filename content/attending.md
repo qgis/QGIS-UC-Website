@@ -54,7 +54,11 @@ A **"conference office"** where you sit and work as well as where you can get he
 
 The **Contributor Meeting** will be held in the student pub **Färgeriet**, which is accessed from Skvallertorget.
 
-![](/venue_map.png)
+![](/venue_map_main_conference.png)
+
+![](/venue_map_additional_days.png)
+
+![](/venue_map_social_activities.png)
 
 ## Visas
 
@@ -97,11 +101,23 @@ to Norrköping, book in advance at [SJ](https://sj.se/). The travel time is abou
 you can take a buss using [Flygbussarna](https://www.flygbussarna.se/en) to Norrköping. Buses usually leave timed based
 on arriving airplanes. The travel time is about 1 hour.
 
-### By train/buss
+{{< rich-box-start layoutClass="has-right" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
+### By train
 
 Norrköping is well-connected to other Swedish and Scandinavian cities by train and bus. There are daily trains from
 Copenhagen (about 4.5 h). Additionally, there are night trains from Berlin (about 14 h) that stop in Norrköping. If coming
-from Oslo you will have to change once (about 6 h in total). Tickets and information can be found at [SJ](https://sj.se/).
+from Oslo you will have to change once (about 6 h in total). Tickets and information for Swedish national trains can be found at [SJ](https://sj.se/).
+
+(click on the image to expand)
+
+{{< rich-content-end >}}
+{{< rich-right-start >}}
+[![Railroads to Norrköping](/railroads_to_norrkoping.png)](/railroads_to_norrkoping.png)
+{{< rich-right-end >}}
+{{< rich-box-end >}}
+
+### By buss
 
 If you prefer bus there are long distance buses from Berlin and Copenhagen with stops in Norrköping, as well as long
 distance buses between many Swedish cities. Tickets and information can be found at [Flixbus](https://flixbus.se/)
