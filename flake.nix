@@ -31,8 +31,9 @@
           pkgs = nixpkgsFor.${system};
 
         in
-        {
+        rec {
           website = pkgs.callPackage ./nix/package.nix { };
+          default = website;
         });
 
 
@@ -56,11 +57,12 @@
           };
 
         in
-        {
-          default = {
+        rec {
+          website = {
             type = "app";
             program = "${wwwLauncher}/bin/website";
           };
+          default = website;
         });
 
 
