@@ -176,10 +176,6 @@ sectionPagesMenu = 'main'
   url = "/apps/"
   weight = 70
 
-[[menu.main]]
-  name = "Visual City"
-  url = "/visual-city/"
-  weight = 80
 
 [[menu.qgis_org]]
   name = "Project"
