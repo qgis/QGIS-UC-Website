@@ -4,7 +4,7 @@ title: "QGIS User Conference 2026"
 subtitle: "5-6 October 2026, Switzerland"
 draft: false
 heroSize: "is-medium"
-heroImage: "/visualization_center.webp"
+heroImage: "/view.jpg"
 heroLogo: "/uc25_logo_re_color.png"
 additionalLogo: "uc25_logo_re_color.png"
 HasBanner: true
@@ -70,7 +70,7 @@ Next conference is being held on **5-6 October 2026** in **Switzerland**. Additi
 
 <div class="rounded">
 
-![Visualization Center C](./visualization_center.webp)
+![Visualization Center C](./img/view.jpg)
 
 </div>
 
