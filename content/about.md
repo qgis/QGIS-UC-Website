@@ -34,7 +34,7 @@ The program has now been published, see the details at schedule page [Schedule](
 
 ## Workshop & Onboarding Day
 
-For those who want to dig even deeper we are planning an additional workshop day on the 4th June. During this day you
+For those who want to dig even deeper we are planning an additional workshop day on the 7th October. During this day you
 will be able to attend longer workshops and get more hands-on experience with QGIS and the community.
 
 Additionally, this day will have "onboarding sessions" for those who want to become an active participant in the QGIS
@@ -46,7 +46,7 @@ Note that the Workshops and Social Activities require registration. See [activit
 
 ## Contributor Meeting
 
-Right after the conference, QGIS Contributor Meeting will take place on 4-6 June at a next door venue. This event
+Right after the conference, QGIS Contributor Meeting will take place on 7-9 October at a next door venue. This event
 is for those who contribute to the development of QGIS. It’s free to join but you are expected to make yourself useful
 on improving the QGIS application, documentation or website or do anything else QGIS will benefit from.
 
