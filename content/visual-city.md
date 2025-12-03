@@ -2,7 +2,7 @@
 type: "page"
 title: "Visual City Participant Exhibition"
 subtitle: "Bring Your Map to Life on the 3D-print"
-heroImage: "/visualization_center.webp"
+heroImage: "/img/view.jpg"
 heroLogo: "/uc25_logo_re_color.png"
 heroMenu: "uc-2026"
 heroIsUserConference: true
