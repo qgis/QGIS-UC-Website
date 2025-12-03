@@ -22,7 +22,7 @@ The QGIS User Conference 2025 has ended. We would like to thank all the particip
 
 Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
 
-Next conference is being held on **5-6 June 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **7th October**.
+Next conference is being held on **5-6 October 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **7th October**.
 
 ![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
 

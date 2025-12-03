@@ -74,7 +74,7 @@ The conference starts on Monday morning (8:30), and finishes Tuesday late aftern
 see the [schedule](/schedule).
 
 There is an option to stay an additional day and attend some longer workshops on the **Workshop & Onboarding Day** on
-the 4th of June, which is also the first day of the Contributor Meeting.
+the 7th of October, which is also the first day of the Contributor Meeting.
 
 ## Code of Conduct
 
