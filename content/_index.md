@@ -16,52 +16,8 @@ sidebar: true
 
 {{< content-start >}}
 
-## Thank you!
-
-The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
-
-Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
 
 Next conference is being held on **5-6 October 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **7th October**.
-
-![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
-
-
-{{< columns-start >}}
-{{< column-start >}}
-
-![](./images/20250602_090059.jpg)
-
-{{< column-end >}}
-{{< column-start >}}
-
-![](./images/20250602_210839.jpg)
-
-{{< column-end >}}
-{{< column-start >}}
-
-![](./images/20250605_113535.jpg)
-
-{{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
-{{< column-start >}}
-
-![](./images/20250605_093323.jpg)
-
-{{< column-end >}}
-{{< column-start >}}
-
-![](./images/20250602_125447.jpg)
-
-{{< column-end >}}
-{{< column-start >}}
-
-![](./images/20250601_195116.jpg)
-
-{{< column-end >}}
-{{< columns-end >}}
 
 ## Organizers & Sponsors
 {{< sponsors-simple >}}
@@ -70,7 +26,7 @@ Next conference is being held on **5-6 October 2026** in **Switzerland**. Additi
 
 <div class="rounded">
 
-![Visualization Center C](./img/view.jpg)
+![Visualization Center C](./view.jpg)
 
 </div>
 
