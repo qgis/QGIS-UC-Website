@@ -1,10 +1,10 @@
 ---
 type: "page"
 title: "QGIS User Conference 2026"
-subtitle: "5-6 October 2026, Switzerland"
+subtitle: "5-6 October 2026, LAAX, Switzerland"
 draft: false
 heroSize: "is-medium"
-heroImage: "/view.jpg"
+heroImage: "/hero.webp"
 heroLogo: "/logo.webp"
 additionalLogo: "logo.webp"
 HasBanner: true
@@ -26,7 +26,7 @@ Next conference is being held on **5-6 October 2026** in **Switzerland**. Additi
 
 <div class="rounded">
 
-![Visualization Center C](./view.jpg)
+![Visualization Center C](./hero.webp)
 
 </div>
 

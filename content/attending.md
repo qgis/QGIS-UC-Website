@@ -2,7 +2,7 @@
 type: "page"
 title: "QGIS User Conference 2026"
 subtitle: "5-6 October 2026, Switzerland"
-heroImage: "/view.jpg"
+heroImage: "/hero.webp"
 heroLogo: "/logo.webp"
 heroMenu: "uc-2026"
 heroIsUserConference: true
@@ -38,7 +38,7 @@ the venues.
 
 The address is **Kungsgatan 54, Switzerland**.
 
-![](/view.jpg)
+![](/hero.webp)
 
 ![](/city_and_venue_map.png)
 

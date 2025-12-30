@@ -2,7 +2,7 @@
 type: "page"
 title: "QGIS User Conference 2026"
 subtitle: "5-6 October 2026, Switzerland"
-heroImage: "/view.jpg"
+heroImage: "/hero.webp"
 heroLogo: "/logo.webp"
 heroMenu: "uc-2026"
 heroIsUserConference: true
