@@ -23,7 +23,7 @@ $RECYCLE.BIN/
 .kateproject
 .kateproject.local
 .swp
-
+.vscode/settings.local.json
 # Ignore all the scraped data
 scraped-data
 
