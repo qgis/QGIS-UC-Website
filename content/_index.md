@@ -5,8 +5,8 @@ subtitle: "5-6 October 2026, Switzerland"
 draft: false
 heroSize: "is-medium"
 heroImage: "/view.jpg"
-heroLogo: "/uc25_logo_re_color.png"
-additionalLogo: "uc25_logo_re_color.png"
+heroLogo: "/logo.webp"
+additionalLogo: "logo.webp"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
