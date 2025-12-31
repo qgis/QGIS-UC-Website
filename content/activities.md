@@ -23,16 +23,22 @@ See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
 
+## Sunday Outdoor Day
+
+Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
+
+Time: Sunday 4th of October, times TBA<br/>
+Place: TBD<br/>
+Price: TBD, registration required
 
 ## Sunday Warm-up & Early Registration
 
-Next invite you to a warm-up event on Sunday evening, where you can meet other participants and the organisers, and
-have a wine, beer or non-alcoholic drink (at your own expense).
+Warm-up event on Sunday evening, where you can meet other participants and the organisers, and have a wine, beer or non-alcoholic drink (at your own expense).
 
 We will have a registration desk there as well, in case you would like to avoid queuing for registration on Monday morning.
 
 Time: Sunday 4th of October, 18:00-22:00<br/>
-Place: 
+Place: Laax Murschetg, Bar TBD
 Price: Free, no registration required, everyone welcome
 
 ## Main Conference
@@ -42,11 +48,10 @@ opportunities.
 
 ## Social Dinner
 
-After the first day of the conference all conference guests are invited to a social dinner. The dinner is included in the
-price of your ticket.
+Join us for a social dinner on Monday night directly after the conference. The dinner is included in the price of your ticket.
 
-Time: Monday 5th of October, 19:30-late<br/>
-Place: <br/>
+Time: Monday 5th of October, 18:00 (easy start)<br/>
+Place: Galaaxy Mainstation<br/>
 Price: Included in the conference ticket
 
 ## Hands-on Workshops
@@ -57,24 +62,19 @@ get your ticket if you want to attend!
 
 The price includes lunch after the workshops.
 
-Time: Wednesday 6th of October, 09:00-13:00 with a coffee break<br/>
-Price: €20, registration required, max 60 participants
+Time: Wednesday 6th of October, TBD with a coffee break<br/>
+Price: TBD, registration required
 
-| Workshop Title                                                               | Location                                   |
-|------------------------------------------------------------------------------|--------------------------------------------|
-| Supercharge your fieldwork with QField plugins                               | Arbetets museum: Lokatten, Floor 4         |
-
-Lunch at Restaurant Enoteket
 
 ## QField Day
 
-Want to learn more about QField, a mobile app for QGIS? Join us for a half-day of everything QField!
+Want to learn more about QField, the mobile app for QGIS, in the town where it was born? Join us for a full-day QField experience combining indoor sessions with hands-on exploration in the field.
 
-Time: Wednesday 6th of October, 08:30-12:00<br/>
-Place: Arbetets museum, Folksamsalen, Floor 6 (lunch at Restaurant Vy)<br/>
+After a short indoor introduction and demo session, we will head outdoors for a guided hike, using QField along the way to explore the surrounding landscape, discover the region, and work through real-world field mapping workflows together.
 
-## Social Activity: Hike
-We'll go hike
+Time: Wednesday 6th of October, 09:00–17:00<br/>
+Place: Laax Murschetg
+
 
 ## Onboarding Day
 
