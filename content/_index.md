@@ -17,7 +17,8 @@ sidebar: true
 {{< content-start >}}
 
 
-Next conference is being held on **5-6 October 2026** in **Switzerland**. Additionally, an additional workshop day is being planned for the **7th October**.
+The next conference will take place on **5–6 October 2026** in **LAAX, Switzerland**.
+In addition, a **workshop day** is planned for the 7th October, along with an **informal active outdoor pre-event day** on the 4th October.
 
 ## Organizers & Sponsors
 {{< sponsors-simple >}}
@@ -26,30 +27,33 @@ Next conference is being held on **5-6 October 2026** in **Switzerland**. Additi
 
 <div class="rounded">
 
-![Visualization Center C](./hero.webp)
+![Venue](./venue.webp)
 
 </div>
 
-The event will be held at the [Visualization Center C](https://www.visualiseringscenter.se/en/), [Cnema](https://cnema.se/)
-and [Campus Norrköping](https://liu.se/en/article/campus-norrkoping) of [Linköping University](https://liu.se/en). These are
-situated in the heart of Norrköping, a city with a rich industrial history and beautiful water displays right outside
-the venues.
+The event will be held at [**LAAX Galaaxy**](https://www.galaaxylaax.com/) on **Crap Sogn Gion**, at **2,222 m above sea level**, in the heart of the Swiss Alps.
+The event will be held at LAAX Galaaxy
+ on Crap Sogn Gion, at 2,222 m above sea level, in the heart of the Swiss Alps
+
+Set right next to the [**Tectonic Arena Sardona**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) UNESCO World Heritage Site, the venue offers breathtaking panoramic views over the surrounding mountain landscape of the Surselva valley, one of the few [Romansh-speaking](https://en.wikipedia.org/wiki/Sursilvan) regions in Switzerland.
+
+Beyond the conference, the region is a true [outdoor playground](https://www.flimslaax.com/en/outdoor-activities/). Participants can enjoy **mountain biking** and **hiking** and **paragliding** flights directly from the venue, and refreshing breaks at [**Caumasee**](https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma), one of Switzerland’s most iconic mountain lakes. Nearby, the [**Rhine Gorge**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge), often called the Swiss Grand Canyon, adds another spectacular highlight with its dramatic cliffs and turquoise waters.
 
 
 {{< columns-start >}}
 {{< column-start>}}
 
-![](./globe_c.png)
+![](./venue_1.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](./visualcity_ostlanken-2000x1500.webp)
+![](./venue_2.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](./Domen-scaled.webp)
+![](./venue_3.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
