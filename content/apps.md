@@ -64,7 +64,7 @@ store to make sure you've got the latest version, or install it from [Github](ht
 
 </small>
 
-![QField QR Code](/qr-uc2026.png)
+![QField QR Code](/qr-uc-app.png)
 
 </div>
 <style>
