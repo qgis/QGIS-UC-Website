@@ -54,6 +54,6 @@ on improving the QGIS application, documentation or website or do anything else 
 
 ## Local Committee
 
-The event is organized by the [Swedish QGIS user group](https://qgis.ch/) with support from the [QGIS project](https://qgis.org/).
+The event is organized by [OPENGIS.ch](https://opengis.ch), the [Swiss QGIS user group](https://qgis.ch/) with support from the [QGIS project](https://qgis.org/).
 
 {{< content-end >}}
