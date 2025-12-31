@@ -23,7 +23,9 @@ See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
 
-## Sunday Outdoor Day
+## Sunday
+
+### Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
@@ -31,7 +33,7 @@ Time: Sunday 4th of October, times TBA<br/>
 Place: TBD<br/>
 Price: TBD, registration required
 
-## Sunday Warm-up & Early Registration
+### Warm-up & Early Registration
 
 Warm-up event on Sunday evening, where you can meet other participants and the organisers, and have a wine, beer or non-alcoholic drink (at your own expense).
 
@@ -41,12 +43,14 @@ Time: Sunday 4th of October, 18:00-22:00<br/>
 Place: Laax Murschetg, Bar TBD
 Price: Free, no registration required, everyone welcome
 
-## Main Conference
+## Monday
+
+### Main Conference
 
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
 opportunities.
 
-## Social Dinner
+### Social Dinner
 
 Join us for a social dinner on Monday night directly after the conference. The dinner is included in the price of your ticket.
 
@@ -54,7 +58,17 @@ Time: Monday 5th of October, 18:00 (easy start)<br/>
 Place: Galaaxy Mainstation<br/>
 Price: Included in the conference ticket
 
-## Hands-on Workshops
+
+## Tuesday
+### Main Conference
+
+The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
+opportunities.
+
+
+## Wednesday
+
+### Hands-on Workshops
 
 While there will be workshops during the main conference, we additionally want to offer you the opportunity to attend
 some half-day long workshops. Topics will be announced later, however the number of spots is limited so make sure to
@@ -66,7 +80,7 @@ Time: Wednesday 6th of October, TBD with a coffee break<br/>
 Price: TBD, registration required
 
 
-## QField Day
+### QField Day
 
 Want to learn more about QField, the mobile app for QGIS, in the town where it was born? Join us for a full-day QField experience combining indoor sessions with hands-on exploration in the field.
 
@@ -75,8 +89,7 @@ After a short indoor introduction and demo session, we will head outdoors for a 
 Time: Wednesday 6th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
 
-
-## Onboarding Day
+### Onboarding Day
 
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
 to the project, or those who want to get more involved. Topics will be announced later.
@@ -85,7 +98,7 @@ Time: Wednesday 6th of October, times TBA<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, no registration required
 
-## Contributor Meeting
+### Contributor Meeting (until Friday)
 
 The Contributor Meeting will be held on Wednesday through Friday, and is open to anyone who wants to contribute to QGIS.
 Tackle bugs, write documentation, or help with translations, there is something for everyone!
