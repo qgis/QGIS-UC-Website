@@ -74,7 +74,7 @@ p:has(> pretalx-schedule).full-size {
 
 ## Overview
 
-You can find more information about the various activities [here](/activities/). Note that slots marked with **\*** require registration and have a limited number of slots.
+You can find more information about the various activities [here](/activities/). Note that all events require registration and have a limited number of slots.
 
 While the overall outline is set, we might still make some minor adjustments when we finalize the schedule.
 
