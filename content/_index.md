@@ -6,7 +6,7 @@ draft: false
 heroSize: "is-medium"
 heroImage: "/hero.webp"
 heroLogo: "/logo-white.webp"
-additionalLogo: "logo.webp"
+additionalLogo: "logo-white.webp"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
@@ -39,7 +39,7 @@ Set right next to the [**Tectonic Arena Sardona**](https://www.flimslaax.com/en/
 
 Beyond the conference, the region is a true [outdoor playground](https://www.flimslaax.com/en/outdoor-activities/). Participants can enjoy **mountain biking** and **hiking** and **paragliding** flights directly from the venue, and refreshing breaks at [**Caumasee**](https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma), one of Switzerland’s most iconic mountain lakes. Nearby, the [**Rhine Gorge**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge), often called the Swiss Grand Canyon, adds another spectacular highlight with its dramatic cliffs and turquoise waters.
 
-
+<div class="rounded">
 {{< columns-start >}}
 {{< column-start>}}
 
@@ -58,5 +58,5 @@ Beyond the conference, the region is a true [outdoor playground](https://www.fli
 {{< column-end >}}
 {{< columns-end >}}
 ![](./venue_wide.jpg)
-
+</div>
 {{< content-end >}}
