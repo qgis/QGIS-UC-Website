@@ -50,12 +50,12 @@ events:
         end: "17:00"
         label: "Outdoor Day"
         class: "ev-social"
-        link: "/activities/"
+        link: "/activities/#outdoor-day"
       - start: "18:00"
         end: "22:00"
         label: "Warm-up &amp; Early Registration"
         class: "ev-social"
-        link: "/activities/"
+        link: "/activities/#warm-up--early-registration"
 
   mon:
     main:
@@ -63,6 +63,7 @@ events:
         end: "09:30"
         label: "Gondola rides to venue"
         class: "ev-other"
+        link: "/#venue"
       - start: "09:30"
         end: "10:30"
         label: "Opening Session"
@@ -71,6 +72,7 @@ events:
         end: "12:30"
         label: "Talks &amp; Workshops"
         class: "ev-main"
+        link: "/schedule/#detailed"
       - start: "12:30"
         end: "13:30"
         label: "Lunch"
@@ -79,10 +81,12 @@ events:
         end: "18:00"
         label: "Talks &amp; Workshops"
         class: "ev-main"
+        link: "/schedule/#detailed"
       - start: "18:00"
         end: "22:00"
         label: "Social Dinner"
         class: "ev-social"
+        link: "/activities/#social-dinner"
 
   tue:
     main:
@@ -90,10 +94,12 @@ events:
         end: "09:30"
         label: "Gondola rides to venue"
         class: "ev-other"
+        link: "/#venue"
       - start: "09:30"
         end: "12:30"
         label: "Talks &amp; Workshops"
         class: "ev-main"
+        link: "/schedule/#detailed"
       - start: "12:30"
         end: "13:30"
         label: "Lunch"
@@ -102,6 +108,7 @@ events:
         end: "16:00"
         label: "Talks &amp; Workshops"
         class: "ev-main"
+        link: "/schedule/#detailed"
       - start: "16:00"
         end: "17:00"
         label: "Closing session"
@@ -113,6 +120,7 @@ events:
         end: "12:30"
         label: "Hands-on Workshops"
         class: "ev-workshop"
+        link: "/activities/#hands-on-workshops"
       - start: "12:30"
         end: "13:30"
         label: "Lunch"
@@ -121,17 +129,19 @@ events:
         end: "17:00"
         label: "Hands-on Workshops"
         class: "ev-workshop"
+        link: "/activities/#hands-on-workshops"
     qf:
       - start: "09:00"
         end: "17:00"
         label: "QField Day"
         class: "ev-workshop"
+        link: "/activities/#qfield-day"
     cm:
       - start: "09:00"
         end: "18:00"
         label: "Contributor Meeting"
         class: "ev-contributor"
-        link: "https://github.com/qgis/QGIS/wiki/"
+        link: "/activities/#contributor-meeting-until-friday"
 
   thu:
     cm:
@@ -139,7 +149,7 @@ events:
         end: "18:00"
         label: "Contributor Meeting"
         class: "ev-contributor"
-        link: "https://github.com/qgis/QGIS/wiki/"
+        link: "/activities/#contributor-meeting-until-friday"
 
   fri:
     cm:
@@ -147,4 +157,4 @@ events:
         end: "18:00"
         label: "Contributor Meeting"
         class: "ev-contributor"
-        link: "https://github.com/qgis/QGIS/wiki/"
+        link: "/activities/#contributor-meeting-until-friday"

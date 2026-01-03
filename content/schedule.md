@@ -16,7 +16,16 @@ sidebar: true
 
 # Schedule
 
-This page contains both the detailed schedule with individual sessions, and an [overview/outline further down](#overview).
+This page contains both an overview and a [detailed schedule further down](#detailed).
+
+
+## Overview (Tentative)
+
+You can find more information about the various activities [here](/activities/). Note that all events require registration and have a limited number of slots.
+
+While the overall outline is set, we might still make some minor adjustments when we finalize the schedule.
+
+{{< weekgrid >}}
 
 ## Detailed
 
@@ -71,14 +80,6 @@ p:has(> pretalx-schedule).full-size {
         </div>
     </div>
 </noscript>
-
-## Overview
-
-You can find more information about the various activities [here](/activities/). Note that all events require registration and have a limited number of slots.
-
-While the overall outline is set, we might still make some minor adjustments when we finalize the schedule.
-
-{{< weekgrid >}}
 
 
 {{< content-end >}}
