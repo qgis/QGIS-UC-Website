@@ -20,7 +20,7 @@ Participants must arrange and pay for their own accommodation; it is **not inclu
 To ensure availability during the conference and contributor meeting, we have **pre-blocked rooms** at several hotels.  
 We are currently negotiating special rates, so **please do not book yet**.
 
-![](/accomodation/accomodation-map.webp)
+![](/accommodation/accommodation-map.webp)
 
 ## Recommended hotels with pre-blocked rooms
 
@@ -32,17 +32,17 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< columns-start >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_1_1.webp)
+![](/accommodation/accommodation_1_1.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_1_2.webp)
+![](/accommodation/accommodation_1_2.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_1_3.webp)
+![](/accommodation/accommodation_1_3.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
@@ -52,17 +52,17 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< columns-start >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_2_1.webp)
+![](/accommodation/accommodation_2_1.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_2_2.webp)
+![](/accommodation/accommodation_2_2.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_2_3.webp)
+![](/accommodation/accommodation_2_3.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
@@ -72,17 +72,17 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< columns-start >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_3_1.webp)
+![](/accommodation/accommodation_3_1.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_3_2.webp)
+![](/accommodation/accommodation_3_2.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](/accomodation/accomodation_3_3.webp)
+![](/accommodation/accommodation_3_3.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
