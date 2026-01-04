@@ -16,7 +16,7 @@ sidebar: true
 
 {{< content-start >}}
 
-## Thank you!
+## Thank you!!
 
 The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
 
