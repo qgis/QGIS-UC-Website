@@ -40,7 +40,9 @@ The detailed program will be published closer to the event. In the meantime, you
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ### Call for Papers
-[Send in your presentation and workshop proposals](https://talks.osgeo.org/qgis-uc2026/cfp)
+Share your work, ideas, and experiences with the QGIS community. We welcome user stories, technical talks, case studies, and workshops from all sectors and experience levels.
+
+[The call for papers will open soon](https://talks.osgeo.org/qgis-uc2026/cfp)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -51,9 +53,9 @@ The detailed program will be published closer to the event. In the meantime, you
 {{< rich-content-start themeClass="coloring-6" >}}
 ### Tickets
 
-Tickets will go on sale in March.
+Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps. Ticket details and pricing will be announced soon.
 
-[Get your ticket](/tickets)
+[Tickets will go on sale in March](/tickets)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -64,8 +66,12 @@ Tickets will go on sale in March.
 {{< column-start>}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
+
 ### Call for Sponsors
-[Learn more about becoming a sponsor](/sponsors)
+
+Support the QGIS project and gain visibility within a global open-source geospatial community. Sponsorship packages offer a range of opportunities to connect with users, developers, and decision-makers.
+
+[Learn more about becoming a sponsor](/sponsors/#become-a-sponsor)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
