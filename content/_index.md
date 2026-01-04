@@ -27,10 +27,11 @@ In addition to the main conference days:
 - an **informal active outdoor pre-event day** is planned for **4 October 2026**  
 - a dedicated **workshop day** will follow on **7 October 2026**, offering hands-on sessions and deeper technical dives
 - the **QGIS Contributor Meeting** will be held from **7–9 October 2026**, bringing together active contributors for collaboration and planning
-- **QField Day** will take place on **7 October 2026**, focusing on mobile data collection workflows and real-world use cases
+- the **QField Day** will take place on **7 October 2026**, focusing on mobile data collection workflows and real-world use cases
 
+## Program
 
-The detailed program will be published closer to the event. In the meantime, you can explore a recent edition to get a feel for what to expect on the [QGIS User Conference 2025 website](https://uc2025.qgis.org/).
+The detailed program will be published closer to the event. In the meantime, you can explore a recent edition on the [QGIS User Conference 2025 website](https://uc2025.qgis.org/) to get a sense of the format and content, and refer to the current [schedule overview](/schedule).
 
 
 

@@ -21,7 +21,7 @@ Tickets go on sale in **March**. A limited number of **Early-Bird tickets** will
 
 All participants need a ticket for the conference, including speakers and workshop presenters. For more information see the [tickets page](/tickets)
 
-## Local names and the Romansh language
+## The hosting region
 
 The conference takes place in the Surselva valley, one of the few regions in Switzerland where the [Romansh language](https://en.wikipedia.org/wiki/Sursilvan) is still part of everyday life. You may notice that places here often carry **more than one name**, shaped by centuries of history and language. Mountain names, valleys, and landmarks frequently preserve these older words, echoing the landscape they describe.
 
