@@ -38,7 +38,7 @@ In order to prevent spam the link to join the group is only sent out the registe
 {{< rich-box-start layoutClass="has-right" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-## QField
+## QField Program
 
 QField is a mobile app for field data collection and editing, built on QGIS. It allows you to access your QGIS projects
 and data on your mobile device, enabling you to work in the field without needing an internet connection.
@@ -59,7 +59,7 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 <small>
 
-Note: Requires version QField 3.6, which is currently rolling out. Check your app
+Note: Requires version QField 4.0. Check your app
 store to make sure you've got the latest version, or install it from [Github](https://github.com/opengisch/QField/releases/latest)
 
 </small>
