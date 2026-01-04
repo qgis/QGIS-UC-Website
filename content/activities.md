@@ -109,4 +109,21 @@ Time: Wednesday-Friday 7-9th of October, 08:30-17:00<br/>
 Place: <br/>
 Price: Free, open to everyone
 
+
+## Sports & Outdoor Activities
+
+Laax offers a wide range of [outdoor sports and activities](https://www.flimslaax.com/en/outdoor-activities), making it easy to combine the conference with time in the mountains.
+
+**Hiking & Trail Running**: Numerous marked trails start directly from Laax and Crap Sogn Gion, ranging from easy walks to more demanding alpine routes.
+
+**Mountain Biking**: Laax and the surrounding region offer a large network of mountain bike trails, including lift-accessed routes and cross-country options.
+
+**Paragliding**: Crap Sogn Gion is a popular paragliding launch site. Experienced pilots can fly directly from the venue down to the valley.
+
+**Climbing & Via Ferrata**: Several climbing routes and via ferrata are available in the region, suitable for different skill levels.
+
+**Water Sports**: Nearby lakes such as Lake Cauma and Lake Cresta offer opportunities for swimming, stand-up paddling, and relaxing after a conference day.
+
+**Other activities**: Yoga, fitness facilities, and wellness options are available in Laax and the surrounding villages.
+
 {{< content-end >}}
