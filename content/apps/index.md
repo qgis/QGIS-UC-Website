@@ -30,7 +30,7 @@ In order to prevent spam the link to join the group is only sent out the registe
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 
-![Signal logo](/apps/signal-logo.svg)
+![Signal logo](./signal-logo.svg)
 
 {{< rich-right-end >}}
 {{< rich-box-end >}}
@@ -65,7 +65,7 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 </small>
 
-![QField QR Code](/apps/qr-uc-app.png)
+![QField QR Code](./qr-uc-app.png)
 
 </div>
 <style>
@@ -93,7 +93,7 @@ To get started, install QField on your device and scan the QR code or visit [one
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 
-![Screenshot from the QField project for the conference](/apps/qfield.webp)
+![Screenshot from the QField project for the conference](./qfield.webp)
 
 {{< rich-right-end >}}
 {{< rich-box-end >}}
