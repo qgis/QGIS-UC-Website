@@ -16,7 +16,7 @@ sidebar: true
 
 # Tickets
 
-Tickets will start selling in March. A ticket gives you access to the conference including the Social Dinner. There is no difference between the Early Bird ticket and the Standard ticket, except the price and that Early Bird tickets are only available in a limited amount.
+Tickets will start selling in March. A ticket gives you access to the conference including the Social Dinner and the tickets needed for the gondola. There is no difference between the Early Bird ticket and the Standard ticket, except the price and that Early Bird tickets are only available in a limited amount.
 
 All participants need a ticket for the conference, including speakers and workshop presenters.
 
