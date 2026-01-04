@@ -179,26 +179,3 @@ A frequent free local bus service connects Laax Murschetg with **Laax town (Laax
 
 **Gondola**  
 Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.
-
-## Accommodation
-
-Participants must arrange and pay for their own accommodation; it is **not included** in the conference ticket.
-
-To ensure availability during the conference and contributor meeting, we have **pre-blocked rooms** at several hotels.  
-We are currently negotiating special rates, so **please do not book yet**.
-
-### Recommended hotels with pre-blocked rooms
-
-- Hotel Signina  
-- Rocks Resort  
-- Riders Palace  
-
-Booking details and discount codes will be shared once negotiations are finalized.
-
-### Other recommended options
-
-Laax, Flims, and Falera offer many rental apartments, which are a popular option and well connected by free local buses.
-
-Platforms such as **Booking.com** and **AirBnB** also provide additional accommodation options.
-
-{{< content-end >}}
