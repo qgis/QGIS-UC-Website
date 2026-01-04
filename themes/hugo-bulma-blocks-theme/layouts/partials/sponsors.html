@@ -2,7 +2,7 @@
 {{ $allSponsors := slice }}
 {{ $logoPath := absURL "sponsors/" }}
 {{ $type := .Get "type" }}
-{{ $headlessbundle := .Site.GetPage "/sponsors-data" }}
+{{ $headlessbundle := site.GetPage "section" "sponsors-data" }}
 {{ $allSponsors = ( $headlessbundle.Resources.Match "*.md" ) }}
 
 {{ with .Get "relativeImgPath" }}{{ $logoPath = "" }}{{ end }}
