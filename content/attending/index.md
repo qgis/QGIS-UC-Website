@@ -49,7 +49,7 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 
 <div class="rounded">
 
-[![](/attending/map.webp)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf)
+[![](./map.webp)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf)
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -79,14 +79,14 @@ Experienced pilots may also **paraglide from the venue down to Laax**, landing c
 
 Please note that **Laax town (Laax Posta stop)** is **not** the venue location. Laax Posta is a **5-minute free bus ride** from Laax Murschetg, with frequent connections throughout the day.
 
-![](/attending/attending_1.webp)
+![](./attending_1.webp)
 
 
 ### Rooms
 
 **Plenary sessions (Opening & Closing)** will be held in the **Hangar**.
 
-![](/attending/attending_0.webp)
+![](./attending_0.webp)
 
 **Presentations** will take place in the **Hangar**, **Capalari**, and the **Galaaxy conference venue**:  
 https://www.galaaxylaax.com/event-location/
@@ -100,23 +100,23 @@ https://www.laax.com/en/restaurant/galaaxy-main-station
 {{< columns-start >}}
 {{< column-start >}}
 
-![](/attending/attending_2.webp)
+![](./attending_2.webp)
 
 {{< column-end >}}
 {{< column-start >}}
 
-![](/attending/attending_3.webp)
+![](./attending_3.webp)
 
 {{< column-end >}}
 {{< column-start >}}
 
-![](/attending/attending_4.webp)
+![](./attending_4.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
 </div>
 
-![](/attending/venue-map.webp)
+![](./venue-map.webp)
 
 **Workshops**  
 Details and locations are **TBD**.
@@ -153,7 +153,7 @@ Switzerland has an excellent rail network, with frequent connections from Zurich
 Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-[![Railroads to Venue](/attending/railroads_to_venue.webp)](/attending//railroads_to_venue.webp)
+[![Railroads to Venue](./railroads_to_venue.webp)](.//railroads_to_venue.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
