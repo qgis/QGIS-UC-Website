@@ -79,14 +79,14 @@ Experienced pilots may also **paraglide from the venue down to Laax**, landing c
 
 Please note that **Laax town (Laax Posta stop)** is **not** the venue location. Laax Posta is a **5-minute free bus ride** from Laax Murschetg, with frequent connections throughout the day.
 
-![](/attending_1.webp)
+![](/attending/attending_1.webp)
 
 
 ### Rooms
 
 **Plenary sessions (Opening & Closing)** will be held in the **Hangar**.
 
-![](/attending_0.webp)
+![](/attending/attending_0.webp)
 
 **Presentations** will take place in the **Hangar**, **Capalari**, and the **Galaaxy conference venue**:  
 https://www.galaaxylaax.com/event-location/
@@ -100,17 +100,17 @@ https://www.laax.com/en/restaurant/galaaxy-main-station
 {{< columns-start >}}
 {{< column-start >}}
 
-![](/attending_2.webp)
+![](/attending/attending_2.webp)
 
 {{< column-end >}}
 {{< column-start >}}
 
-![](/attending_3.webp)
+![](/attending/attending_3.webp)
 
 {{< column-end >}}
 {{< column-start >}}
 
-![](/attending_4.webp)
+![](/attending/attending_4.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
@@ -127,7 +127,7 @@ The **Contributor Meeting** will be held in **Laax Murschetg** (no gondola requi
 
 ### By train
 
-:contentReference[oaicite:1]{index=1} is very well connected by rail, with frequent direct services from major Swiss cities and international destinations.
+Chur is very well connected by rail, with frequent direct services from major Swiss cities and international destinations.
 
 There are convenient train connections to **Hamburg** and **Stockholm** with only **one change**.
 
@@ -135,7 +135,7 @@ A **direct train from Brig** is also available, offering a particularly scenic j
 
 ### By plane
 
-:contentReference[oaicite:2]{index=2} is Switzerland’s largest airport, with connections worldwide.
+Zurich is Switzerland’s largest airport, with connections worldwide.
 
 From Zurich Airport, regular trains run to **Chur**, followed by a bus to **Laax Murschetg (Laax Bergbahnen)**. Hotels are located **2–3 minutes from the bus stop**.
 
@@ -179,3 +179,4 @@ A frequent free local bus service connects Laax Murschetg with **Laax town (Laax
 
 **Gondola**  
 Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.
+{{< content-end >}}
