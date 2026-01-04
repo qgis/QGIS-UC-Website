@@ -4,8 +4,8 @@ title: "QGIS User Conference 2026"
 subtitle: "5-6 October 2026, LAAX, Switzerland"
 draft: false
 heroSize: "is-medium"
-heroImage: "/hero.webp"
-heroLogo: "/logo-white.webp"
+heroImage: "hero.webp"
+heroLogo: "logo-white.webp"
 additionalLogo: "logo-white.webp"
 HasBanner: true
 heroIsUserConference: true
