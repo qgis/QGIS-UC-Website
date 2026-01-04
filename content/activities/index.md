@@ -23,15 +23,65 @@ See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
 
-## Sunday
+# Mens sana in corpore sano
 
-### Outdoor Day
+Kick-start each day with guided activities around **Laax** to get moving before the sessions. Check the schedule for daily times and meeting points.
+
+Unless noted otherwise, activities are **free** and require **no registration**.
+
+
+## Sunday - Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
 Time: Sunday 4th of October, times TBA<br/>
 Place: TBD<br/>
-Price: TBD, registration required
+Price: TBD, **registration required**
+
+
+## Tuesday - Preconf activation
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
+
+## Wednesday - trailrun
+
+6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1767565813390&style=outdoor)
+
+Meering point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
+
+We leave at 07:01 after the bus from Laax arrives
+
+## Thursday - hike & fly
+
+Hike & Fly, might be moved to other days depending on weather conditions.
+
+## Friday - trailrun
+Wonderful 10K trail run along the Connbächli to the Swiss grand Canyon view platform Il spir.
+
+ See the profile and route [here](https://routeplanner.suunto.com/?route=connbchli---il-spir-1767566957418&style=outdoor&bottomBar=open)
+
+Meeting point [Flims Waldaus Caumasee bus stop](https://www.openstreetmap.org/node/984706253#map=19/46.825889/9.288790).
+
+We leave at 07:06 after the bus from Laax arrives (take the 7:02 Bus from Laax Murschetg)
+
+## Individual Sports & Outdoor Activities
+
+Laax offers a wide range of [outdoor sports and activities](https://www.flimslaax.com/en/outdoor-activities), making it easy to combine the conference with time in the mountains.
+
+**Hiking & Trail Running**: Numerous marked trails start directly from Laax and Crap Sogn Gion, ranging from easy walks to more demanding alpine routes.
+
+**Mountain Biking**: Laax and the surrounding region offer a large network of mountain bike trails, including lift-accessed routes and cross-country options.
+
+**Paragliding**: Crap Sogn Gion is a popular paragliding launch site. Experienced pilots can fly directly from the venue down to the valley.
+
+**Climbing & Via Ferrata**: Several climbing routes and via ferrata are available in the region, suitable for different skill levels.
+
+**Water Sports**: Nearby lakes such as Lake Cauma and Lake Cresta offer opportunities for swimming, stand-up paddling, and relaxing after a conference day.
+
+**Other activities**: Yoga, fitness facilities, and wellness options are available in Laax and the surrounding villages.
+
+# Extended Conference activities
+
+## Sunday
 
 ### Warm-up & Early Registration
 
@@ -109,21 +159,5 @@ Time: Wednesday-Friday 7-9th of October, 08:30-17:00<br/>
 Place: <br/>
 Price: Free, open to everyone
 
-
-## Sports & Outdoor Activities
-
-Laax offers a wide range of [outdoor sports and activities](https://www.flimslaax.com/en/outdoor-activities), making it easy to combine the conference with time in the mountains.
-
-**Hiking & Trail Running**: Numerous marked trails start directly from Laax and Crap Sogn Gion, ranging from easy walks to more demanding alpine routes.
-
-**Mountain Biking**: Laax and the surrounding region offer a large network of mountain bike trails, including lift-accessed routes and cross-country options.
-
-**Paragliding**: Crap Sogn Gion is a popular paragliding launch site. Experienced pilots can fly directly from the venue down to the valley.
-
-**Climbing & Via Ferrata**: Several climbing routes and via ferrata are available in the region, suitable for different skill levels.
-
-**Water Sports**: Nearby lakes such as Lake Cauma and Lake Cresta offer opportunities for swimming, stand-up paddling, and relaxing after a conference day.
-
-**Other activities**: Yoga, fitness facilities, and wellness options are available in Laax and the surrounding villages.
 
 {{< content-end >}}

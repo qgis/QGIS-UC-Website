@@ -1,5 +1,5 @@
 slot_minutes: 30
-time_start: "08:00"
+time_start: "07:00"
 time_end: "22:00"
 
 days:
@@ -107,7 +107,7 @@ events:
         end: "09:30"
         label: "Gondola rides & morning activity"
         class: "ev-other"
-        link: "/#venue"
+        link: "/activities/#tuesday---preconf-activation"
       - start: "09:30"
         end: "11:00"
         label: "Talks &amp; Workshops"
@@ -142,6 +142,11 @@ events:
 
   wed:
     ws:
+      - start: "07:00"
+        end: "08:00"
+        label: "Morning trailrun"
+        class: "ev-other"
+        link: "/activities/#wednesday---trailrun"
       - start: "09:00"
         end: "10:30"
         label: "Hands-on Workshops"
@@ -175,12 +180,18 @@ events:
         class: "ev-workshop"
         link: "/activities/#hands-on-workshops"
     qf:
+      - start: "07:00"
+        end: "08:00"
+        class: "ev-other"
       - start: "09:00"
         end: "17:30"
         label: "QField excursion"
         class: "ev-workshop"
         link: "/activities/#qfield-day"
     cm:
+      - start: "07:00"
+        end: "08:00"
+        class: "ev-other"
       - start: "09:00"
         end: "22:00"
         label: "Contributor Meeting"
@@ -189,6 +200,11 @@ events:
 
   thu:
     cm:
+      - start: "07:00"
+        end: "09:00"
+        label: "Hike & Fly"
+        class: "ev-other"
+        link: "/activities/#thursday---hike--fly"
       - start: "09:00"
         end: "22:00"
         label: "Contributor Meeting"
@@ -197,6 +213,11 @@ events:
 
   fri:
     cm:
+      - start: "07:00"
+        end: "08:30"
+        label: "Morning trailrun"
+        class: "ev-other"
+        link: "/activities/#friday---trailrun"
       - start: "09:00"
         end: "22:00"
         label: "Contributor Meeting"
