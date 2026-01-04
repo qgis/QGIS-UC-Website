@@ -69,9 +69,13 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 
 ## Venue
 
-The conference will take place at **Crap Sogn Gion**, the mountain-top station above **Laax**, offering panoramic alpine views and a truly unique conference setting.
+The event will be held at [**LAAX Galaaxy**](https://www.galaaxylaax.com/) on **Crap Sogn Gion**, at **2,222 m above sea level**, in the heart of the Swiss Alps.
 
-The venue is reached by **gondola from Laax Murschetg (Laax Bergbahnen bus stop)**, taking you from the base station and the hotels directly to the conference site. The conference ticket includes a return gondola trip each day.
+Set right next to the [**Tectonic Arena Sardona**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) UNESCO World Heritage Site, the venue offers breathtaking panoramic views over the surrounding mountain landscape of the Surselva valley, one of the few [Romansh-speaking](https://en.wikipedia.org/wiki/Sursilvan) regions in Switzerland.
+
+Beyond the conference, the region is a true [outdoor playground](https://www.flimslaax.com/en/outdoor-activities/). Participants can enjoy **mountain biking** (with incredible lift-accessed trails and cross-country routes throughout the region—biking here is absolutely fantastic!), **hiking**, and **paragliding** flights directly from the venue, and refreshing breaks at [**Caumasee**](https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma), one of Switzerland's most iconic mountain lakes. Nearby, the [**Rhine Gorge**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge), often called the Swiss Grand Canyon, adds another spectacular highlight with its dramatic cliffs and turquoise waters.
+
+The valley itself is a walker's paradise—numerous marked trails wind through alpine meadows and forests, from gentle strolls to more challenging alpine hikes, with breathtaking views at every turn. It's easy to explore the stunning landscape before or after sessions.
 
 For those seeking a physical challenge, the venue can also be reached **on foot or by bicycle** (approximately **7 km** with **1,200 m of elevation gain**).
 
@@ -121,10 +125,12 @@ https://www.laax.com/en/restaurant/galaaxy-main-station)
 
 ![](./venue-map.webp)
 
-**Workshops**  
-Details and locations are **TBD**.
+## Workshops
 
-The **Contributor Meeting** will be held in **Laax Murschetg** (no gondola required), in a dedicated space (**Diva 1**) close to the hotels.
+The workshops will be held in **Laax Murschetg** (no gondola required), Details and locations are **TBD**.
+
+## Contributor Meeting
+The contributors meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (**Diva 1**) close to the hotels.
 
 ## Getting there
 
@@ -132,7 +138,7 @@ The **Contributor Meeting** will be held in **Laax Murschetg** (no gondola requi
 
 Chur is very well connected by rail, with frequent direct services from major Swiss cities and international destinations.
 
-There are convenient train connections to **Hamburg** and **Stockholm** with only **one change**.
+There are even direct train connections to **Hamburg** and **Stockholm** with only **one change**.
 
 A **direct train from Brig** is also available, offering a particularly scenic journey along the **Glacier Express route**.
 
@@ -163,22 +169,24 @@ Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
 ### By bus
 
 Regional buses connect **Ilanz** and **Chur** to **Laax Murschetg (Laax Bergbahnen)**.
-
 All local buses between **Laax town (Laax Posta)** and **Laax Murschetg** are **free of charge** and run frequently.
 
 ### By car
 
 Laax is accessible via the **A13 motorway** (exit **Reichenau**), followed by a scenic mountain road.
-
 Parking is available in **Laax Murschetg**, close to the gondola station.
 
 ## Getting around
 
 **Walk**  
-Once at Crap Sogn Gion, all conference facilities are within easy walking distance.
+Once at Crap Sogn Gion, all conference facilities are within easy walking distance. The valley itself is a walker's paradise—numerous marked trails wind through alpine meadows and forests, from gentle strolls to more challenging alpine hikes, with breathtaking views at every turn. It's easy to explore the stunning landscape before or after sessions.
+
+**Bike**  
+Mountain biking is fantastic in this region! Lift-accessed trails, cross-country routes, and single-track adventures await riders of all levels. Bike rental is available locally, making it easy to explore the stunning terrain between sessions.
 
 **Bus**  
 A frequent free local bus service connects Laax Murschetg with **Laax town (Laax Posta)** in about **5 minutes**, as well as with nearby villages such as **Flims** and **Falera**.
+
 
 **Gondola**  
 Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.
