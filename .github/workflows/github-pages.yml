@@ -6,6 +6,10 @@ on:
   push:
     branches: ["main"]
 
+  # Run build (and deploy previews) on pull requests
+  pull_request:
+    branches: ["main"]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -42,7 +46,15 @@ jobs:
           submodules: recursive
       - name: Setup Pages
         id: pages
+        if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
         uses: actions/configure-pages@v5
+      - name: Set base URL
+        run: |
+          if [ -n "${{ steps.pages.outputs.base_url }}" ]; then
+            echo "BASE_URL=${{ steps.pages.outputs.base_url }}/" >> $GITHUB_ENV
+          else
+            echo "BASE_URL=/" >> $GITHUB_ENV
+          fi
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -51,7 +63,7 @@ jobs:
         run: |
           hugo \
             --config config.toml,config/config.gh-pages.toml \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "$BASE_URL"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -64,6 +76,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository)
     needs: build
     steps:
       - name: Deploy to GitHub Pages
