@@ -84,17 +84,20 @@ Please note that **Laax town (Laax Posta stop)** is **not** the venue location. 
 
 ### Rooms
 
-**Plenary sessions (Opening & Closing)** will be held in the **Hangar**.
+#### Plenary sessions 
+All plenary sessions (Opening & Closing) will be held in the [Hangar](https://www.laax.com/meeting/locations-hangar).
 
 ![](./attending_0.webp)
 
-**Presentations** will take place in the **Hangar**, **Capalari**, and the **Galaaxy conference venue**:  
-https://www.galaaxylaax.com/event-location/
+#### Talks and short workshops
+Presentations will take place in the **Hangar**, **Capalari**, and the [Galaaxy conference venue]( 
+https://www.galaaxylaax.com/event-location/)
 
-All rooms are located within the **Crap Sogn Gion** building and are reachable within **2–3 minutes on foot**.
+All rooms are located in or around the **Crap Sogn Gion** building and are reachable within **2–3 minutes on foot**.
 
-**Coffee breaks**, **lunch**, the **sponsors exhibition**, and the **social event** will be held at the **Galaaxy Main Station**:  
-https://www.laax.com/en/restaurant/galaaxy-main-station
+#### Breaks
+**Coffee breaks**, **lunch**, the **sponsors exhibition**, and the **social event** will be held at the [Galaaxy Main Station]( 
+https://www.laax.com/en/restaurant/galaaxy-main-station)
 
 <div class="rounded">
 {{< columns-start >}}
