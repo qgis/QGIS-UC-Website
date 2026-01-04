@@ -17,63 +17,98 @@ sidebar: true
 
 ## Tickets
 
-Tickets go on sale in March. There are a limited number of Early-Bird tickets available at a reduced price.
+Tickets go on sale in **March**. A limited number of **Early-Bird tickets** will be available at a reduced price.
 
-All participants need a ticket for the conference, including those who give a talk or a workshop.
+All participants need a ticket for the conference, including speakers and workshop presenters. For more information see the [tickets page](/tickets)
 
-We offer a refund when a ticket is cancelled more than 30 days before the event. Cancellations less than 30 days prior
-to the event are not refunded.
+## Local names and the Romansh language
 
-Do note that some additional activities, such as during the extra Workshop Day, require additional registration. You
-can add these activities during while purchasing your ticket or at a later point in time, do note however that the
-spots are limited.
+The conference takes place in the Surselva valley, one of the few regions in Switzerland where the [Romansh language](https://en.wikipedia.org/wiki/Sursilvan) is still part of everyday life. You may notice that places here often carry **more than one name**, shaped by centuries of history and language. Mountain names, valleys, and landmarks frequently preserve these older words, echoing the landscape they describe.
+
+This linguistic diversity is woven into the local culture and identity, appearing on signs, maps, and in everyday conversations throughout the region, and echoing far beyond it, across Switzerland.
+
+### Understanding local place names
+
+- **Crap Sogn Gion**  
+  The Romansh name of the mountain above Laax where the conference venue is located. *Crap* means “rock”, *Sogn* means “saint”, and *Gion* refers to Saint John.
+
+- **Laax Murschetg**  
+  The main arrival point for the conference and a primary accommodation area (Rocks Resort, Hotel Signina, Riders Hotel and many apartments). It is home to the gondola station, bus hub, making it a convenient base for attending the event. Bus stop name Laax bergbahnen.
+
+- **Laax (Laax town, Laax Dorf)**  
+  The main village in the valley, offering shops, restaurants, services, some hotels and many apartments. It is connected to Laax Murschetg by a frequent, free local bus service.  Bus stop name Laax Posta.
+
+- **Flims/Flem**  
+  A nearby village with additional accommodation options and services. Flims is well connected to Laax Murschetg by frequent public transport and free local buses.
+
+### Maps
+
+[Openstreetmap](https://www.openstreetmap.org/#map=14/46.82273/9.27057&layers=N) and [Swisstopo](https://s.geo.admin.ch/3fcf1x8b3cyw) offer excellent maps of the region. If you favour a more pictorial map of the Laax, Flims, and Falera region, please refer to the [official tourist map (PDF)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf).
+
+To complement these maps, the [official conference app](/apps/#conference-app) brings places and program together, helping you find venues, save favourite talks, and access essential information — even offline.
+
+<div class="rounded">
+
+![](/map.webp)
+
+{{< columns-start >}}
+{{< column-start>}}
+
+<iframe src="https://map.geo.admin.ch/#/embed?lang=en&center=2737885.19,1187771.4&z=4.977&topic=ech&layers=ch.swisstopo.swissimage-product@year=current,f;ch.bav.haltestellen-oev,f;ch.swisstopo.swisstlm3d-wanderwege,f;ch.astra.wanderland-sperrungen_umleitungen,f;ch.astra.mountainbikeland,f;ch.astra.veloland,f&bgLayer=ch.swisstopo.pixelkarte-farbe" style="border: 0; width:100%; height: 400px" allow="geolocation"></iframe>
+
+
+{{< column-end >}}
+{{< column-start>}}
+
+<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.229846000671388%2C46.79544697496532%2C9.292931556701662%2C46.83262927748744&amp;layer=mapnik" style="border: 0; width:100%; height: 400px" allow="geolocation"></iframe>
+
+
+{{< column-end >}}
+{{< columns-end >}}
+</div>
 
 ## Venue
 
-The event will be held at **Crap Sogn Gion**, the mountain top station above Laax, offering panoramic alpine views and a unique conference setting.
+The conference will take place at **Crap Sogn Gion**, the mountain-top station above **Laax**, offering panoramic alpine views and a truly unique conference setting.
 
-The venue is reached by **gondola from Laax Murschetg (Laax Bergbahnen bus stop)**. The gondola takes you directly from the base area to the conference venue.
+The venue is reached by **gondola from Laax Murschetg (Laax Bergbahnen bus stop)**, taking you from the base station and the hotels directly to the conference site. The conference ticket includes a return gondola trip each day.
 
-The venue can also be reached **on foot or by bicycle** for those who enjoy a physical challenge (approximately **7 km** with **1200 m of elevation gain**).
+For those seeking a physical challenge, the venue can also be reached **on foot or by bicycle** (approximately **7 km** with **1,200 m of elevation gain**).
 
-For experienced pilots, it is also possible to **paraglide from the venue down to Laax**, landing close to the hotels in the valley.
+Experienced pilots may also **paraglide from the venue down to Laax**, landing close to the hotels in the valley.
 
-Please note that **Laax town (Laax Posta stop)** is not the venue location. Laax town is a **5-minute free bus ride** from Laax Murschetg, with frequent connections throughout the day.
+Please note that **Laax town (Laax Posta stop)** is **not** the venue location. Laax Posta is a **5-minute free bus ride** from Laax Murschetg, with frequent connections throughout the day.
 
 ![](/attending_1.webp)
 
-### Map
-
-For a detailed map of the Laax, Flims, and Falera area, please refer to the [official tourist map (PDF)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf).
-
-![](/map.webp)
 
 ### Rooms
 
 **Plenary sessions (Opening & Closing)** will be held in the **Hangar**.
+
 ![](/attending_0.webp)
 
-**Presentations** will take place in the **Hangar**, **Capalari** and the **Galaaxy conference venue**:  
-https://www.galaaxylaax.com/event-location/ all rooms are within 2-3 minutes walk in the **Crap Sogn Gion** building.
+**Presentations** will take place in the **Hangar**, **Capalari**, and the **Galaaxy conference venue**:  
+https://www.galaaxylaax.com/event-location/
 
+All rooms are located within the **Crap Sogn Gion** building and are reachable within **2–3 minutes on foot**.
 
-
-**Coffee breaks**, **lunch**, the **sponsors exhibition**, and the **social event** will be held at the **Galaaxy Main Station**  
+**Coffee breaks**, **lunch**, the **sponsors exhibition**, and the **social event** will be held at the **Galaaxy Main Station**:  
 https://www.laax.com/en/restaurant/galaaxy-main-station
 
 <div class="rounded">
 {{< columns-start >}}
-{{< column-start>}}
+{{< column-start >}}
 
 ![](/attending_2.webp)
 
 {{< column-end >}}
-{{< column-start>}}
+{{< column-start >}}
 
 ![](/attending_3.webp)
 
 {{< column-end >}}
-{{< column-start>}}
+{{< column-start >}}
 
 ![](/attending_4.webp)
 
@@ -81,34 +116,31 @@ https://www.laax.com/en/restaurant/galaaxy-main-station
 {{< columns-end >}}
 </div>
 
-
 ![](/venue-map.webp)
 
+**Workshops**  
+Details and locations are **TBD**.
 
-
-**Workshops** will happen TBD
-
-The **Contributor Meeting** will be held in Laax Murschetg (no gondola needed), in a dedicated space (Diva 1) close to the hotels.
-
+The **Contributor Meeting** will be held in **Laax Murschetg** (no gondola required), in a dedicated space (**Diva 1**) close to the hotels.
 
 ## Getting there
 
 ### By train
 
-**Chur** is very well connected by rail, with frequent direct services from major Swiss cities and international connections.
+:contentReference[oaicite:1]{index=1} is very well connected by rail, with frequent direct services from major Swiss cities and international destinations.
 
 There are convenient train connections to **Hamburg** and **Stockholm** with only **one change**.
 
-There is also a **direct train from Brig**, offering a particularly scenic journey on the **Glacier Express route**.
-
+A **direct train from Brig** is also available, offering a particularly scenic journey along the **Glacier Express route**.
 
 ### By plane
 
-**Zurich Airport (ZRH)** is Switzerland’s largest airport and has connections all around the world. From Zurich Airport there are regular trains to **Chur**, followed by a bus to **Laax Murschetg (Laax Bergbahnen)**. The hotels are 2-3 minutes from the bus stop
-From there, the gondola takes you up to the venue at Crap Sogn Gion. The total travel time is approximately 2.5–3 hours.
+:contentReference[oaicite:2]{index=2} is Switzerland’s largest airport, with connections worldwide.
 
+From Zurich Airport, regular trains run to **Chur**, followed by a bus to **Laax Murschetg (Laax Bergbahnen)**. Hotels are located **2–3 minutes from the bus stop**.
 
-From Laax Murschetg, the conference venue at **Crap Sogn Gion** is reached by gondola.
+From Laax Murschetg, the venue at **Crap Sogn Gion** is reached by gondola.  
+Total travel time is approximately **2.5–3 hours**.
 
 (click on the image to expand)
 
@@ -119,7 +151,6 @@ From Laax Murschetg, the conference venue at **Crap Sogn Gion** is reached by go
 Switzerland has an excellent rail network, with frequent connections from Zurich, Basel, Bern, and international destinations.
 
 Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
-
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 [![Railroads to Laax](/railroads_to_norrkoping.png)](/railroads_to_norrkoping.png)
@@ -128,26 +159,33 @@ Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
 
 ### By bus
 
-Regional buses connect **Ilanz** and **Chur** to **Laax Murschetg (Laax Bergbahnen)**. All local buses between **Laax town (Laax Posta)** and **Laax Murschetg** are **free of charge** and run frequently.
+Regional buses connect **Ilanz** and **Chur** to **Laax Murschetg (Laax Bergbahnen)**.
+
+All local buses between **Laax town (Laax Posta)** and **Laax Murschetg** are **free of charge** and run frequently.
 
 ### By car
 
-Laax is accessible via the A13 motorway (exit **Reichenau**), followed by a scenic mountain road. Parking is available in Laax Murschetg, close to the gondola station.
+Laax is accessible via the **A13 motorway** (exit **Reichenau**), followed by a scenic mountain road.
+
+Parking is available in **Laax Murschetg**, close to the gondola station.
 
 ## Getting around
 
-**Walk**: Once at Crap Sogn Gion, all conference facilities are within easy walking distance.
+**Walk**  
+Once at Crap Sogn Gion, all conference facilities are within easy walking distance.
 
-**Bus**: A frequent free local bus service connects Laax Murschetg with **Laax town (Laax Posta)** in about 5 minutes, as well as with nearby villages such as Flims and Falera.
+**Bus**  
+A frequent free local bus service connects Laax Murschetg with **Laax town (Laax Posta)** in about **5 minutes**, as well as with nearby villages such as **Flims** and **Falera**.
 
-**Gondola**: Daily access to the venue is via the gondola from Laax Murschetg. Further details on operating times will be shared closer to the event.
+**Gondola**  
+Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.
 
 ## Accommodation
 
-Attendants need to organize and pay for their own accommodation, it is not included in your ticket.
+Participants must arrange and pay for their own accommodation; it is **not included** in the conference ticket.
 
-To ensure that all participants get a room for the conference and contributor meeting we have pre-blocked rooms at several hotels.
-Please note that we are currently negotiating special rates, so **do not book yet**.
+To ensure availability during the conference and contributor meeting, we have **pre-blocked rooms** at several hotels.  
+We are currently negotiating special rates, so **please do not book yet**.
 
 ### Recommended hotels with pre-blocked rooms
 
@@ -159,8 +197,8 @@ Booking details and discount codes will be shared once negotiations are finalize
 
 ### Other recommended options
 
-There are many rental apartments available in Laax, Flims and Falera, which are a very popular option and well connected by free local buses.
+Laax, Flims, and Falera offer many rental apartments, which are a popular option and well connected by free local buses.
 
-You can also use services such as Booking.com or AirBnB to find additional accommodation options.
+Platforms such as **Booking.com** and **AirBnB** also provide additional accommodation options.
 
 {{< content-end >}}
