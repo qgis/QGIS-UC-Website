@@ -153,7 +153,7 @@ Switzerland has an excellent rail network, with frequent connections from Zurich
 Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-[![Railroads to Venue](/railroads_to_venue.webp)](/railroads_to_venue.webp)
+[![Railroads to Venue](/attending/railroads_to_venue.webp)](/attending//railroads_to_venue.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
