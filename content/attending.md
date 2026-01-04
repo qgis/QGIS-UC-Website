@@ -49,7 +49,7 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 
 <div class="rounded">
 
-![](/attending/map.webp)
+[![](/attending/map.webp)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf)
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -153,7 +153,7 @@ Switzerland has an excellent rail network, with frequent connections from Zurich
 Train schedules and tickets can be found at [SBB](https://www.sbb.ch/en).
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-[![Railroads to Laax](/railroads_to_norrkoping.png)](/railroads_to_norrkoping.png)
+[![Railroads to Venue](/railroads_to_venue.webp)](/railroads_to_venue.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
