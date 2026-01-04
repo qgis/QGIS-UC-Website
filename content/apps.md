@@ -38,20 +38,22 @@ In order to prevent spam the link to join the group is only sent out the registe
 {{< rich-box-start layoutClass="has-right" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-## QField Program
+## Conference App
 
-QField is a mobile app for field data collection and editing, built on QGIS. It allows you to access your QGIS projects
-and data on your mobile device, enabling you to work in the field without needing an internet connection.
+The **conference program is available in the official conference app**, giving you everything you need for the event directly on your phone — even when you’re offline.
 
-QFieldCloud/OPENGIS.ch have graciously provided us with a QField project providing a lot of information about the conference:
+Using the app, you can:
+* Browse a **fully searchable conference schedule**
+* **Mark your favourite talks** and easily plan your personal agenda
+* Find your way with a **multi-floor room selector**
+* Check **real-time public transport information**, including bus locations and departure boards
+* Discover nearby **restaurants, hotels, bars, and points of interest**
+* Create your own **private notes, photos, videos, and audio recordings** to capture ideas and memories
 
-* Fully searchable conference schedule
-* Multifloor rooms selector
-* Real-time public transport information (bus locations & departure boards)
-* Points of interest - restaurants, hotels, bars, and more
-* A private memory layer - take your own notes, photos, videos, and audio
+Most features work entirely offline, so you can rely on the app throughout the conference.
 
-Everything (except real-time data) works entirely offline.
+The app is powered by [QField](https://qfield.org), the mobile QGIS app for field data collection, and is provided thanks to [QFieldCloud](https://qfield.org) and [OPENGIS.ch](https://OPENGIS.ch).
+
 
 To get started, install QField on your device and scan the QR code or visit [onelink.to/uc-2026](https://onelink.to/uc-2026).
 
@@ -59,8 +61,7 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 <small>
 
-Note: Requires version QField 4.0. Check your app
-store to make sure you've got the latest version, or install it from [Github](https://github.com/opengisch/QField/releases/latest)
+*Note: the QR code currently links to the 2025 conference app and will be updated to the 2026 version closer to the event.*
 
 </small>
 

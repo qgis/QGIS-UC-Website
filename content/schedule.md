@@ -16,14 +16,15 @@ sidebar: true
 
 # Schedule
 
-This page contains both an overview and a [detailed schedule further down](#detailed).
+This page provides both a high-level overview and a [detailed schedule further down](#detailed).
 
+To take the conference schedule with you and plan your days on the go, download the [official conference app](/apps/#conference-app) to browse the full program, mark your favourite talks, and access key information — even offline.
 
 ## Overview (Tentative)
 
-You can find more information about the various activities [here](/activities/). Note that all events require registration and have a limited number of slots.
+More information about the individual activities is available [here](/activities/). Please note that all events require registration and have a limited number of slots.
 
-While the overall outline is set, we might still make some minor adjustments when we finalize the schedule.
+While the overall structure is set, minor adjustments may still be made as the schedule is finalized.
 
 {{< weekgrid >}}
 
