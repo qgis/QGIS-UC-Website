@@ -49,7 +49,7 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 
 <div class="rounded">
 
-![](/map.webp)
+![](/attending/map.webp)
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -116,7 +116,7 @@ https://www.laax.com/en/restaurant/galaaxy-main-station
 {{< columns-end >}}
 </div>
 
-![](/venue-map.webp)
+![](/attending/venue-map.webp)
 
 **Workshops**  
 Details and locations are **TBD**.
