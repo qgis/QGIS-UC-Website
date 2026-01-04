@@ -167,6 +167,11 @@ sectionPagesMenu = 'main'
   weight = 50
 
 [[menu.main]]
+  name = "Accommodation"
+  url = "/accommodation/"
+  weight = 55
+
+[[menu.main]]
   name = "Tickets"
   url = "/tickets/"
   weight = 60
