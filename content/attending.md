@@ -43,7 +43,7 @@ This linguistic diversity is woven into the local culture and identity, appearin
 
 ### Maps
 
-[Openstreetmap](https://www.openstreetmap.org/#map=14/46.82273/9.27057&layers=N) and [Swisstopo](https://s.geo.admin.ch/3fcf1x8b3cyw) offer excellent maps of the region. If you favour a more pictorial map of the Laax, Flims, and Falera region, please refer to the [official tourist map (PDF)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf).
+[Openstreetmap](https://www.openstreetmap.org/#map=14/46.82273/9.27057&layers=N) and [Swisstopo](https://s.geo.admin.ch/3fcf1x8b3cyw) offer excellent maps of the region. If you favour a more pictorial map of the Laax, Flims, and Falera region, please refer to the [official tourist map (PDF)](https://www.flimslaax.com/fileadmin/Daten/Dokumente/PDF_flimslaax.com/Guides/Ortsplan_Flims_Laax_Falera.pdf). A photorealistic 3D visualisation of the Laax murschetg and the region can be found on the [rocksresort website](https://portfolio-overview5.beyonity.ch/?id=6D739C5E&lang=en-EN)
 
 To complement these maps, the [official conference app](/apps/#conference-app) brings places and program together, helping you find venues, save favourite talks, and access essential information — even offline.
 
