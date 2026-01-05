@@ -66,7 +66,8 @@ document.getElementById("scheduleFullSizeButton").addEventListener("click", () =
 });
 </script>
 
-<script type="text/javascript" src="https://talks.osgeo.org/qgis-uc-2026/widgets/schedule.js"></script>
+<script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2026/widgets/schedule.js"></script>
+
 <style>
 p:has(> pretalx-schedule) {
     width: 100%;
@@ -88,12 +89,12 @@ p:has(> pretalx-schedule).full-size {
     left: 200px;
 }
 </style>
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc-2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033"></pretalx-schedule>
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
             JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc-2026/schedule/">click here</a>.
+            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc2026/schedule/">click here</a>.
         </div>
     </div>
 </noscript>
