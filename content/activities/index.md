@@ -16,6 +16,9 @@ sidebar: true
 
 # Activities
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
+
 In addition to the main User Conference and the Contributor Meeting we also offer a number of additional activities.
 This page lists all offered activities, including the main conference and the contributor meeting.
 
@@ -23,13 +26,22 @@ See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 # Mens sana in corpore sano
 
 Kick-start each day with guided activities around **Laax** to get moving before the sessions. Check the schedule for daily times and meeting points.
 
 Unless noted otherwise, activities are **free** and require **no registration**.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Sunday - Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
@@ -38,10 +50,19 @@ Time: Sunday 4th of October, times TBA<br/>
 Place: TBD<br/>
 Price: TBD, **registration required**
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Tuesday - Preconf activation
 TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Wednesday - trailrun
 
 6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1767565813390&style=outdoor)
@@ -50,10 +71,20 @@ Meering point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https
 
 We leave at 07:01 after the bus from Laax arrives
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Thursday - hike & fly
 
 Hike & Fly, might be moved to other days depending on weather conditions.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Friday - trailrun
 Wonderful 10K trail run along the Connbächli to the Swiss grand Canyon view platform Il spir.
 
@@ -63,6 +94,11 @@ Meeting point [Flims Waldaus Caumasee bus stop](https://www.openstreetmap.org/no
 
 We leave at 07:06 after the bus from Laax arrives (take the 7:02 Bus from Laax Murschetg)
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Individual Sports & Outdoor Activities
 
 Laax offers a wide range of [outdoor sports and activities](https://www.flimslaax.com/en/outdoor-activities), making it easy to combine the conference with time in the mountains.
@@ -79,8 +115,18 @@ Laax offers a wide range of [outdoor sports and activities](https://www.flimslaa
 
 **Other activities**: Yoga, fitness facilities, and wellness options are available in Laax and the surrounding villages.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 # Extended Conference activities
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Sunday
 
 ### Warm-up & Early Registration
@@ -93,6 +139,11 @@ Time: Sunday 4th of October, 18:00-22:00<br/>
 Place: Laax Murschetg, Bar TBD
 Price: Free, no registration required, everyone welcome
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Monday
 
 ### Main Conference
@@ -108,14 +159,22 @@ Time: Monday 5th of October, 18:00 (easy start)<br/>
 Place: Galaaxy Mainstation<br/>
 Price: Included in the conference ticket
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Tuesday
 ### Main Conference
 
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
 opportunities.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Wednesday
 
 ### Hands-on Workshops
@@ -129,7 +188,11 @@ The price includes lunch after the workshops.
 Time: Wednesday 6th of October, TBD with a coffee break<br/>
 Price: TBD, registration required
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ### QField Day
 
 Want to learn more about QField, the mobile app for QGIS, in the town where it was born? Join us for a full-day QField experience combining indoor sessions with hands-on exploration in the field.
@@ -139,6 +202,11 @@ After a short indoor introduction and demo session, we will head outdoors for a 
 Time: Wednesday 6th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ### Onboarding Day
 
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
@@ -148,6 +216,11 @@ Time: Wednesday 6th of October, times TBA<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, no registration required
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ### Contributor Meeting (until Friday)
 
 The Contributor Meeting will be held on Wednesday through Friday, and is open to anyone who wants to contribute to QGIS.
@@ -159,5 +232,7 @@ Time: Wednesday-Friday 7-9th of October, 08:30-17:00<br/>
 Place: <br/>
 Price: Free, open to everyone
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 {{< content-end >}}
