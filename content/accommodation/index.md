@@ -13,20 +13,33 @@ sidebar: true
 ---
 
 {{< content-start >}}
+
 # Accommodation
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 
 Participants must arrange and pay for their own accommodation; it is **not included** in the conference ticket.
 
 To ensure availability during the conference and contributor meeting, we have **pre-blocked rooms** at several hotels.  
 We are currently negotiating special rates, so **please do not book yet**.
 
+{{< rich-content-end>}}
+{{< rich-box-end >}}
+
+<div class="rounded">
+
 ![](./accommodation-map.webp)
 
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Recommended hotels with pre-blocked rooms
 
 Booking details and discount codes will be shared once negotiations are finalized.
 
-<div class="rounded">
+{{< rich-content-end>}}
+{{< rich-box-end >}}
 
 ### [Rocks Resort](https://www.rocksresort.com)
 {{< columns-start >}}
