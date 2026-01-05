@@ -124,6 +124,6 @@ Beyond the conference, the region is a true [outdoor playground](https://www.fli
 
 {{< column-end >}}
 {{< columns-end >}}
-![](./venue_wide.jpg)
+![](./venue_wide.webp)
 </div>
 {{< content-end >}}
