@@ -19,7 +19,16 @@ sidebar: true
 
 ## Welcome to the Swiss Alps!
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
+
 The QGIS User Conference is an annual event that brings together users and developers of the QGIS open-source geographic information system (GIS). The conference offers an opportunity to discover the latest developments in QGIS, share real-world experiences, and network with the global QGIS community across administrations, industry, academia, and beyond.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
 
 The next conference will take place on **5–6 October 2026** in **Laax, Switzerland**, in the heart of the Swiss Alps.
 
@@ -29,6 +38,8 @@ In addition to the main conference days:
 - the **QGIS Contributor Meeting** will be held from **7–9 October 2026**, bringing together active contributors for collaboration and planning
 - the **QField Day** will take place on **7 October 2026**, focusing on mobile data collection workflows and real-world use cases
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 ## Program
 
 The detailed program will be published closer to the event. In the meantime, you can explore a recent edition on the [QGIS User Conference 2025 website](https://uc2025.qgis.org/) to get a sense of the format and content, and refer to the current [schedule overview](/schedule).
@@ -39,7 +50,7 @@ The detailed program will be published closer to the event. In the meantime, you
 {{< column-start>}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-4">}}
 ### Call for Papers
 Share your work, ideas, and experiences with the QGIS community. We welcome user stories, technical talks, case studies, and workshops from all sectors and experience levels.
 
@@ -51,7 +62,7 @@ Share your work, ideas, and experiences with the QGIS community. We welcome user
 {{< column-start>}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6" >}}
+{{< rich-content-start themeClass="coloring-3" >}}
 ### Tickets
 
 Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps. Ticket details and pricing will be announced soon.
@@ -66,7 +77,7 @@ Join the QGIS community in Laax for two days of talks, discussions, and networki
 {{< columns-start >}}
 {{< column-start>}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-2">}}
 
 ### Call for Sponsors
 
