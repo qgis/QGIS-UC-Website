@@ -37,10 +37,12 @@ Presentations cover topics such as:
 The program overview has now been published, see the details at schedule page [Schedule](/schedule/).
 
 
-## Workshop & Onboarding Day
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
+
+## Workshop & Onboarding Day
+
 
 For those who want to dig even deeper we are planning an additional workshop day on the 7th October. During this day you
 will be able to attend longer workshops and get more hands-on experience with QGIS and the community.
@@ -57,7 +59,8 @@ Note that the Workshops and Social Activities require registration. See [activit
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-4">}}
+
 ## Contributor Meeting
 
 Right after the conference, QGIS Contributor Meeting will take place on 7-9 October at a next door venue. This event

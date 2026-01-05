@@ -59,7 +59,7 @@ Partnership in the QGIS User Conference gives you:
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-2">}}
 
 ## Sponsorship Packages
 

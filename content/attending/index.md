@@ -29,7 +29,7 @@ sidebar: true
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-2">}}
 ## Tickets
 
 Tickets go on sale in March. A limited number of Early-Bird tickets will be available at a reduced price.
@@ -196,7 +196,7 @@ Details and locations are TBD.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-4">}}
 ## Contributor Meeting
 
 The Contributor Meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (Diva 1) close to the hotels.
@@ -265,7 +265,7 @@ Once at Crap Sogn Gion, all conference facilities are within easy walking distan
 
 {{< column-start >}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-4">}}
 ### Bike
 
 Mountain biking is fantastic in this region! Lift-accessed trails, cross-country routes, and single-track adventures await riders of all levels. Bike rental is available locally, making it easy to explore the stunning terrain between sessions.
@@ -279,7 +279,7 @@ Mountain biking is fantastic in this region! Lift-accessed trails, cross-country
 {{< columns-start >}}
 {{< column-start >}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-3">}}
 ### Bus
 
 A frequent free local bus service connects Laax Murschetg with Laax town (Laax Posta) in about 5 minutes, and also with nearby villages such as Flims and Falera.
@@ -289,7 +289,7 @@ A frequent free local bus service connects Laax Murschetg with Laax town (Laax P
 {{< column-end >}}
 {{< column-start >}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-2">}}
 ### Gondola
 
 Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.

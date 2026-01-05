@@ -15,13 +15,19 @@ sidebar: true
 {{< content-start >}}
 
 # Schedule
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 
 This page provides both a high-level overview and a [detailed schedule further down](#detailed).
 
 To take the conference schedule with you and plan your days on the go, download the [official conference app](/apps/#conference-app) to browse the full program, mark your favourite talks, and access key information — even offline.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-3">}}
+
 ## Overview (Tentative)
 
 More information about the individual activities is available [here](/activities/). Please note that all events require registration and have a limited number of slots.

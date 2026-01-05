@@ -30,7 +30,7 @@ We reserve the right to cancel any of the social activities if there are too few
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-3">}}
 # Mens sana in corpore sano
 
 Kick-start each day with guided activities around **Laax** to get moving before the sessions. Check the schedule for daily times and meeting points.
@@ -41,7 +41,7 @@ Unless noted otherwise, activities are **free** and require **no registration**.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Sunday - Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
@@ -54,7 +54,7 @@ Price: TBD, **registration required**
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Tuesday - Preconf activation
 TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
 
@@ -62,7 +62,7 @@ TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Wednesday - trailrun
 
 6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1767565813390&style=outdoor)
@@ -75,7 +75,7 @@ We leave at 07:01 after the bus from Laax arrives
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Thursday - hike & fly
 
 Hike & Fly, might be moved to other days depending on weather conditions.
@@ -84,7 +84,7 @@ Hike & Fly, might be moved to other days depending on weather conditions.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-1">}}
 ## Friday - trailrun
 Wonderful 10K trail run along the Connbächli to the Swiss grand Canyon view platform Il spir.
 
@@ -98,7 +98,7 @@ We leave at 07:06 after the bus from Laax arrives (take the 7:02 Bus from Laax M
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-5">}}
 ## Individual Sports & Outdoor Activities
 
 Laax offers a wide range of [outdoor sports and activities](https://www.flimslaax.com/en/outdoor-activities), making it easy to combine the conference with time in the mountains.
@@ -119,7 +119,7 @@ Laax offers a wide range of [outdoor sports and activities](https://www.flimslaa
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-3">}}
 # Extended Conference activities
 
 {{< rich-content-end >}}
@@ -220,7 +220,7 @@ Price: Free, no registration required
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-4">}}
 ### Contributor Meeting (until Friday)
 
 The Contributor Meeting will be held on Wednesday through Friday, and is open to anyone who wants to contribute to QGIS.
