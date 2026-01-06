@@ -1,99 +1,129 @@
 ---
 type: "page"
-title: "QGIS User Conference 2025"
-subtitle: "2-3 June 2025, Norrköping, Sweden"
+title: "QGIS User Conference 2026"
+subtitle: "5-6 October 2026, LAAX, Switzerland"
 draft: false
 heroSize: "is-medium"
-heroImage: "/visualization_center.webp"
-heroLogo: "/uc25_logo_re_color.png"
-additionalLogo: "uc25_logo_re_color.png"
+heroImage: "hero.webp"
+heroLogo: "logo-white.webp"
+additionalLogo: "logo-white.webp"
 HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
-ButtonLink: "qgis-uc-2025.ics"
+ButtonLink: "qgis-uc-2026.ics"
 sidebar: true
 ---
 
 {{< content-start >}}
 
-## Thank you!
 
-The QGIS User Conference 2025 has ended. We would like to thank all the participants, speakers, and sponsors for making this event a success!
+## Welcome to the Swiss Alps!
 
-Missed the conference or specific presentations? Watch them [here](https://www.youtube.com/playlist?list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7)!
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 
-![./images/20250603_151948_qgis_uc_2025_group_photo.jpeg](./images/20250603_151948_qgis_uc_2025_group_photo.jpeg)
+The QGIS User Conference is an annual event that brings together users and developers of the QGIS open-source geographic information system (GIS). The conference offers an opportunity to discover the latest developments in QGIS, share real-world experiences, and network with the global QGIS community across administrations, industry, academia, and beyond.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+
+The next conference will take place on **5–6 October 2026** in **Laax, Switzerland**, in the heart of the Swiss Alps.
+
+In addition to the main conference days:
+- an **informal active outdoor pre-event day** is planned for **4 October 2026**  
+- a dedicated **workshop day** will follow on **7 October 2026**, offering hands-on sessions and deeper technical dives
+- the **QGIS Contributor Meeting** will be held from **7–9 October 2026**, bringing together active contributors for collaboration and planning
+- the **QField Day** will take place on **7 October 2026**, focusing on mobile data collection workflows and real-world use cases
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+## Program
+
+The detailed program will be published closer to the event. In the meantime, you can explore a recent edition on the [QGIS User Conference 2025 website](https://uc2025.qgis.org/) to get a sense of the format and content, and refer to the current [schedule overview](/schedule).
+
 
 
 {{< columns-start >}}
-{{< column-start >}}
+{{< column-start>}}
 
-![](./images/20250602_090059.jpg)
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-4">}}
+### Call for Papers
+Share your work, ideas, and experiences with the QGIS community. We welcome user stories, technical talks, case studies, and workshops from all sectors and experience levels.
 
+[The call for papers will open soon](https://talks.osgeo.org/qgis-uc2026/cfp)
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 {{< column-end >}}
-{{< column-start >}}
+{{< column-start>}}
 
-![](./images/20250602_210839.jpg)
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-3" >}}
+### Tickets
 
-{{< column-end >}}
-{{< column-start >}}
+Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps. Ticket details and pricing will be announced soon.
 
-![](./images/20250605_113535.jpg)
+[Tickets will go on sale in March](/tickets)
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 {{< column-end >}}
 {{< columns-end >}}
 
 {{< columns-start >}}
-{{< column-start >}}
+{{< column-start>}}
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
 
-![](./images/20250605_093323.jpg)
+### Call for Sponsors
 
-{{< column-end >}}
-{{< column-start >}}
+Support the QGIS project and gain visibility within a global open-source geospatial community. Sponsorship packages offer a range of opportunities to connect with users, developers, and decision-makers.
 
-![](./images/20250602_125447.jpg)
+[Learn more about becoming a sponsor](/sponsors/#become-a-sponsor)
 
-{{< column-end >}}
-{{< column-start >}}
-
-![](./images/20250601_195116.jpg)
-
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 {{< column-end >}}
 {{< columns-end >}}
-
-## Organizers & Sponsors
-{{< sponsors-simple >}}
 
 ## Venue
 
 <div class="rounded">
 
-![Visualization Center C](./visualization_center.webp)
+![Venue](./venue.webp)
 
 </div>
 
-The event will be held at the [Visualization Center C](https://www.visualiseringscenter.se/en/), [Cnema](https://cnema.se/)
-and [Campus Norrköping](https://liu.se/en/article/campus-norrkoping) of [Linköping University](https://liu.se/en). These are
-situated in the heart of Norrköping, a city with a rich industrial history and beautiful water displays right outside
-the venues.
+The event will be held at [**LAAX Galaaxy**](https://www.galaaxylaax.com/) on **Crap Sogn Gion**, at **2,222 m above sea level**, in the heart of the Swiss Alps.
+The event will be held at LAAX Galaaxy
+ on Crap Sogn Gion, at 2,222 m above sea level, in the heart of the Swiss Alps
 
+Set right next to the [**Tectonic Arena Sardona**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) UNESCO World Heritage Site, the venue offers breathtaking panoramic views over the surrounding mountain landscape of the Surselva valley, one of the few [Romansh-speaking](https://en.wikipedia.org/wiki/Sursilvan) regions in Switzerland.
 
+Beyond the conference, the region is a true [outdoor playground](https://www.flimslaax.com/en/outdoor-activities/). Participants can enjoy **mountain biking** and **hiking** and **paragliding** flights directly from the venue, and refreshing breaks at [**Caumasee**](https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma), one of Switzerland’s most iconic mountain lakes. Nearby, the [**Rhine Gorge**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge), often called the Swiss Grand Canyon, adds another spectacular highlight with its dramatic cliffs and turquoise waters.
+
+<div class="rounded">
 {{< columns-start >}}
 {{< column-start>}}
 
-![](./globe_c.png)
+![](./venue_1.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](./visualcity_ostlanken-2000x1500.webp)
+![](./venue_2.webp)
 
 {{< column-end >}}
 {{< column-start>}}
 
-![](./Domen-scaled.webp)
+![](./venue_3.webp)
 
 {{< column-end >}}
 {{< columns-end >}}
-
+![](./venue_wide.webp)
+</div>
 {{< content-end >}}

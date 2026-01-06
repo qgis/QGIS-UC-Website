@@ -6,13 +6,13 @@
 > ## 👋 Welcome to the User Conference Website!
 >
 > **This repository hosts the source code for the official User Conference Website:**  
-> 🌍 [https://uc2025.qgis.org](https://uc2025.qgis.org)
+> 🌍 [https://conference.qgis.org](https://conference.qgis.org)
 >
 > Here you'll find everything you need to **build, develop, and contribute** to the User Conference Website.
 >
 > ### ⚠️ Note on Subdomain Websites
 >
-> **This repository is _only_ for the main User Conference Website ([uc2025.qgis.org](https://uc2025.qgis.org)).**
+> **This repository is _only_ for the main User Conference Website ([conference.qgis.org](https://conference.qgis.org)).**
 >
 > If you are looking for the source code or want to contribute to QGIS subdomain websites, please visit their respective repositories below.  
 > Each subdomain has its own codebase and contribution process:
@@ -148,4 +148,4 @@ Have questions or feedback? Feel free to open an issue or submit a Pull Request!
 
 ![-----------------------------------------------------](./img/green-gradient.png)
 
-Made with ❤️ by Tim Sutton (@timlinux), Lova Andriarimalala (@Xpirix) and QGIS Contributors.
+Made with ❤️ by Tim Sutton (@timlinux), Lova Andriarimalala (@Xpirix), Marco Bernasocchi (@mbernasocchi) and QGIS Contributors.

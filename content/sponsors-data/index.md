@@ -1,1 +1,4 @@
-headless = true
+---
+title: Sponsors data
+headless: true
+---

@@ -1,5 +1,5 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
-baseURL = 'https://uc2025.qgis.org/'
+baseURL = 'https://uc2026.qgis.org/'
 languageCode = 'en-us'
 title = 'QGIS UC Website'
 theme = 'hugo-bulma-blocks-theme'
@@ -167,6 +167,11 @@ sectionPagesMenu = 'main'
   weight = 50
 
 [[menu.main]]
+  name = "Accommodation"
+  url = "/accommodation/"
+  weight = 55
+
+[[menu.main]]
   name = "Tickets"
   url = "/tickets/"
   weight = 60
@@ -176,10 +181,6 @@ sectionPagesMenu = 'main'
   url = "/apps/"
   weight = 70
 
-[[menu.main]]
-  name = "Visual City"
-  url = "/visual-city/"
-  weight = 80
 
 [[menu.qgis_org]]
   name = "Project"

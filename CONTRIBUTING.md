@@ -238,6 +238,15 @@ Also some bulma theme overrides are placed in themes/hugo-bulma-blocks-theme/ass
 
 ![-----------------------------------------------------](./img/green-gradient.png)
 
+## Images and naming convention
+
+We use **WebP images** with **standardised file names** (for example `venue_1.webp`, `venue_2.webp`, `hero.webp`).  
+This allows the website structure and templates to remain unchanged from year to year.
+
+When updating content for a new edition, simply **replace the image files** with new ones using the same names — there is **no need to update any code or markdown references**.
+
+![-----------------------------------------------------](./img/green-gradient.png)
+
 ## 💮 Changing the templates
 
 | Page type       | Path                                     |
@@ -261,12 +270,14 @@ The ``content/_index.md`` contains the front matter of the page and the contents
 
 ### Create the content
 
-Content pages are stored in the ``content`` folder. The top level documents there will be rendered with the top level page theming.
+Content pages are stored in the `content/` folder. Top-level pages are created as **page bundles**, which allows images and other resources to live alongside the page content.
 
-For example to add an about page, create ``content/about.md``
+To add a new top-level page, create a folder with an `index.md` file inside it.
 
-The page will be accessible then at /about/
+For example, to add an About page, create ``content/about/index.md``
+The page will then be accessible at ``/about/``
 
+Any images or other assets placed in the same folder can be referenced directly from the page and will be treated as page resources.
 ### 🖼️ Referencing Images and Media
 
 Place images and media in ```static/img```. Everything in ```static``` is referenced
