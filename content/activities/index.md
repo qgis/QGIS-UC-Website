@@ -56,7 +56,7 @@ Price: TBD, **registration required**
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ## Tuesday - Preconf activation
-TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -145,6 +145,10 @@ Price: Free, no registration required, everyone welcome
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ## Monday
+
+### Preconf special event
+
+TBD (Discover Mission control, How does a ski resort work, Gondola talks, ...)
 
 ### Main Conference
 
