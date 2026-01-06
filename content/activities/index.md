@@ -67,7 +67,7 @@ TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
 
 6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1767565813390&style=outdoor)
 
-Meering point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
+Meeting point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
 
 We leave at 07:01 after the bus from Laax arrives
 
