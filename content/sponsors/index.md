@@ -63,7 +63,7 @@ Partnership in the QGIS User Conference gives you:
 
 ## Sponsorship Packages
 
-If you are interested in becoming a sponsor, please contact us at: [marco+uc2026sponsor@opengis.ch](mailto:marco+uc2026sponsor@opengis.ch).
+If you are interested in becoming a sponsor, please contact us at: [uc2026-finances@qgis.org](mailto:uc2026-finances@qgis.org).
 
 To get an idea about the sponsorship packages and opportunities we will offer, please have a look at 
 [last years sponsorship brochure](https://www.qgis.se/wp-content/uploads/2025/02/QGIS-UC-2025-Sponsorship.pdf).
