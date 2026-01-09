@@ -189,7 +189,7 @@ get your ticket if you want to attend!
 
 The price includes lunch after the workshops.
 
-Time: Wednesday 6th of October, TBD with a coffee break<br/>
+Time: Wednesday 7th of October, TBD with a coffee break<br/>
 Price: TBD, registration required
 
 {{< rich-content-end >}}
@@ -203,7 +203,7 @@ Want to learn more about QField, the mobile app for QGIS, in the town where it w
 
 After a short indoor introduction and demo session, we will head outdoors for a guided hike, using QField along the way to explore the surrounding landscape, discover the region, and work through real-world field mapping workflows together.
 
-Time: Wednesday 6th of October, 09:00–17:00<br/>
+Time: Wednesday 7th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
 
 {{< rich-content-end >}}
@@ -216,7 +216,7 @@ Place: Laax Murschetg
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
 to the project, or those who want to get more involved. Topics will be announced later.
 
-Time: Wednesday 6th of October, times TBA<br/>
+Time: Wednesday 7th of October, times TBA<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, no registration required
 
