@@ -56,7 +56,7 @@ Price: TBD, **registration required**
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ## Tuesday - Preconf activation
-TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -67,7 +67,7 @@ TBD Activity on Crap Sogn Gion (Yoga4all, Small hike)
 
 6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1767565813390&style=outdoor)
 
-Meering point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
+Meeting point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
 
 We leave at 07:01 after the bus from Laax arrives
 
@@ -146,6 +146,10 @@ Price: Free, no registration required, everyone welcome
 {{< rich-content-start themeClass="coloring-6">}}
 ## Monday
 
+### Preconf special event
+
+TBD (Discover Mission control, How does a ski resort work, Gondola talks, ...)
+
 ### Main Conference
 
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
@@ -185,7 +189,7 @@ get your ticket if you want to attend!
 
 The price includes lunch after the workshops.
 
-Time: Wednesday 6th of October, TBD with a coffee break<br/>
+Time: Wednesday 7th of October, TBD with a coffee break<br/>
 Price: TBD, registration required
 
 {{< rich-content-end >}}
@@ -199,7 +203,7 @@ Want to learn more about QField, the mobile app for QGIS, in the town where it w
 
 After a short indoor introduction and demo session, we will head outdoors for a guided hike, using QField along the way to explore the surrounding landscape, discover the region, and work through real-world field mapping workflows together.
 
-Time: Wednesday 6th of October, 09:00–17:00<br/>
+Time: Wednesday 7th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
 
 {{< rich-content-end >}}
@@ -212,7 +216,7 @@ Place: Laax Murschetg
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
 to the project, or those who want to get more involved. Topics will be announced later.
 
-Time: Wednesday 6th of October, times TBA<br/>
+Time: Wednesday 7th of October, times TBA<br/>
 Place: Färgeriet, Norrköping<br/>
 Price: Free, no registration required
 
