@@ -15,7 +15,7 @@
                     <div class="hero-container">
                         {{ if .Params.AdditionalLogo }}
                             <figure class="image">
-                                <img src="{{ absURL .Params.AdditionalLogo | safeCSS }}" />
+                                <img src="{{ absURL .Params.AdditionalLogo | safeCSS }}" alt="Conference logo" />
                             </figure>
                         {{ end }}
                         {{ if .Params.LabelText }}
