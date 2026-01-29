@@ -19,11 +19,11 @@ sidebar: true
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 
+Participants of the QGIS User Conference 2026 can book accommodation at conference rates for stays between 2 and 11 October 2026.
+
 Participants must arrange and pay for their own accommodation; it is **not included** in the conference ticket.
 
-To ensure availability during the conference and contributor meeting, we have **pre-blocked rooms** at several hotels.  
-We are currently negotiating special rates, so **please do not book yet**.
-
+👉 Please use the booking links below, as they already have the conference rate applied.
 {{< rich-content-end>}}
 {{< rich-box-end >}}
 
@@ -34,14 +34,16 @@ We are currently negotiating special rates, so **please do not book yet**.
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
-## Recommended hotels with pre-blocked rooms
+## Recommended hotels with conference rates
 
-Booking details and discount codes will be shared once negotiations are finalized.
+The conference rates apply to all room categories and are valid for both conference participants and accompanying persons. Early arrivals and extended stays are also covered, provided they fall within the period 2–11 October 2026.
+
+Availability is limited, so we recommend booking early.
 
 {{< rich-content-end>}}
 {{< rich-box-end >}}
 
-### [Rocks Resort](https://www.rocksresort.com)
+### [Rocks Resort](https://www.simplebooking.it/ibe2/hotel/4157/offer/226076?lang=EN&coupon=QGIS2026LAAX&cur=CHF)
 {{< columns-start >}}
 {{< column-start>}}
 
@@ -60,7 +62,7 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< column-end >}}
 {{< columns-end >}}
 
-### [Hotel Signina](https://www.signinahotel.com)
+### [Hotel Signina](https://www.simplebooking.it/ibe2/hotel/4156/offer/227691?lang=EN&coupon=QGIS2026LAAX&cur=CHF)
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -80,7 +82,7 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< column-end >}}
 {{< columns-end >}}
 
-### [Riders Hotel](https://www.ridershotel.com)  
+### [Riders Hotel](https://www.simplebooking.it/ibe2/hotel/4158/offer/227609?lang=EN&coupon=QGIS2026LAAX&cur=CHF)  
 
 {{< columns-start >}}
 {{< column-start>}}
