@@ -41,7 +41,7 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< rich-content-end>}}
 {{< rich-box-end >}}
 
-### [Rocks Resort](https://www.rocksresort.com)
+### [Rocks Resort](https://www.simplebooking.it/ibe2/hotel/4157/offer/226076?lang=EN&coupon=QGIS2026LAAX&cur=CHF)
 {{< columns-start >}}
 {{< column-start>}}
 
@@ -60,7 +60,7 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< column-end >}}
 {{< columns-end >}}
 
-### [Hotel Signina](https://www.signinahotel.com)
+### [Hotel Signina](https://www.simplebooking.it/ibe2/hotel/4156/offer/227691?lang=EN&coupon=QGIS2026LAAX&cur=CHF)
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -80,7 +80,7 @@ Booking details and discount codes will be shared once negotiations are finalize
 {{< column-end >}}
 {{< columns-end >}}
 
-### [Riders Hotel](https://www.ridershotel.com)  
+### [Riders Hotel](https://www.simplebooking.it/ibe2/hotel/4158/offer/227609?lang=EN&coupon=QGIS2026LAAX&cur=CHF)  
 
 {{< columns-start >}}
 {{< column-start>}}
