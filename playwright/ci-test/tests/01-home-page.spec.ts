@@ -32,36 +32,79 @@ test.describe("Home page", () => {
 
     test("Header", async ({ header }) => {
         await expect(header.logoLink).toBeVisible();
-        await expect(header.projectLink).toBeVisible();
-        await header.projectLink.hover();
-        await expect(header.overviewLink).toBeVisible();
+        
+        // Second navigation menu tests
+        await expect(header.context).toBeVisible();
+        await expect(header.homeLink).toBeVisible();
+        await expect(header.aboutNavLink).toBeVisible();
+        await expect(header.scheduleLink).toBeVisible();
+        await expect(header.activitiesLink).toBeVisible();
+        await expect(header.sponsorsLink).toBeVisible();
+        await expect(header.attendingLink).toBeVisible();
+        await expect(header.accommodationLink).toBeVisible();
+        await expect(header.ticketsLink).toBeVisible();
+        await expect(header.appsLink).toBeVisible();
+
+        // About
+        await expect(header.aboutLink).toBeVisible();
+        await header.aboutLink.hover();
+        await expect(header.featuresLink).toBeVisible();
+        await expect(header.mapsLink).toBeVisible();
         await expect(header.caseStudiesLink).toBeVisible();
-        await expect(header.pluginsLink).toBeVisible();
+        await expect(header.newsAndBlog).toBeVisible();
         await expect(header.visualChangelogLink).toBeVisible();
-        await expect(header.communityLink).toBeVisible();
-        await header.communityLink.hover();
-        await expect(header.getInvolvedLink).toBeVisible();
-        await expect(header.certifiedMemberLink).toBeVisible();
-        await expect(header.qgisFoundationLink).toBeVisible();
-        await expect(header.projectOrganisationLink).toBeVisible();
-        await expect(header.membersBlogLink).toBeVisible();
-        await expect(header.downloadLink).toBeVisible();
+        await expect(header.roadmapLink).toBeVisible();
+        await expect(header.membersLink).toBeVisible();
+        await expect(header.supportLink).toBeVisible();
+
+        // Resources
         await expect(header.resourcesLink).toBeVisible();
         await header.resourcesLink.hover();
         await expect(header.documentationLink).toBeVisible();
-        await expect(header.installationGuideLink).toBeVisible();
-        await expect(header.roadmapLink).toBeVisible();
-        await expect(header.reportsLink).toBeVisible();
+        await expect(header.resourcesHubLink).toBeVisible();
+        await expect(header.pluginsLink).toBeVisible();
         await expect(header.booksLink).toBeVisible();
-        await expect(header.supportLink).toBeVisible();
-        await expect(header.blogLink).toBeVisible();
+        await expect(header.certifiedMemberLink).toBeVisible();
+        await expect(header.reportsLink).toBeVisible();
+
+        // Community
+        await expect(header.communityLink).toBeVisible();
+        await header.communityLink.hover();
+        await expect(header.getInvolvedLink).toBeVisible();
+        await expect(header.meetingsLink).toBeVisible();
+        await expect(header.qgisFoundationLink).toBeVisible();
+        await expect(header.projectOrganisationLink).toBeVisible();
+        await expect(header.membersBlogLink).toBeVisible();
+        await expect(header.userGroupLink).toBeVisible();
+        await expect(header.metricsLink).toBeVisible();
+
+        // Buttons
+        await expect(header.downloadLink).toBeVisible();
         await expect(header.donateLink).toBeVisible();
         await expect(header.searchInput).toBeVisible();
         await expect(header.searchInput).toBeEmpty();
     });
 
     test("Content", async ({ homePage }) => {
-        // Add more tests here
+        // Page content visibility tests
+        await expect(homePage.conferenceLogo).toBeVisible();
+        await expect(homePage.conferenceHeading).toBeVisible();
+        await expect(homePage.secondImage).toBeVisible();
+        await expect(homePage.dateText).toBeVisible();
+        await expect(homePage.calendarLink).toBeVisible();
+        await expect(homePage.sidebarColumn).toBeVisible();
+        await expect(homePage.welcomeText).toBeVisible();
+        
+        // Sidebar navigation links
+        await expect(homePage.sidebarHomeLink).toBeVisible();
+        await expect(homePage.sidebarAboutLink).toBeVisible();
+        await expect(homePage.sidebarScheduleLink).toBeVisible();
+        await expect(homePage.sidebarActivitiesLink).toBeVisible();
+        await expect(homePage.sidebarSponsorsLink).toBeVisible();
+        await expect(homePage.sidebarAttendingLink).toBeVisible();
+        await expect(homePage.sidebarAccommodationLink).toBeVisible();
+        await expect(homePage.sidebarTicketsLink).toBeVisible();
+        await expect(homePage.sidebarAppsLink).toBeVisible();
 
         for (const text of homePage.textList) {
             await expect(homePage.pageBody).toContainText(text);
@@ -75,7 +118,7 @@ test.describe("Home page", () => {
         await expect(footer.resourcesList.first()).toBeVisible();
         await expect(footer.fundingList).toBeVisible();
         await expect(footer.downloadLink).toBeVisible();
-        await expect(footer.overviewLink).toBeVisible();
+        await expect(footer.featuresLink).toBeVisible();
         await expect(footer.caseStudiesLink).toBeVisible();
         await expect(footer.pluginsLink).toBeVisible();
         await expect(footer.visualChangelogsLink).toBeVisible();
@@ -93,7 +136,6 @@ test.describe("Home page", () => {
         await expect(footer.booksLink).toBeVisible();
         await expect(footer.supportLink).toBeVisible();
         await expect(footer.qgisDashboardLink).toBeVisible();
-        await expect(footer.pluginsDashboardLink).toBeVisible();
         await expect(footer.blogLink).toBeVisible();
         await expect(footer.donateLink).toBeVisible();
         await expect(footer.membershipList).toBeVisible();
@@ -109,6 +151,5 @@ test.describe("Home page", () => {
         await expect(footer.mapstodonLink).toBeVisible();
         await expect(footer.ghLink).toBeVisible();
         await expect(footer.mailLink).toBeVisible();
-        // Add more tests here
     });
 });
