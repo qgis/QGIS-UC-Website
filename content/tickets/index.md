@@ -40,7 +40,7 @@ Some additional activities, such as the extra **Workshop Day**, require separate
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-{{< tito "qgis-ch/qgis-user-conference-2026" >}}
+Tickets will be available from end of March
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
