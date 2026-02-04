@@ -298,4 +298,16 @@ Daily access to the venue is via the gondola from Laax Murschetg. Operating time
 {{< column-end >}}
 {{< columns-end >}}
 
+## Code of Conduct
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+
+The QGIS community Code of Conduct applies to all attendees, speakers, sponsors, volunteers, and staff at the QGIS User Conference. Please follow the policy and reporting instructions at [https://qgis.org/conduct](https://qgis.org/conduct).
+
+If you experience or witness unacceptable behaviour, report it to event staff or a member of the local committee so we can respond promptly.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
 {{< content-end >}}
