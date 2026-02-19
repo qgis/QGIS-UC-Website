@@ -48,7 +48,7 @@ Many apartments and alternative accommodations can be booked through official lo
 {{< rich-content-start themeClass="coloring-1">}}
 ## Recommended hotels with conference rates
 
-The conference rates apply to all room categories and are valid for both conference participants and accompanying persons. Early arrivals and extended stays are also covered, provided they fall within the period 2–11 October 2026.
+These hotels are recommended because of their location in Laax Murschetg, where the gondola to the conference venue departs, making access especially easy. The conference rates apply to all room categories and are valid for both conference participants and accompanying persons. Early arrivals and extended stays are also covered, provided they fall within the period 2–11 October 2026.
 
 Availability is limited, so we recommend booking early.
 
