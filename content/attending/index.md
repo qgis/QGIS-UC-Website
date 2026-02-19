@@ -186,7 +186,7 @@ All rooms are located in or around the **Crap Sogn Gion** building and are reach
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-5">}}
 ## Workshops
 
 Workshops will be held in Laax Murschetg (no gondola required).
@@ -196,7 +196,7 @@ Details and locations are TBD.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-4">}}
+{{< rich-content-start themeClass="coloring-3">}}
 ## Contributor Meeting
 
 The Contributor Meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (Diva 1) close to the hotels.

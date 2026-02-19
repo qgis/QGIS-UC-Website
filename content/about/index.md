@@ -39,7 +39,7 @@ The program overview has now been published, see the details at schedule page [S
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-5">}}
 
 ## Workshop & Onboarding Day
 
@@ -59,7 +59,7 @@ Note that the Workshops and Social Activities require registration. See [activit
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-4">}}
+{{< rich-content-start themeClass="coloring-3">}}
 
 ## Contributor Meeting
 

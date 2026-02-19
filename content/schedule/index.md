@@ -26,7 +26,7 @@ To take the conference schedule with you and plan your days on the go, download 
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
+{{< rich-content-start themeClass="coloring-4">}}
 
 ## Overview (Tentative)
 

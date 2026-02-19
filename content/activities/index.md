@@ -30,7 +30,7 @@ We reserve the right to cancel any of the social activities if there are too few
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
+{{< rich-content-start themeClass="coloring-4">}}
 # Mens sana in corpore sano
 
 Kick-start each day with guided activities around **Laax** to get moving before the sessions. Check the schedule for daily times and meeting points.
@@ -119,7 +119,7 @@ Laax offers a wide range of [outdoor sports and activities](https://www.flimslaa
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
+{{< rich-content-start themeClass="coloring-4">}}
 # Extended Conference activities
 
 {{< rich-content-end >}}
@@ -178,7 +178,7 @@ opportunities.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-5">}}
 ## Wednesday
 
 ### Hands-on Workshops
@@ -196,7 +196,7 @@ Price: TBD, registration required
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-5">}}
 ### QField Day
 
 Want to learn more about QField, the mobile app for QGIS, in the town where it was born? Join us for a full-day QField experience combining indoor sessions with hands-on exploration in the field.
@@ -210,7 +210,7 @@ Place: Laax Murschetg
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-5">}}
 ### Onboarding Day
 
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
@@ -224,7 +224,7 @@ Price: Free, no registration required
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-4">}}
+{{< rich-content-start themeClass="coloring-3">}}
 ### Contributor Meeting (until Friday)
 
 The Contributor Meeting will be held on Wednesday through Friday, and is open to anyone who wants to contribute to QGIS.
