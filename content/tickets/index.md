@@ -26,7 +26,7 @@ A ticket gives you access to the conference including the Social Dinner and the 
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-4">}}
 
 All participants need a ticket for the conference, including speakers and workshop presenters.
 
