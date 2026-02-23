@@ -13,11 +13,6 @@
                 
                 <div class="column is-8 is-flex hero-text has-text-left">
                     <div class="hero-container">
-                        {{ if .Params.AdditionalLogo }}
-                            <figure class="image">
-                                <img src="{{ absURL .Params.AdditionalLogo | safeCSS }}" alt="Conference logo" />
-                            </figure>
-                        {{ end }}
                         {{ if .Params.LabelText }}
                             <div class="label">
                                 {{ .Params.LabelText }}
@@ -31,7 +26,6 @@
                                 {{ .Params.SubTitle }}
                             </p>
                         {{ end }}
-
                     </div>
                     <div class="is-vcentered">
                         {{ if .Params.ButtonText }}
@@ -51,7 +45,7 @@
             </div>
             {{ if ( .Params.HeroLogo ) }}
                 <div
-                    class="logo column is-flex is-justify-content-center is-hidden-mobile"
+                    class="logo column is-justify-content-center"
                 >
                     <figure class="image">
                         <img src="{{ absURL .Params.HeroLogo | safeCSS }}" />
