@@ -1,0 +1,100 @@
+{{- $d := site.Data.weekgrid -}}
+{{- $slot := int (default 30 $d.slot_minutes) -}}
+{{- $day := "2000-01-01" -}}
+
+{{- $start := time.AsTime (printf "%sT%s:00Z" $day $d.time_start) -}}
+{{- $end   := time.AsTime (printf "%sT%s:00Z" $day $d.time_end) -}}
+
+{{- $totalMins := div (sub ($end.Unix) ($start.Unix)) 60 -}}
+{{- $steps := add 1 (div $totalMins $slot) -}}
+
+{{- /* Build columns = day × track */ -}}
+{{- $cols := slice -}}
+{{- range $dayDef := $d.days -}}
+  {{- range $tr := $dayDef.tracks -}}
+    {{- $cols = $cols | append (dict
+      "day" $dayDef
+      "tr"  $tr
+      "key" (printf "%s__%s" $dayDef.id $tr.id)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Track remaining rowspan per column */ -}}
+{{- $remain := newScratch -}}
+{{- range $cols -}}
+  {{- $remain.Set .key 0 -}}
+{{- end -}}
+
+<!-- Legend -->
+<div class="weekgrid-legend" aria-label="Legend">
+  <span class="legend-item"><span class="legend-swatch ev-plenary"></span> Plenary Sessions</span>
+  <span class="legend-item"><span class="legend-swatch ev-main"></span> Conference</span>
+  <span class="legend-item"><span class="legend-swatch ev-workshop"></span> Workshops</span>
+  <span class="legend-item"><span class="legend-swatch ev-break"></span> Breaks</span>
+  <span class="legend-item"><span class="legend-swatch ev-social"></span> Social events</span>
+  <span class="legend-item"><span class="legend-swatch ev-contributor"></span> Contributor Meeting</span>
+
+</div>
+
+<div class="weekgrid-wrap">
+<table class="weekgrid">
+<tbody>
+
+<!-- Header row: days -->
+<tr class="weekgrid-head">
+  <td class="weekgrid-timehead">&nbsp;</td>
+  {{- range $dayDef := $d.days -}}
+    <th class="weekgrid-day" colspan="{{ len $dayDef.tracks }}">{{ $dayDef.title }}</th>
+  {{- end -}}
+</tr>
+
+<!-- Body -->
+{{- range $i := seq 0 (sub $steps 1) -}}
+  {{- $dur := time.ParseDuration (printf "%dm" (mul $i $slot)) -}}
+  {{- $t := $start.Add $dur -}}
+  {{- $label := $t.Format "15:04" -}}
+
+  <tr>
+    <td class="weekgrid-time">{{ $label }}</td>
+
+    {{- range $col := $cols -}}
+      {{- $left := int ($remain.Get $col.key) -}}
+      {{- if gt $left 0 -}}
+        {{- $remain.Set $col.key (sub $left 1) -}}
+      {{- else -}}
+        {{- $dayId := $col.day.id -}}
+        {{- $trId  := $col.tr.id -}}
+        {{- $eventsByDay := index $d.events $dayId | default dict -}}
+        {{- $events := index $eventsByDay $trId | default (slice) -}}
+
+        {{- $match := first 1 (where $events "start" $label) -}}
+        {{- if gt (len $match) 0 -}}
+          {{- $ev := index $match 0 -}}
+
+          {{- $evStart := time.AsTime (printf "%sT%s:00Z" $day $ev.start) -}}
+          {{- $evEnd   := time.AsTime (printf "%sT%s:00Z" $day $ev.end) -}}
+          {{- $mins := div (sub ($evEnd.Unix) ($evStart.Unix)) 60 -}}
+          {{- $raw := div $mins $slot -}}
+          {{- $rs := cond (lt $raw 1) 1 $raw -}}
+
+          {{- $remain.Set $col.key (sub $rs 1) -}}
+
+          <td class="weekgrid-cell {{ $ev.class }}" rowspan="{{ $rs }}">
+            {{- if $ev.link -}}
+              <a class="weekgrid-link" href="{{ $ev.link | safeURL }}">{{ $ev.label | safeHTML }}</a>
+            {{- else -}}
+              {{ $ev.label | safeHTML }}
+            {{- end -}}
+          </td>
+        {{- else -}}
+          <td class="weekgrid-cell">&nbsp;</td>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </tr>
+{{- end -}}
+
+</tbody>
+</table>
+</div>
