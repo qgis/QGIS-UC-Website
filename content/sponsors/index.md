@@ -63,10 +63,10 @@ Partnership in the QGIS User Conference gives you:
 
 ## Sponsorship Packages
 
-Explore all sponsorship packages and opportunities in our [sponsorship brochure](QGIS-UC-2026-Sponsorship.pdf).
+Explore all sponsorship packages and opportunities in our [sponsorship brochure](QGIS-UC-Sponsorship.pdf).
 We are also happy to discuss additional opportunities or tailor a package to fit your needs. 
 
-Get in touch at uc2026-finances@qgis.org. [uc2026-finances@qgis.org](mailto:uc2026-finances@qgis.org).
+Get in touch at [uc2026-chair@qgis.org](mailto:uc2026-chair@qgis.org).
 
 {{< rich-content-end>}}
 {{< rich-box-end >}}
