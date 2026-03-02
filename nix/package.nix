@@ -25,13 +25,9 @@ stdenv.mkDerivation {
 
   buildInputs = [ hugo ];
 
-  # Populate the theme directory before building
-  preBuild = ''
-    mkdir -p themes/qgis-website-theme
-    ln -s ${theme}/. themes/qgis-website-theme/
-  '';
-
   buildPhase = ''
+    rm -rf themes/qgis-website-theme
+    ln -s ${theme} themes/qgis-website-theme
     hugo --config config.toml,config/config.prod.toml
   '';
 
