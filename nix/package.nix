@@ -2,7 +2,6 @@
   lib,
   stdenv,
   hugo,
-  theme, # the Hugo theme passed in from the flake
 }:
 
 stdenv.mkDerivation {
@@ -24,12 +23,6 @@ stdenv.mkDerivation {
   };
 
   buildInputs = [ hugo ];
-
-  # Populate the theme directory before building
-  preBuild = ''
-    mkdir -p themes/qgis-website-theme
-    cp -r ${theme}/. themes/qgis-website-theme/
-  '';
 
   buildPhase = ''
     hugo --config config.toml,config/config.prod.toml
