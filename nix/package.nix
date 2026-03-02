@@ -28,7 +28,7 @@ stdenv.mkDerivation {
   # Populate the theme directory before building
   preBuild = ''
     mkdir -p themes/qgis-website-theme
-    cp -r ${theme}/. themes/qgis-website-theme/
+    ln -s ${theme}/. themes/qgis-website-theme/
   '';
 
   buildPhase = ''
