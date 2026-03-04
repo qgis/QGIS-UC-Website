@@ -42,6 +42,14 @@
                                 {{ .Params.ButtonText }}
                             </a>
                         {{ end }}
+                        {{ if .Params.SecondButtonText }}
+                            <a
+                                class="button is-primary6 is-size-5"
+                                href="{{ .Params.SecondButtonLink | absURL }}"
+                            >
+                                {{ .Params.SecondButtonText }}
+                            </a>
+                        {{ end }}
                         {{ if .Params.SupportedOS }}
                             <p class="subtitle hero-subtitle">
                                 {{ .Params.SupportedOS }}
