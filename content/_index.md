@@ -11,7 +11,7 @@ HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
 ButtonLink: "qgis-uc-2026.ics"
-SecondButtonText: "Submit presentation"
+SecondButtonText: "Submit a presentation"
 SecondButtonLink: "https://talks.osgeo.org/qgis-uc2026/cfp"
 sidebar: true
 ---
