@@ -70,6 +70,7 @@ Submissions can cover any topics relevant to the QGIS community, for example:
 ### Talks (30min)
 - 20 minutes presentation
 - 5 minutes for questions
+- 5 minutes for the participants to change rooms and next speaker setup.
 
 ### Short Workshops (90min)
 Hands-on sessions during the main conference days (5-6 October).
