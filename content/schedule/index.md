@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "QGIS User Conference 2026"
-subtitle: "5-6 October 2026, Switzerland"
+subtitle: "5-6 October 2026, Laax, Switzerland"
 heroImage: "hero.webp"
 heroLogo: "logo-white.webp"
 heroMenu: "uc-2026"
