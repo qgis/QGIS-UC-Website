@@ -18,7 +18,7 @@ sidebar: true
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-2">}}
 
 ## Submit
 
@@ -29,9 +29,23 @@ Talks and workshops proposals can be submitted until 12 April 2026 at 23:59 (Eur
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-3">}}
+
+## Important Dates
+
+| | |
+|---|---|
+| Call for Papers opens: | 5 March 2026 |
+| Call for Papers deadline: | 12 April 2026 at 23:59 (Europe/Zurich) |
+| Speaker notifications: | 29 May 2026 |
+| Conference: | 5–6 October 2026 |
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-1">}}
 
 The organisation committee welcomes talks and workshops of all levels of expertise, from end user to highly technical, and from academic, professional and community projects.
 
@@ -49,33 +63,19 @@ Submissions can cover any topics relevant to the QGIS community, for example:
 
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
-
-## Important Dates
-
-| | |
-|---|---|
-| Call for Papers opens: | 5 March 2026 |
-| Call for Papers deadline: | 12 April 2026 at 23:59 (Europe/Zurich) |
-| Speaker notifications: | 29 May 2026 |
-| Conference: | 5–6 October 2026 |
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
+{{< rich-content-start themeClass="coloring-6">}}
 
 ## Session Types
 
-Talks — 25 minutes total:
+### Talks (30min)
 - 20 minutes presentation
 - 5 minutes for questions
 
-Workshops — 1h30 hands-on sessions during the main conference days.
+### Short Workshops (90min)
+Hands-on sessions during the main conference days (5-6 October).
 
-Workshop & Onboarding Day (7 October) — extended workshop slots of 4 hours including a 30-minute break, for those who want to dig deeper into QGIS tools and workflows.
+### Workshops (7 October) 
+Extended workshop slots of 4 hours including a 30-minute break, for those who want to dig deeper into QGIS tools and workflows.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
