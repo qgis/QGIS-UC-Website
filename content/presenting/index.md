@@ -57,6 +57,8 @@ Submissions can cover any topics relevant to the QGIS community, for example:
 - Using QGIS in large organisations (experiences and recommendations)
 - Integration of QGIS with other geospatial products
 - Future plans for the QGIS project
+- Open source as a strategic choice
+- GIS sovereignty with QGIS
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
