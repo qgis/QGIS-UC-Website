@@ -12,7 +12,7 @@ heroIsUserConference: true
 ButtonText: "Add to your Calendar"
 ButtonLink: "qgis-uc-2026.ics"
 SecondButtonText: "Submit a presentation"
-SecondButtonLink: "https://talks.osgeo.org/qgis-uc2026/cfp"
+SecondButtonLink: "/presenting"
 sidebar: true
 ---
 
