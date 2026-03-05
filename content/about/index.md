@@ -19,7 +19,7 @@ sidebar: true
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 
-The conference includes a variety of presentations, workshops, and discussions on a wide range of QGIS topics.
+The conference is English speaking and includes a variety of presentations, workshops, and discussions on a wide range of QGIS topics.
 Presentations cover topics such as:
 - Interesting use cases of QGIS
 - Advanced workflows with QGIS

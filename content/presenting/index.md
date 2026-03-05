@@ -68,6 +68,7 @@ Submissions can cover any topics relevant to the QGIS community, for example:
 {{< rich-content-start themeClass="coloring-6">}}
 
 ## Session Types
+All sessions will be held in English
 
 ### Talks (30min)
 - 20 minutes presentation
