@@ -19,7 +19,8 @@ sidebar: true
 {{< rich-content-start themeClass="coloring-6">}}
 ## Quick facts
 
-- Venue: LAAX Galaaxy, Crap Sogn Gion (2,222 m)  
+- Venue: LAAX Galaaxy, Crap Sogn Gion (2,222 m)
+- Language: English
 - Dates: 5–6 October 2026  
 - Workshops: 7 October (Laax Murschetg)  
 - Contributor Meeting: 7–9 October (Laax Murschetg)  
