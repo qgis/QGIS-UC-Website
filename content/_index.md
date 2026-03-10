@@ -106,6 +106,9 @@ Set right next to the [**Tectonic Arena Sardona**](https://www.flimslaax.com/en/
 
 Beyond the conference, the region is a true [outdoor playground](https://www.flimslaax.com/en/outdoor-activities/). Participants can enjoy **mountain biking** and **hiking** and **paragliding** flights directly from the venue, and refreshing breaks at [**Caumasee**](https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma), one of Switzerland’s most iconic mountain lakes. Nearby, the [**Rhine Gorge**](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge), often called the Swiss Grand Canyon, adds another spectacular highlight with its dramatic cliffs and turquoise waters.
 
+For hotels and local stay options, visit the [accommodation page](/accommodation).
+
+
 <div class="rounded">
 {{< columns-start >}}
 {{< column-start>}}
