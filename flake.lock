@@ -51,13 +51,30 @@
         "type": "github"
       }
     },
+    "qgis-website-theme": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1773726577,
+        "narHash": "sha256-dynOwE1OKrSn/SOU3KjVOagZPRZH++P0kwDfs/dWSOk=",
+        "owner": "qgis",
+        "repo": "QGIS-Hugo-Website-Theme",
+        "rev": "93fe2aed56f38995104fea8674f9dac7077e5e44",
+        "type": "github"
+      },
+      "original": {
+        "owner": "qgis",
+        "repo": "QGIS-Hugo-Website-Theme",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
         "nixpkgs": [
           "nixpkgs-version",
           "nixpkgs-25-05"
         ],
-        "nixpkgs-version": "nixpkgs-version"
+        "nixpkgs-version": "nixpkgs-version",
+        "qgis-website-theme": "qgis-website-theme"
       }
     }
   },
