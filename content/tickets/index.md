@@ -19,7 +19,7 @@ sidebar: true
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 
-Tickets will start selling in March. 
+Tickets will start selling mid April. 
 
 A ticket gives you access to the conference including the Social Dinner and the tickets needed for the gondola. There is no difference between the Early Bird ticket and the Standard ticket, except the price and that Early Bird tickets are only available in a limited amount.
 {{< rich-content-end >}}
@@ -40,7 +40,7 @@ Some additional activities, such as the extra **Workshop Day**, require separate
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-Tickets will be available from end of March
+Tickets will be available from mid April
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

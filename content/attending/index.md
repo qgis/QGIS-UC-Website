@@ -33,7 +33,7 @@ sidebar: true
 {{< rich-content-start themeClass="coloring-2">}}
 ## Tickets
 
-Tickets go on sale in March. A limited number of Early-Bird tickets will be available at a reduced price.
+Tickets go on sale in mid April. A limited number of Early-Bird tickets will be available at a reduced price.
 
 All participants need a ticket for the conference, including speakers and workshop presenters. For more information see the [tickets page](/tickets/).
 {{< rich-content-end >}}

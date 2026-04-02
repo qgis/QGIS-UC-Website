@@ -69,7 +69,7 @@ Share your work, ideas, and experiences with the QGIS community. We welcome user
 
 Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps. Ticket details and pricing will be announced soon.
 
-[Tickets will go on sale in March](/tickets)
+[Tickets will go on sale mid April](/tickets)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
