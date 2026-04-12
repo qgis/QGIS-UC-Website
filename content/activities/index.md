@@ -59,7 +59,7 @@ Price: **€40**, registration required — covers transportation and guide fees
 
 **Ruinaulta Rhine Gorge walk with guide**
 
-[View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1775594627354&style=outdoor)
+[View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1775594627354&style=outdoor&bottomBar=open)
 
 We take the bus from Laax to Valendas-Sagogn and walk the most scenic stretch of the Ruinaulta, the so-called "Swiss Grand Canyon." A local Ruinaulta guide joins us for the full walk, bringing the gorge's story to life along the way.
 
@@ -80,7 +80,7 @@ Time: 9:30–14:00
 
 **Segnes Plateau hike with GeoRanger**
 
-[View route](https://routeplanner.suunto.com/?route=segnes-short-1775593384542&style=outdoor)
+[View route](https://routeplanner.suunto.com/?route=segnes-short-1775593384542&style=outdoor&bottomBar=open)
 
 We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included). From there we descend to Stalla and take the bus back to Laax.
 
@@ -101,7 +101,7 @@ Time: 9:30–15:00
 
 **Segnes Plateau hike with GeoRanger (long option)**
 
-[View route](https://routeplanner.suunto.com/?route=qgis-uc-2026---segnes---trutg-dil-flem-1775602204894&style=outdoor)
+[View route](https://routeplanner.suunto.com/?route=qgis-uc-2026---segnes---trutg-dil-flem-1775602204894&style=outdoor&bottomBar=open)
 
 We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included).
 
