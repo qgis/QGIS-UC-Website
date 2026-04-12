@@ -51,7 +51,9 @@ You can choose your activity after purchase. Tickets can be purchased together w
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-2">}}
-### Rhine Gorge – Easy (3h walk)
+### Rhine Gorge – Easy (2h walk)
+
+![](./hike-valley.jpg)
 
 **Ruinaulta Rhine Gorge walk with guide**
 
@@ -74,7 +76,7 @@ Time: 9:30–14:00
 {{< rich-content-start themeClass="coloring-2">}}
 ### UNESCO Hike – Short (3h walk)
 
-![](./hike-short.webp)
+![](./hike-short.jpg)
 
 **Segnes Plateau hike with GeoRanger**
 
@@ -95,7 +97,9 @@ Time: 9:30–15:00
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-2">}}
-### UNESCO Hike – Long (6h)
+### UNESCO Hike – Long (5h)
+
+![](./hike-long.jpg)
 
 **Segnes Plateau hike with GeoRanger (long option)**
 
