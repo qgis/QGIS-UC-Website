@@ -16,18 +16,12 @@ sidebar: true
 
 # Activities
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
-
 In addition to the main User Conference and the Contributor Meeting we also offer a number of additional activities.
 This page lists all offered activities, including the main conference and the contributor meeting.
 
 See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-4">}}
@@ -41,14 +35,16 @@ Unless noted otherwise, activities are **free** and require **no registration**.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Sunday - Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
 Time: Sunday 4th of October<br/>
 Place: Laax Murschetg<br/>
-Price: **€40**, registration required — covers transportation and guide fees. Choose your activity after purchase: shorter hike on the Segnes plateau, longer hike via Trutg dil Flem to Flims, or an easy walk through the Ruinaulta Rhine Gorge. Tickets can be purchased together with your conference ticket.
+Price: **€40**, registration required — covers transportation and guide fees. 
+
+You can choose your activity after purchase. Tickets can be purchased together with your conference ticket on [ti.to/qgis/uc-2026](https://ti.to/qgis/uc-2026).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -112,6 +108,14 @@ A certified Sardona GeoRanger will guide the group through the geology of the UN
 **14 km, +135 m / -1148 m** — Moderate to challenging, with a long descent. Hiking poles recommended.
 
 Time: 9:30–17:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+## Monday - Preconf activation
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -232,6 +236,10 @@ Price: Included in the conference ticket
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 ## Tuesday
+
+### Preconf activation
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
+
 ### Main Conference
 
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
