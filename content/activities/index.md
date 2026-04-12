@@ -46,9 +46,72 @@ Unless noted otherwise, activities are **free** and require **no registration**.
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
-Time: Sunday 4th of October, times TBA<br/>
-Place: TBD<br/>
-Price: TBD, **registration required**
+Time: Sunday 4th of October<br/>
+Place: Laax Murschetg<br/>
+Price: **€40**, registration required — covers transportation and guide fees. Choose your activity after purchase: shorter hike on the Segnes plateau, longer hike via Trutg dil Flem to Flims, or an easy walk through the Ruinaulta Rhine Gorge. Tickets can be purchased together with your conference ticket.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### Rhine Gorge – Easy (3h walk)
+
+**Ruinaulta Rhine Gorge walk with guide**
+
+[View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1775594627354&style=outdoor)
+
+We take the bus from Laax to Valendas-Sagogn and walk the most scenic stretch of the Ruinaulta, the so-called "Swiss Grand Canyon." A local Ruinaulta guide joins us for the full walk, bringing the gorge's story to life along the way.
+
+Some 9,450 years ago, over 7 cubic kilometres of rock broke loose above Flims and plunged into the Vorderrhein valley. The Rhine dammed up, forming a lake that persisted for around 1,000 years before the river slowly carved its way through the debris to create today's gorge. The wild, natural gorge with its open gravel banks is a habitat for rare birds, and the forests are known for an unusual variety of orchids.
+
+The trail from Valendas to Versam runs directly along the Rhine, through floodplain forests, across meadows and past white pebble beaches. At Versam-Safien we hop on the Rhaetian Railway to Ilanz, then bus back to Laax.
+
+**4.6 km, +52 m / -80 m** — Easy, suitable for all fitness levels.
+
+Time: 9:30–14:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### UNESCO Hike – Short (3h walk)
+
+**Segnes Plateau hike with GeoRanger**
+
+[View route](https://routeplanner.suunto.com/?route=segnes-short-1775593384542&style=outdoor)
+
+We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included). From there we descend to Stalla and take the bus back to Laax.
+
+A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+
+The perfect way to clear your head the day before three days of QGIS talks.
+
+**7.5 km, +127 m / -297 m** — Easy to moderate, suitable for all fitness levels.
+
+Time: 9:30–15:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### UNESCO Hike – Long (6h)
+
+**Segnes Plateau hike with GeoRanger (long option)**
+
+[View route](https://routeplanner.suunto.com/?route=qgis-uc-2026---segnes---trutg-dil-flem-1775602204894&style=outdoor)
+
+We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included).
+
+From there we join the Trutg dil Flem ("riverside trail" in Romansh), following the Flem river from its source on the upper Segnesboden all the way down to Flims village. The trail cuts through narrow gorge landscapes past waterfalls, water mills and bizarre rock formations, all carved through Europe's largest landslide. Seven bridges designed by Graubünden engineer Jürg Conzett punctuate the descent, each one a distinct piece of functional design. The trail ends in the centre of Flims, where you can grab a coffee or jump on the bus back to Laax.
+
+A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+
+**14 km, +135 m / -1148 m** — Moderate to challenging, with a long descent. Hiking poles recommended.
+
+Time: 9:30–17:00
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
