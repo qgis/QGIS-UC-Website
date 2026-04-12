@@ -221,7 +221,7 @@ Price: Free, no registration required, everyone welcome
 
 ### Preconf special event
 
-TBD (Discover Mission control, How does a ski resort work, Gondola talks, ...)
+Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
 
 ### Main Conference
 
@@ -244,7 +244,7 @@ Price: Included in the conference ticket
 ## Tuesday
 
 ### Preconf activation
-TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
+Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
 
 ### Main Conference
 
