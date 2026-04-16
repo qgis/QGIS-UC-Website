@@ -21,7 +21,7 @@ sidebar: true
 
 The Workshop Day takes place on **Wednesday, 7 October 2026** — the day after the main conference.
 
-Workshops run for **4 hours including a coffee break**, giving you enough time to go deep into a topic with hands-on guidance from experienced instructors. Two sessions are offered: a morning session and an afternoon session, with 4 parallel workshops each. **Lunch is included** between the two sessions.
+Workshops run for **4 hours including a coffee break**, giving you enough time to go deep into a topic with hands-on guidance from experienced instructors. Two sessions are offered: a morning session and an afternoon session, with 4 (or 5) parallel workshops each. **Lunch is included** between the two sessions.
 
 All workshops are held in English and require **separate registration**. Places are limited, so register early to secure your spot. A conference ticket is required to attend.
 
