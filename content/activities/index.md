@@ -260,14 +260,12 @@ opportunities.
 
 ### Hands-on Workshops
 
-While there will be workshops during the main conference, we additionally want to offer you the opportunity to attend
-some half-day long workshops. Topics will be announced later, however the number of spots is limited so make sure to
-get your ticket if you want to attend!
+While there will be short workshops during the main conference, we additionally want to offer you the opportunity to attend some half-day long workshops. Check the dedicated page [Hands-on Workshops](/activities/workshops/) for more details and to register!
 
-The price includes lunch after the workshops.
+The price includes lunch between the workshops.
 
-Time: Wednesday 7th of October, TBD with a coffee break<br/>
-Price: TBD, registration required
+Time: Wednesday 7th of October, 09:00 with a coffee break<br/>
+Price: €160, registration required (lunch included)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -282,6 +280,7 @@ After a short indoor introduction and demo session, we will head outdoors for a 
 
 Time: Wednesday 7th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
+Price: 80€, registration required (lunch included)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
