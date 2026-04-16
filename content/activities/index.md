@@ -16,18 +16,12 @@ sidebar: true
 
 # Activities
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
-
 In addition to the main User Conference and the Contributor Meeting we also offer a number of additional activities.
 This page lists all offered activities, including the main conference and the contributor meeting.
 
 See also the [schedule](/schedule) for more information about times.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-4">}}
@@ -41,14 +35,93 @@ Unless noted otherwise, activities are **free** and require **no registration**.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Sunday - Outdoor Day
 
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
-Time: Sunday 4th of October, times TBA<br/>
-Place: TBD<br/>
-Price: TBD, **registration required**
+Time: Sunday 4th of October<br/>
+Place: Laax Murschetg<br/>
+Price: **€40**, registration required — covers transportation and guide fees. 
+
+You can choose your activity after purchase. Tickets can be purchased together with your conference ticket on [ti.to/qgis/uc-2026](https://ti.to/qgis/uc-2026).
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### Rhine Gorge – Easy (2h walk)
+
+![](./hike-valley.jpg)
+
+**Ruinaulta Rhine Gorge walk with guide**
+
+[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1775594627354&style=outdoor&bottomBar=open)
+
+We take the bus from Laax to Valendas-Sagogn and walk the most scenic stretch of the Ruinaulta, the so-called "Swiss Grand Canyon." A local Ruinaulta guide joins us for the full walk, bringing the gorge's story to life along the way.
+
+Some 9,450 years ago, over 7 cubic kilometres of rock broke loose above Flims and plunged into the Vorderrhein valley. The Rhine dammed up, forming a lake that persisted for around 1,000 years before the river slowly carved its way through the debris to create today's gorge. The wild, natural gorge with its open gravel banks is a habitat for rare birds, and the forests are known for an unusual variety of orchids.
+
+The trail from Valendas to Versam runs directly along the Rhine, through floodplain forests, across meadows and past white pebble beaches. At Versam-Safien we hop on the Rhaetian Railway to Ilanz, then bus back to Laax.
+
+**4.6 km, +52 m / -80 m** — Easy, suitable for all fitness levels.
+
+Time: 9:30–14:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### UNESCO Hike – Short (3h walk)
+
+![](./hike-short.jpg)
+
+**Segnes Plateau hike with GeoRanger**
+
+[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [View route](https://routeplanner.suunto.com/?route=segnes-short-1775593384542&style=outdoor&bottomBar=open)
+
+We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included). From there we descend to Stalla and take the bus back to Laax.
+
+A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+
+The perfect way to clear your head the day before three days of QGIS talks.
+
+**7.5 km, +127 m / -297 m** — Easy to moderate, suitable for all fitness levels.
+
+Time: 9:30–15:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+### UNESCO Hike – Long (5h)
+
+![](./hike-long.jpg)
+
+**Segnes Plateau hike with GeoRanger (long option)**
+
+[More info UNESCO](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [More info Trutg dil Flem](https://www.flimslaax.com/en/hiking/trutg-dil-flem) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-2026---segnes---trutg-dil-flem-1775602204894&style=outdoor&bottomBar=open)
+
+We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included).
+
+From there we join the Trutg dil Flem ("riverside trail" in Romansh), following the Flem river from its source on the upper Segnesboden all the way down to Flims village. The trail cuts through narrow gorge landscapes past waterfalls, water mills and bizarre rock formations, all carved through Europe's largest landslide. Seven bridges designed by Graubünden engineer Jürg Conzett punctuate the descent, each one a distinct piece of functional design. The trail ends in the centre of Flims, where you can grab a coffee or jump on the bus back to Laax.
+
+A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+
+**14 km, +135 m / -1148 m** — Moderate to challenging, with a long descent. Hiking poles recommended.
+
+Time: 9:30–17:00
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+## Monday - Preconf activation
+TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -148,7 +221,7 @@ Price: Free, no registration required, everyone welcome
 
 ### Preconf special event
 
-TBD (Discover Mission control, How does a ski resort work, Gondola talks, ...)
+Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
 
 ### Main Conference
 
@@ -169,6 +242,10 @@ Price: Included in the conference ticket
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 ## Tuesday
+
+### Preconf activation
+Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
+
 ### Main Conference
 
 The main conference will be held on Monday and Tuesday, with a mix of presentations, workshops and networking
@@ -183,14 +260,12 @@ opportunities.
 
 ### Hands-on Workshops
 
-While there will be workshops during the main conference, we additionally want to offer you the opportunity to attend
-some half-day long workshops. Topics will be announced later, however the number of spots is limited so make sure to
-get your ticket if you want to attend!
+While there will be short workshops during the main conference, we additionally want to offer you the opportunity to attend some half-day long workshops. Check the dedicated page [Hands-on Workshops](/activities/workshops/) for more details and to register!
 
-The price includes lunch after the workshops.
+The price includes lunch between the workshops.
 
-Time: Wednesday 7th of October, TBD with a coffee break<br/>
-Price: TBD, registration required
+Time: Wednesday 7th of October, 09:00 with a coffee break<br/>
+Price: €160, registration required (lunch included)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -205,6 +280,7 @@ After a short indoor introduction and demo session, we will head outdoors for a 
 
 Time: Wednesday 7th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
+Price: 80€, registration required (lunch included)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

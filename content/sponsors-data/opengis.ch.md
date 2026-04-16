@@ -1,6 +1,6 @@
 ---
 level: "Organizer"
 title: "OPENGIS.ch"
-logo: "opengisch.png"
+logo: "opengisch.svg"
 link: "https://opengis.ch/"
 ---

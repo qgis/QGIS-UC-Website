@@ -31,7 +31,7 @@ A ticket gives you access to the conference including the Social Dinner and the 
 All participants need a ticket for the conference, including speakers and workshop presenters.
 
 
-Some additional activities, such as the extra **Workshop Day**, require separate registration. These can be added during ticket purchase or later, subject to availability. Please note that **places are limited**.
+Some additional activities, such as the [Workshop Day](/activities/workshops), [QField Day and outdoor activities](/activities), require separate registration. These can be added during ticket purchase or later, subject to availability. Please note that **places are limited**.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
@@ -40,7 +40,6 @@ Some additional activities, such as the extra **Workshop Day**, require separate
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-Tickets will be available from mid April
 {{< tito "qgis/uc-2026" >}}
 
 {{< rich-content-end >}}
