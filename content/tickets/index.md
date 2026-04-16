@@ -40,7 +40,7 @@ Some additional activities, such as the extra **Workshop Day**, require separate
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-Tickets will be available from mid April
+{{< tito "qgis/uc-2026" >}}
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
