@@ -294,7 +294,7 @@ Want to get involved with the QGIS project? On the Wednesday there will addition
 to the project, or those who want to get more involved. Topics will be announced later.
 
 Time: Wednesday 7th of October, times TBA<br/>
-Place: Färgeriet, Norrköping<br/>
+Place: Room Diva, Laax Murschetg<br/>
 Price: Free, no registration required
 
 {{< rich-content-end >}}
@@ -310,7 +310,7 @@ Tackle bugs, write documentation, or help with translations, there is something 
 See more information and register (not required but helps us ensure that there's enough food and t-shirts) on [GitHub](https://github.com/qgis/QGIS/wiki/29th-Contributor-Meeting-in-Switzerland).
 
 Time: Wednesday-Friday 7-9th of October, 08:30-17:00<br/>
-Place: <br/>
+Place: Room Diva, LaaxMurschetg<br/>
 Price: Free, open to everyone
 
 {{< rich-content-end >}}
