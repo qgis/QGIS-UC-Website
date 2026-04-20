@@ -98,6 +98,34 @@ Note 2: It is recommended that you also bring a tablet. There is an accompanying
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
+### Building an Open System of Systems in QGIS for AI Driven Urban Environmental Monitoring and Decision Support
+
+**Speaker:** Sultan Hasan Alsultan
+
+**Tentative capacity:** 30
+
+Urban environmental challenges such as illegal dumping, land degradation, and ground instability increasingly require integrated, data-driven responses that go beyond isolated geospatial analysis. While a wide range of tools exists for satellite processing, spatial modelling, and field data collection, these systems often operate independently, limiting their effectiveness in real-world operational environments. This workshop introduces a practical framework for building an open System of Systems (SoS) using QGIS as a central integration platform for urban environmental monitoring and decision support.
+
+The workshop positions QGIS not merely as a desktop GIS tool, but as an orchestration layer capable of connecting heterogeneous subsystems, including satellite-based Earth observation (e.g., Sentinel-1 InSAR products), AI-assisted detection workflows, multi-criteria decision analysis (MCDA), and field-based data collection. Participants will learn how to integrate these components into a coherent workflow that transforms raw geospatial data into actionable intelligence.
+
+Through guided, hands-on sessions, participants will work with real-world datasets to (1) import and visualize time-series InSAR outputs, (2) integrate multiple spatial indicators relevant to urban environmental conditions, (3) implement MCDA techniques within QGIS for spatial prioritization, and (4) conceptualize how these analytical components can be embedded within a broader System of Systems architecture supporting operational decision-making.
+
+The workshop emphasizes open-source tools, reproducible workflows, and interoperability, aligning with current discussions on GIS sovereignty and sustainable digital infrastructure. By the end of the session, participants will gain both technical skills and conceptual understanding of how QGIS can be leveraged as a strategic platform for integrating data, analytics, and operations in complex urban systems.
+
+This workshop is suitable for GIS practitioners, urban planners, researchers, and decision-makers interested in advancing from standalone spatial analysis toward integrated, system-level geospatial solutions.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< column-end >}}
+{{< columns-end >}}
+
+{{< columns-start >}}
+{{< column-start class="is-half" >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+
 ### Getting started with Mergin Maps
 
 **Speakers:** Saber Razmjooei, Julien WADDLE
@@ -124,33 +152,32 @@ And also… a look at the future improvements we are currently working on for up
 {{< rich-box-end >}}
 
 {{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### Level up your QGIS plugin development skills
+### QFieldCloud deep dive: self-hosting, APIs and custom integrations
 
-**Speakers:** Joona Laine, Riikka Nousiainen
+**Speaker:** Ivan Ivanov
 
-**Tentative capacity:** TBD
+**Tentative capacity:** 16
 
-Developing software as a team typically requires choosing and following coding standards to ensure things run smoothly (larger the team, stricter the rules). QGIS plugin development is no exception. This workshop aims to introduce modern Python development tools for QGIS plugin development.
+QFieldCloud powers field data collection for thousands of projects, but most users only see the surface. This hands-on workshop goes under the hood.
 
-During the session, we will create a simple QGIS plugin and set up the development environment using best practices. We will cover at least the following topics:
+The goal is to spin up a self-hosted QFieldCloud instance from scratch, then work through the official Python SDK (qfieldcloud-sdk) to automate real workflows: creating and managing projects, uploading QGIS project files, triggering packaging jobs, polling job status, and downloading packaged data programmatically.
 
-* Configuring Python formatting and linting tools alongside with modern package management (flake8-qgis, ruff, mypy, prek, uv)
-* Trying out writing unit tests for the plugin and its UI components (pytest-qgis, pytest-qt)
-* Learning how to update translations (qgis-plugin-dev-tools, Qt Linguist)
-* Setting up a CI pipelines for running tests and publishing your plugin automatically with GitHub Actions
+We'll also cover organization and collaborator management via the API, and dig into the job/package cycle that sits at the heart of any automated field data pipeline — giving participants the tools to wire QFieldCloud into their own infrastructure, whether that's a CI/CD pipeline, a data processing script, or a lightweight custom app. If time permits, we'll sketch out a small LLM-assisted layer on top of the API.
+
+*Aimed at developers, GIS engineers and technically-minded power users. Bring a laptop with Python installed.*
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
 {{< column-end >}}
+{{< columns-end >}}
+
+{{< columns-start >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
@@ -191,52 +218,25 @@ The workshop will conclude with a multi-user exercise, where participants collab
 {{< rich-box-end >}}
 
 {{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### QFieldCloud deep dive: self-hosting, APIs and custom integrations
+### Level up your QGIS plugin development skills
 
-**Speaker:** Ivan Ivanov
+**Speakers:** Joona Laine, Riikka Nousiainen
 
-**Tentative capacity:** 16
+**Tentative capacity:** TBD
 
-QFieldCloud powers field data collection for thousands of projects, but most users only see the surface. This hands-on workshop goes under the hood.
+Developing software as a team typically requires choosing and following coding standards to ensure things run smoothly (larger the team, stricter the rules). QGIS plugin development is no exception. This workshop aims to introduce modern Python development tools for QGIS plugin development.
 
-The goal is to spin up a self-hosted QFieldCloud instance from scratch, then work through the official Python SDK (qfieldcloud-sdk) to automate real workflows: creating and managing projects, uploading QGIS project files, triggering packaging jobs, polling job status, and downloading packaged data programmatically.
+During the session, we will create a simple QGIS plugin and set up the development environment using best practices. We will cover at least the following topics:
 
-We'll also cover organization and collaborator management via the API, and dig into the job/package cycle that sits at the heart of any automated field data pipeline — giving participants the tools to wire QFieldCloud into their own infrastructure, whether that's a CI/CD pipeline, a data processing script, or a lightweight custom app. If time permits, we'll sketch out a small LLM-assisted layer on top of the API.
-
-*Aimed at developers, GIS engineers and technically-minded power users. Bring a laptop with Python installed.*
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< column-end >}}
-{{< column-start class="is-half" >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
-
-### Building an Open System of Systems in QGIS for AI Driven Urban Environmental Monitoring and Decision Support
-
-**Speaker:** Sultan Hasan Alsultan
-
-**Tentative capacity:** 30
-
-Urban environmental challenges such as illegal dumping, land degradation, and ground instability increasingly require integrated, data-driven responses that go beyond isolated geospatial analysis. While a wide range of tools exists for satellite processing, spatial modelling, and field data collection, these systems often operate independently, limiting their effectiveness in real-world operational environments. This workshop introduces a practical framework for building an open System of Systems (SoS) using QGIS as a central integration platform for urban environmental monitoring and decision support.
-
-The workshop positions QGIS not merely as a desktop GIS tool, but as an orchestration layer capable of connecting heterogeneous subsystems, including satellite-based Earth observation (e.g., Sentinel-1 InSAR products), AI-assisted detection workflows, multi-criteria decision analysis (MCDA), and field-based data collection. Participants will learn how to integrate these components into a coherent workflow that transforms raw geospatial data into actionable intelligence.
-
-Through guided, hands-on sessions, participants will work with real-world datasets to (1) import and visualize time-series InSAR outputs, (2) integrate multiple spatial indicators relevant to urban environmental conditions, (3) implement MCDA techniques within QGIS for spatial prioritization, and (4) conceptualize how these analytical components can be embedded within a broader System of Systems architecture supporting operational decision-making.
-
-The workshop emphasizes open-source tools, reproducible workflows, and interoperability, aligning with current discussions on GIS sovereignty and sustainable digital infrastructure. By the end of the session, participants will gain both technical skills and conceptual understanding of how QGIS can be leveraged as a strategic platform for integrating data, analytics, and operations in complex urban systems.
-
-This workshop is suitable for GIS practitioners, urban planners, researchers, and decision-makers interested in advancing from standalone spatial analysis toward integrated, system-level geospatial solutions.
+* Configuring Python formatting and linting tools alongside with modern package management (flake8-qgis, ruff, mypy, prek, uv)
+* Trying out writing unit tests for the plugin and its UI components (pytest-qgis, pytest-qt)
+* Learning how to update translations (qgis-plugin-dev-tools, Qt Linguist)
+* Setting up a CI pipelines for running tests and publishing your plugin automatically with GitHub Actions
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -249,25 +249,6 @@ This workshop is suitable for GIS practitioners, urban planners, researchers, an
 ## Afternoon Session — 14:00–17:30
 
 {{< columns-start >}}
-{{< column-start class="is-half" >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
-
-### Hydrological Analysis in QGIS
-
-**Speaker:** Hans van der Kwast
-
-**Tentative capacity:** 16
-
-In this workshop, we will explore the diverse range of tools available in QGIS for conducting comprehensive hydrological analysis. Participants will gain hands-on experience with tools from GRASS, SAGA, WhiteboxTools, and PCRaster processing provider plugins, as well as other specialized plugins designed for hydrological studies.
-
-Our interactive session will cover practical exercises on deriving streams and catchments, and calculating essential morphometric parameters such as drainage density, concentration time, and hypsometric curves. By the end of the workshop, attendees will have a solid understanding of how to leverage QGIS for hydrological analysis, enabling them to apply these techniques to their own projects and research.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< column-end >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
@@ -303,9 +284,6 @@ By the end of the session, you'll have practical experience building robust, aut
 {{< rich-box-end >}}
 
 {{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
@@ -334,6 +312,9 @@ The workshop will also provide participants with resources to further increase t
 {{< rich-box-end >}}
 
 {{< column-end >}}
+{{< columns-end >}}
+
+{{< columns-start >}}
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
@@ -363,6 +344,25 @@ During the workshop, participants will learn how to reduce repetitive manual tas
 6. Using AI vibecoding to generate automation ideas and scripts
 7. Running, testing, and improving workflows
 8. Q&A and discussion
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< column-end >}}
+{{< column-start class="is-half" >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-3">}}
+
+### Hydrological Analysis in QGIS
+
+**Speaker:** Hans van der Kwast
+
+**Tentative capacity:** 16
+
+In this workshop, we will explore the diverse range of tools available in QGIS for conducting comprehensive hydrological analysis. Participants will gain hands-on experience with tools from GRASS, SAGA, WhiteboxTools, and PCRaster processing provider plugins, as well as other specialized plugins designed for hydrological studies.
+
+Our interactive session will cover practical exercises on deriving streams and catchments, and calculating essential morphometric parameters such as drainage density, concentration time, and hypsometric curves. By the end of the workshop, attendees will have a solid understanding of how to leverage QGIS for hydrological analysis, enabling them to apply these techniques to their own projects and research.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
