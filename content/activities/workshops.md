@@ -40,7 +40,7 @@ All workshops are held in English and require separate registration. Places are 
 | Lunch | 12:30–14:00 (included in registration) |
 | Afternoon session | 14:00–17:30 (incl. coffee break) |
 | Location | Laax Murschetg |
-| Price | €170, registration required |
+| Price | €175, registration required |
 | Capacity | Limited — register early |
 
 Registration opens together with conference tickets. Workshops can be added during ticket purchase or later, subject to availability.
