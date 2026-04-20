@@ -64,7 +64,7 @@ Registration opens together with conference tickets. Workshops can be added duri
 
 **Speakers:** Kurt Menke, Martin Dobias
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 One of the areas in which QGIS has developed the most in recent years is the support of point cloud data. There are now many options for displaying point clouds in both 2D and 3D and in the elevation profile panel. There are also many tools for processing point clouds. It is now even possible to edit point cloud attributes.
 
@@ -102,7 +102,7 @@ Note 2: It is recommended that you also bring a tablet. There is an accompanying
 
 **Speakers:** Saber Razmjooei, Julien WADDLE
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 Mergin Maps is an open-source mobile application based on QGIS that makes field data collection easier.
 
@@ -136,7 +136,7 @@ And also… a look at the future improvements we are currently working on for up
 
 **Speakers:** Joona Laine, Riikka Nousiainen
 
-**Capacity:** TBD
+**Tentative capacity:** TBD
 
 Developing software as a team typically requires choosing and following coding standards to ensure things run smoothly (larger the team, stricter the rules). QGIS plugin development is no exception. This workshop aims to introduce modern Python development tools for QGIS plugin development.
 
@@ -160,7 +160,7 @@ During the session, we will create a simple QGIS plugin and set up the developme
 
 **Speakers:** Eduard Kazakov, Aleksei Novikov
 
-**Capacity:** 12
+**Tentative capacity:** 12
 
 QGIS is widely used for geospatial analysis, editing, and cartography, but organizing collaborative workflows for teams working on shared datasets can be challenging. Common issues include synchronizing desktop and web environments, managing simultaneous edits, tracking data changes, and coordinating work across multiple users.
 
@@ -203,7 +203,7 @@ The workshop will conclude with a multi-user exercise, where participants collab
 
 **Speaker:** Ivan Ivanov
 
-**Capacity:** 16
+**Tentative capacity:** 16
 
 QFieldCloud powers field data collection for thousands of projects, but most users only see the surface. This hands-on workshop goes under the hood.
 
@@ -226,7 +226,7 @@ We'll also cover organization and collaborator management via the API, and dig i
 
 **Speaker:** Sultan Hasan Alsultan
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 Urban environmental challenges such as illegal dumping, land degradation, and ground instability increasingly require integrated, data-driven responses that go beyond isolated geospatial analysis. While a wide range of tools exists for satellite processing, spatial modelling, and field data collection, these systems often operate independently, limiting their effectiveness in real-world operational environments. This workshop introduces a practical framework for building an open System of Systems (SoS) using QGIS as a central integration platform for urban environmental monitoring and decision support.
 
@@ -258,7 +258,7 @@ This workshop is suitable for GIS practitioners, urban planners, researchers, an
 
 **Speaker:** Hans van der Kwast
 
-**Capacity:** 16
+**Tentative capacity:** 16
 
 In this workshop, we will explore the diverse range of tools available in QGIS for conducting comprehensive hydrological analysis. Participants will gain hands-on experience with tools from GRASS, SAGA, WhiteboxTools, and PCRaster processing provider plugins, as well as other specialized plugins designed for hydrological studies.
 
@@ -277,7 +277,7 @@ Our interactive session will cover practical exercises on deriving streams and c
 
 **Speaker:** Berit Mohr
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 Tired of repetitive GIS workflows that consume time and lead to errors? This hands-on workshop will show you how to automate and streamline spatial data analysis using QGIS expressions, built-in geoprocessing algorithms, and the Graphical Modeler — without writing a single line of code.
 
@@ -315,7 +315,7 @@ By the end of the session, you'll have practical experience building robust, aut
 
 **Speaker:** Mathieu Pellerin
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 For almost two years now, QGIS' best field companion QField has gained a plugin framework that allows users to expand the capabilities of QField through QML and Javascript. This workshop introduces the framework and goes through practical examples aimed at empowering the participants into writing their own plugins.
 
@@ -343,7 +343,7 @@ The workshop will also provide participants with resources to further increase t
 
 **Speaker:** Michal Pilarski
 
-**Capacity:** 30
+**Tentative capacity:** 30
 
 During the workshop, participants will learn how to reduce repetitive manual tasks in QGIS by automating the user interface. The workshop will use Robot Framework and the QGISLibrary package, which make it possible to control a desktop application without writing Python code. Examples will include automating clicks, keyboard actions, opening tools, and performing typical GIS operations, helping to speed up work and reduce the number of potential errors. The workshop will also be enriched with AI vibecoding techniques to support faster creation of automation scenarios.
 
@@ -380,7 +380,7 @@ During the workshop, participants will learn how to reduce repetitive manual tas
 
 **Speaker:** Julien WADDLE
 
-**Capacity:** 12
+**Tentative capacity:** 12
 
 Mergin Maps is built on an ecosystem of components that can also be deployed and used locally for development, testing, and integration purposes.
 
