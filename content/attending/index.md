@@ -192,7 +192,7 @@ All rooms are located in or around the **Crap Sogn Gion** building and are reach
 
 Workshops will be held in Laax Murschetg (no gondola required).
 
-Details and locations are TBD.
+Details and locations are wisible  [here](/activities/workshops).
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
@@ -200,12 +200,13 @@ Details and locations are TBD.
 {{< rich-content-start themeClass="coloring-3">}}
 ## Contributor Meeting
 
-The Contributor Meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (Diva 1) close to the hotels.
+The Contributor Meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (House Diva 1) close to the hotels.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
 ## Getting there
+No mater how you reach Chur, we suggest taking (at least on one leg) the train to Ilanz and then bus to Laax instead the to the direct Bus from Chhur to Laax. This will take 15min more but the train ride through the Rhine Gorge is wonderful.
 
 {{< columns-start >}}
 {{< column-start >}}
