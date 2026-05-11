@@ -50,7 +50,7 @@
                     {{ if and (gt $counter 1) (eq (mod $counter $itemsPerRow) 1) }}
                         </div><div class="tile">
                     {{ end }}
-                    <div class="tile is-parent"> 
+                    <div class="tile is-parent" style="max-width: {{ div 100 $itemsPerRow }}%">
                         <article class="tile is-child box notification {{ $notificationClass }}">
                             <a href="{{ $sponsor.Params.link }}">
                                 <figure>
