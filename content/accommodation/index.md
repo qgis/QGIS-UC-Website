@@ -45,6 +45,16 @@ Many apartments and alternative accommodations can be booked through official lo
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+## Group Accommodation at Casa Caltgera
+
+QGIS.ch has booked the full [Caltgera Laax](https://www.caltgera-laax.ch/) and is making rooms available to conference participants — preferentially to contributors.
+
+To sign up, visit the [accommodation spreadsheet](https://docs.google.com/spreadsheets/d/1HMNEXrUyJimRMq31JtcCduSk56alEGu1XqR3RO0-7dM/edit?usp=sharing), request edit access, and add yourself. If your plans change, please remember to remove yourself from the spreadsheet so the spot can go to someone else.
+
+{{< rich-content-end>}}
+{{< rich-box-end >}}
+{{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 ## Recommended hotels with conference rates
 
