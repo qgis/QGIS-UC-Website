@@ -11,8 +11,8 @@ HasBanner: true
 heroIsUserConference: true
 ButtonText: "Add to your Calendar"
 ButtonLink: "qgis-uc-2026.ics"
-SecondButtonText: "Submit a presentation"
-SecondButtonLink: "/presenting"
+SecondButtonText: "Buy a ticket"
+SecondButtonLink: "/tickets"
 sidebar: true
 ---
 
