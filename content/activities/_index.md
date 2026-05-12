@@ -309,8 +309,8 @@ Tackle bugs, write documentation, or help with translations, there is something 
 
 See more information and register (not required but helps us ensure that there's enough food and t-shirts) on [GitHub](https://github.com/qgis/QGIS/wiki/29th-Contributor-Meeting-in-Switzerland).
 
-Time: Wednesday-Friday 7-9th of October, 08:30-17:00<br/>
-Place: Room Diva, LaaxMurschetg<br/>
+Time: Wednesday-Friday 7-9th of October, 08:30-23:30<br/>
+Place: Room Diva, Laax Murschetg<br/>
 Price: Free, open to everyone
 
 {{< rich-content-end >}}
