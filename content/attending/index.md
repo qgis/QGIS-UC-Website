@@ -51,7 +51,7 @@ This linguistic diversity is woven into local culture and identity, appearing on
   The Romansh name of the mountain above Laax where the conference venue is located. *Crap* means “rock”, *Sogn* means “saint”, and *Gion* refers to Saint John.
 
 - **Laax Murschetg**  
-  The main arrival point for the conference and a primary accommodation area (Rocks Resort, Hotel Signina, Riders Hotel and many apartments). It is home to the gondola station and bus hub, making it a convenient base for attending the event. Bus stop: **Laax Bergbahnen**.
+  The main arrival point for the conference and a primary accommodation area (Rocks Resort, Hotel Signina, and many apartments). It is home to the gondola station and bus hub, making it a convenient base for attending the event. Bus stop: **Laax Bergbahnen**.
 
 - **Laax (Laax town, Laax Dorf)**  
   The main village in the valley, offering shops, restaurants, services, some hotels and many apartments. It is connected to Laax Murschetg by a frequent, free local bus service. Bus stop: **Laax Posta**.

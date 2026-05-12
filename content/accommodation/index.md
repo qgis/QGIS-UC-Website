@@ -106,25 +106,6 @@ Availability is limited, so we recommend booking early.
 {{< column-end >}}
 {{< columns-end >}}
 
-### [Riders Hotel](https://www.simplebooking.it/ibe2/hotel/4158/offer/227609?lang=EN&coupon=QGIS2026LAAX&cur=CHF)  
-
-{{< columns-start >}}
-{{< column-start>}}
-
-![](./accommodation_3_1.webp)
-
-{{< column-end >}}
-{{< column-start>}}
-
-![](./accommodation_3_2.webp)
-
-{{< column-end >}}
-{{< column-start>}}
-
-![](./accommodation_3_3.webp)
-
-{{< column-end >}}
-{{< columns-end >}}
 </div>
 
 {{< content-end >}}
