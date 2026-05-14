@@ -179,45 +179,6 @@ We'll also cover organization and collaborator management via the API, and dig i
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### Building QGIS Teamspace with NextGIS Web: from local deployment to version-controlled collaborative editing
-
-**Speakers:** Eduard Kazakov, Aleksei Novikov
-
-
-QGIS is widely used for geospatial analysis, editing, and cartography, but organizing collaborative workflows for teams working on shared datasets can be challenging. Common issues include synchronizing desktop and web environments, managing simultaneous edits, tracking data changes, and coordinating work across multiple users.
-
-This hands-on workshop introduces an open-source workflow for collaborative QGIS environments using NextGIS Web — an open-source Web GIS server designed for publishing and managing geospatial data and web maps. It integrates closely with QGIS and provides features useful for collaborative teams, including:
-
-* Publishing QGIS projects to the web while preserving map styles (QGIS is used as the rendering backend to ensure strong desktop–web style compatibility).
-* Connecting multiple QGIS instances to shared server-hosted datasets.
-* Simultaneous data editing from QGIS with interactive conflict resolution.
-* Working with feature attachments (photos, documents, and other files) from both QGIS and the web interface.
-* Built-in version control for vector datasets, allowing teams to track who changed what and when, review history, and roll back changes.
-* Flexible user roles and permissions for managing team access.
-
-During the workshop, participants will deploy their own NextGIS Web instance locally using Docker, perform initial configuration, and explore practical workflows for managing shared spatial data.
-
-Attendees will learn how to:
-
-* deploy and configure a NextGIS Web server,
-* publish QGIS projects as web maps,
-* connect QGIS to shared server datasets,
-* perform collaborative editing,
-* track and review data changes using version control.
-
-The workshop will conclude with a multi-user exercise, where participants collaborate on a shared QGIS project to experience real-world team workflows including simultaneous editing and change tracking.
-
-**Requirements:** Docker Engine installed and working on your laptop (local deployment is part of the workshop). If Docker cannot be run locally, cloud instances can be provided. QGIS Desktop installed. Basic experience working with QGIS. Basic familiarity with Docker is helpful but not required.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< column-end >}}
-{{< column-start class="is-half" >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
-
 ### Level up your QGIS plugin development skills
 
 **Speakers:** Joona Laine, Riikka Nousiainen
@@ -243,6 +204,55 @@ During the session, we will create a simple QGIS plugin and set up the developme
 ## Afternoon Session — 14:00–17:30
 
 {{< columns-start >}}
+{{< column-start class="is-half" >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-3">}}
+
+### Hydrological Analysis in QGIS
+
+**Speaker:** Hans van der Kwast
+
+
+In this workshop, we will explore the diverse range of tools available in QGIS for conducting comprehensive hydrological analysis. Participants will gain hands-on experience with tools from GRASS, SAGA, WhiteboxTools, and PCRaster processing provider plugins, as well as other specialized plugins designed for hydrological studies.
+
+Our interactive session will cover practical exercises on deriving streams and catchments, and calculating essential morphometric parameters such as drainage density, concentration time, and hypsometric curves. By the end of the workshop, attendees will have a solid understanding of how to leverage QGIS for hydrological analysis, enabling them to apply these techniques to their own projects and research.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< column-end >}}
+{{< column-start class="is-half" >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-3">}}
+
+### Introduction to QField plugin authoring Workshop
+
+**Speaker:** Mathieu Pellerin
+
+
+For almost two years now, QGIS' best field companion QField has gained a plugin framework that allows users to expand the capabilities of QField through QML and Javascript. This workshop introduces the framework and goes through practical examples aimed at empowering the participants into writing their own plugins.
+
+The workshop will introduce participants to QField's plugin framework and its two main plugin types: app-wide plugins and project-scoped plugins. We will look into the decision-making around settling on Javascript/QML as the scripting language and look at its strengths.
+
+We will then go through several practical plugin building examples that will cover:
+
+* Integration with online REST API endpoints
+* Georeferenced visual map canvas overlays in QML language
+* Feature creation and iteration via plugin
+* Customization of QField user interface
+
+The workshop will also provide participants with resources to further increase their knowledge beyond the workshop session itself.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< column-end >}}
+{{< columns-end >}}
+
+{{< columns-start >}}
+
 {{< column-start class="is-half" >}}
 
 {{< rich-box-start >}}
@@ -282,82 +292,41 @@ By the end of the session, you'll have practical experience building robust, aut
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-3">}}
 
-### Introduction to QField plugin authoring Workshop
+### Building QGIS Teamspace with NextGIS Web: from local deployment to version-controlled collaborative editing
 
-**Speaker:** Mathieu Pellerin
-
-
-For almost two years now, QGIS' best field companion QField has gained a plugin framework that allows users to expand the capabilities of QField through QML and Javascript. This workshop introduces the framework and goes through practical examples aimed at empowering the participants into writing their own plugins.
-
-The workshop will introduce participants to QField's plugin framework and its two main plugin types: app-wide plugins and project-scoped plugins. We will look into the decision-making around settling on Javascript/QML as the scripting language and look at its strengths.
-
-We will then go through several practical plugin building examples that will cover:
-
-* Integration with online REST API endpoints
-* Georeferenced visual map canvas overlays in QML language
-* Feature creation and iteration via plugin
-* Customization of QField user interface
-
-The workshop will also provide participants with resources to further increase their knowledge beyond the workshop session itself.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< column-end >}}
-{{< columns-end >}}
-
-{{< columns-start >}}
-{{< column-start class="is-half" >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
-
-### Click, click, click… or maybe QGIS UI automation? (without Python)
-
-**Speaker:** Michal Pilarski
+**Speakers:** Eduard Kazakov, Aleksei Novikov
 
 
-During the workshop, participants will learn how to reduce repetitive manual tasks in QGIS by automating the user interface. The workshop will use Robot Framework and the QGISLibrary package, which make it possible to control a desktop application without writing Python code. Examples will include automating clicks, keyboard actions, opening tools, and performing typical GIS operations, helping to speed up work and reduce the number of potential errors. The workshop will also be enriched with AI vibecoding techniques to support faster creation of automation scenarios.
+QGIS is widely used for geospatial analysis, editing, and cartography, but organizing collaborative workflows for teams working on shared datasets can be challenging. Common issues include synchronizing desktop and web environments, managing simultaneous edits, tracking data changes, and coordinating work across multiple users.
 
-**3 Key Takeaways:**
+This hands-on workshop introduces an open-source workflow for collaborative QGIS environments using NextGIS Web — an open-source Web GIS server designed for publishing and managing geospatial data and web maps. It integrates closely with QGIS and provides features useful for collaborative teams, including:
 
-1. Learn how to automate repetitive tasks in QGIS without writing Python code.
-2. Understand how to use Robot Framework and QGISLibrary to control the QGIS user interface.
-3. Discover how vibecoding can help create automation scenarios faster and more intuitively.
+* Publishing QGIS projects to the web while preserving map styles (QGIS is used as the rendering backend to ensure strong desktop–web style compatibility).
+* Connecting multiple QGIS instances to shared server-hosted datasets.
+* Simultaneous data editing from QGIS with interactive conflict resolution.
+* Working with feature attachments (photos, documents, and other files) from both QGIS and the web interface.
+* Built-in version control for vector datasets, allowing teams to track who changed what and when, review history, and roll back changes.
+* Flexible user roles and permissions for managing team access.
 
-**Agenda:**
+During the workshop, participants will deploy their own NextGIS Web instance locally using Docker, perform initial configuration, and explore practical workflows for managing shared spatial data.
 
-1. Introduction to QGIS UI automation
-2. Overview of Robot Framework and QGISLibrary
-3. Setting up the environment
-4. Automating clicks, menus, and tools in QGIS
-5. Creating simple automation scenarios
-6. Using AI vibecoding to generate automation ideas and scripts
-7. Running, testing, and improving workflows
-8. Q&A and discussion
+Attendees will learn how to:
+
+* deploy and configure a NextGIS Web server,
+* publish QGIS projects as web maps,
+* connect QGIS to shared server datasets,
+* perform collaborative editing,
+* track and review data changes using version control.
+
+The workshop will conclude with a multi-user exercise, where participants collaborate on a shared QGIS project to experience real-world team workflows including simultaneous editing and change tracking.
+
+**Requirements:** Docker Engine installed and working on your laptop (local deployment is part of the workshop). If Docker cannot be run locally, cloud instances can be provided. QGIS Desktop installed. Basic experience working with QGIS. Basic familiarity with Docker is helpful but not required.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
 {{< column-end >}}
-{{< column-start class="is-half" >}}
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
-
-### Hydrological Analysis in QGIS
-
-**Speaker:** Hans van der Kwast
-
-
-In this workshop, we will explore the diverse range of tools available in QGIS for conducting comprehensive hydrological analysis. Participants will gain hands-on experience with tools from GRASS, SAGA, WhiteboxTools, and PCRaster processing provider plugins, as well as other specialized plugins designed for hydrological studies.
-
-Our interactive session will cover practical exercises on deriving streams and catchments, and calculating essential morphometric parameters such as drainage density, concentration time, and hypsometric curves. By the end of the workshop, attendees will have a solid understanding of how to leverage QGIS for hydrological analysis, enabling them to apply these techniques to their own projects and research.
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< column-end >}}
 {{< columns-end >}}
 
 {{< columns-start >}}
