@@ -79,13 +79,13 @@ Time: 9:30–14:00
 
 ![](./hike-short.jpg)
 
-**Segnes Plateau hike with GeoRanger**
+**Segnes Plateau hike with GeoGuide Sardona**
 
 [More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [View route](https://routeplanner.suunto.com/?route=segnes-short-1775593384542&style=outdoor&bottomBar=open)
 
 We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included). From there we descend to Stalla and take the bus back to Laax.
 
-A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+A certified GeoGuide Sardona will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
 
 The perfect way to clear your head the day before three days of QGIS talks.
 
@@ -102,7 +102,7 @@ Time: 9:30–15:00
 
 ![](./hike-long.jpg)
 
-**Segnes Plateau hike with GeoRanger (long option)**
+**Segnes Plateau hike with GeoGuide Sardona (long option)**
 
 [More info UNESCO](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [More info Trutg dil Flem](https://www.flimslaax.com/en/hiking/trutg-dil-flem) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-2026---segnes---trutg-dil-flem-1775602204894&style=outdoor&bottomBar=open)
 
@@ -110,7 +110,7 @@ We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into 
 
 From there we join the Trutg dil Flem ("riverside trail" in Romansh), following the Flem river from its source on the upper Segnesboden all the way down to Flims village. The trail cuts through narrow gorge landscapes past waterfalls, water mills and bizarre rock formations, all carved through Europe's largest landslide. Seven bridges designed by Graubünden engineer Jürg Conzett punctuate the descent, each one a distinct piece of functional design. The trail ends in the centre of Flims, where you can grab a coffee or jump on the bus back to Laax.
 
-A certified Sardona GeoRanger will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
+A certified GeoGuide Sardona will guide the group through the geology of the UNESCO World Heritage Tectonic Arena Sardona, where the Glarus Thrust brings ancient rocks to rest on top of much younger ones — a textbook case visible right beneath your feet.
 
 **14 km, +135 m / -1148 m** — Moderate to challenging, with a long descent. Hiking poles recommended.
 
