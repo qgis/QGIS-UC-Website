@@ -51,6 +51,11 @@ Registration opens together with conference tickets. Workshops can be added duri
 {{< rich-box-end >}}
 
 ---
+## Current availability
+
+![](../workshops-status.webp)
+
+---
 
 ## Morning Session — 09:00–12:30
 
