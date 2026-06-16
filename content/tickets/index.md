@@ -46,7 +46,7 @@ Some additional activities, such as the [Workshop Day](/activities/workshops), [
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-2">}}
 
-Tickets can be refunded if cancelled **more than 30 days before the event**.  
+Tickets can be refunded if cancelled **more than 30 days before the event**. The providers' transaction fees of 6% will be deducted from the refunded total.
 Cancellations made **less than 30 days prior** to the event are **non-refundable**.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it, in which case you will be offered a refund.
