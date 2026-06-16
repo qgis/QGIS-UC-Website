@@ -37,7 +37,7 @@ The next conference will take place on **5–6 October 2026** in **Laax, Switzer
 In addition to the main conference days:
 - an **informal active outdoor pre-event day** is planned for **4 October 2026**  
 - a dedicated **workshop day** will follow on **7 October 2026**, offering hands-on sessions and deeper technical dives
-- the **QGIS Contributor Meeting** will be held from **7–9 October 2026**, bringing together active contributors for collaboration and planning
+- the [**QGIS Contributor Meeting**](/activities/#contributor-meeting-until-friday) will be held from **7–9 October 2026**, bringing together active contributors for collaboration and planning
 - the **QField Day** will take place on **7 October 2026**, focusing on mobile data collection workflows and real-world use cases
 
 {{< rich-content-end >}}

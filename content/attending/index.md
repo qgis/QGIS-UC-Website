@@ -198,7 +198,7 @@ Details and locations are wisible  [here](/activities/workshops).
 {{< rich-content-start themeClass="coloring-3">}}
 ## Contributor Meeting
 
-The Contributor Meeting will be held in **Laax Murschetg** (no gondola required), in a dedicated space (House Diva 1) close to the hotels.
+The [QGIS Contributor Meeting](/activities/#contributor-meeting-until-friday) will be held in **Laax Murschetg** (no gondola required), in a dedicated space (House Diva 1) close to the hotels.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
