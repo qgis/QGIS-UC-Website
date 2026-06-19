@@ -43,11 +43,11 @@ In order to prevent spam the link to join the group is only sent out the registe
 The **conference program is available in the official conference app**, giving you everything you need for the event directly on your phone — even when you’re offline.
 
 Using the app, you can:
-* Browse a **fully searchable conference schedule**
+* Browse a **fully searchable and always up-to-date conference schedule**
 * **Mark your favourite talks** and easily plan your personal agenda
 * Find your way with a **multi-floor room selector**
-* Check **real-time public transport information**, including bus locations and departure boards
 * Discover nearby **restaurants, hotels, bars, and points of interest**
+* Find **hicking trails** around the conference area
 * Create your own **private notes, photos, videos, and audio recordings** to capture ideas and memories
 
 Most features work entirely offline, so you can rely on the app throughout the conference.
