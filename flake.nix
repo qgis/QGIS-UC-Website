@@ -9,6 +9,12 @@
   inputs = {
     nixpkgs-version.url = "github:QGIS/qgis-nixpkgs-version";
     nixpkgs.follows = "nixpkgs-version/nixpkgs-25-05";
+
+    # Fetch the Hugo theme submodule directly as a flake input
+    qgis-website-theme = {
+      url = "github:qgis/QGIS-Hugo-Website-Theme/d79fbad1689e04319549b0ec2099b3d8c1b5d5af";
+      flake = false; # it's not a flake, just a source tree
+    };
   };
 
   outputs =
@@ -45,6 +51,10 @@
         rec {
           website = pkgs.callPackage ./nix/package.nix { };
           default = website;
+          theme = qgis-website-theme; # <-- pass the theme source in
+          # Commit hash from the flake's git metadata (clean tree only;
+          # falls back to the dirty short rev, then "unknown" for tarballs).
+          commitHash = self.shortRev or self.dirtyShortRev or "unknown";
         }
       );
 
