@@ -3,6 +3,7 @@
   stdenv,
   hugo,
   theme, # the Hugo theme passed in from the flake
+  commitHash,
 }:
 
 stdenv.mkDerivation {
