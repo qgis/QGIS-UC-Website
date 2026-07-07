@@ -34,6 +34,12 @@ Some additional activities, such as the [Workshop Day](/activities/workshops), [
 {{< rich-box-end >}}
 
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+
+The conference is almost sold-out, join the waiting list to get updates as soon as new tickets are available
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
