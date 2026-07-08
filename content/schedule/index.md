@@ -28,7 +28,7 @@ To take the conference schedule with you and plan your days on the go, download 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-4">}}
 
-## Overview (Tentative)
+## Overview
 
 More information about the individual activities is available [here](/activities/). Please note that all events require registration and have a limited number of slots.
 
@@ -42,7 +42,9 @@ While the overall structure is set, minor adjustments may still be made as the s
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-## Detailed
+## Detailed Schedule
+
+The detailed schedule will be published around mid July
 
 Note that the schedule is quite wide because of rooms used for workshops. You can scroll horizontally to see
 the full schedule.
@@ -89,7 +91,9 @@ p:has(> pretalx-schedule).full-size {
     left: 200px;
 }
 </style>
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033"></pretalx-schedule>
+
+### Conference
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033" date-filter="2026-10-05,2026-10-06" room-filter="368,369,370,372,374,373,375"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
@@ -98,6 +102,19 @@ p:has(> pretalx-schedule).full-size {
         </div>
     </div>
 </noscript>
+
+
+### Workshops
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033" date-filter="2026-10-07" room-filter="388,396,387,389,390,417"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc2026/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
+
 
 
 {{< content-end >}}
