@@ -46,26 +46,32 @@ While the overall structure is set, minor adjustments may still be made as the s
 
 The detailed schedule will be published around mid July
 
-Note that the schedule is quite wide because of rooms used for workshops. You can scroll horizontally to see
+Note that the schedule is quite wide, you can scroll horizontally to see
 the full schedule.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
-<button id="scheduleFullSizeButton" class="button is-primary1 is-hidden-mobile">Show schedule in full size</button>
+<button id="conferenceScheduleFullSizeButton" class="button is-primary1 is-hidden-mobile">Show conference schedule in full size</button>
+<button id="workshopsScheduleFullSizeButton" class="button is-primary1 is-hidden-mobile">Show workshops schedule in full size</button>
 <script>
-let fullSize = false;
-document.getElementById("scheduleFullSizeButton").addEventListener("click", () => {
-    fullSize = !fullSize;
+function setupScheduleFullSizeButton(buttonId, scheduleIndex, showLabel) {
+    let fullSize = false;
+    const button = document.getElementById(buttonId);
+    button.addEventListener("click", () => {
+        fullSize = !fullSize;
 
-    document.querySelector("p:has(> pretalx-schedule)").classList.toggle("full-size");
-    
-    document.getElementById("scheduleFullSizeButton").classList.toggle("full-size");
-    document.getElementById("scheduleFullSizeButton").innerHTML = fullSize ?
-        "Hide schedule full size" : "Show schedule in full size";
+        document.querySelectorAll("p:has(> pretalx-schedule)")[scheduleIndex].classList.toggle("full-size");
 
-    const topNav = document.querySelector("qg-top-nav");
-    topNav.hidden = !topNav.hidden;
-});
+        button.classList.toggle("full-size");
+        button.innerHTML = fullSize ? "Hide schedule full size" : showLabel;
+
+        const topNav = document.querySelector("qg-top-nav");
+        topNav.hidden = !topNav.hidden;
+    });
+}
+
+setupScheduleFullSizeButton("conferenceScheduleFullSizeButton", 0, "Show conference schedule in full size");
+setupScheduleFullSizeButton("workshopsScheduleFullSizeButton", 1, "Show workshops schedule in full size");
 </script>
 
 <script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2026/widgets/schedule.js"></script>
@@ -84,7 +90,8 @@ p:has(> pretalx-schedule).full-size {
     left: 0;
     z-index: 9999;
 }
-#scheduleFullSizeButton.full-size {
+#conferenceScheduleFullSizeButton.full-size,
+#workshopsScheduleFullSizeButton.full-size {
     z-index: 99999;
     position: fixed;
     top: 5px;
