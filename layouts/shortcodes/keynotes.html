@@ -1,1 +1,51 @@
-{{ partial "keynotes.html" . }}
+{{/* Initialize variables */}}
+{{ $imgPath := absURL "keynotes/" }}
+{{ $headlessbundle := site.GetPage "section" "keynotes-data" }}
+{{ $keynotes := ( $headlessbundle.Resources.Match "*.md" ) }}
+{{ $keynotes = sort $keynotes "Params.order" }}
+{{ $colors := slice "coloring-1" "coloring-6" }}
+
+{{ range $index, $keynote := $keynotes }}
+{{ $names := slice }}
+{{ range $keynote.Params.speakers }}{{ $names = $names | append .name }}{{ end }}
+<div class="container rich has-right">
+    <div class="cont {{ index $colors (mod $index (len $colors)) }}">
+        <h3>{{ $keynote.Params.talk }}</h3>
+        <h4>{{ delimit $names ", " }}</h4>
+        {{ $keynote.Content }}
+        {{ with $keynote.Params.link }}
+        <p><a href="{{ . }}" target="_blank" rel="noopener">View talk details</a></p>
+        {{ end }}
+    </div>
+    <div class="rich-right keynote-speakers">
+        {{ range $keynote.Params.speakers }}
+        {{ $speaker := . }}
+        {{ with .avatar }}
+        <figure class="keynote-speaker-photo">
+            <img src="{{ $imgPath }}{{ . }}" alt="{{ $speaker.name }}">
+        </figure>
+        {{ end }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+
+<style>
+.keynote-speakers {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.keynote-speakers .keynote-speaker-photo {
+    flex: 1 1 auto;
+    min-width: 45%;
+    margin: 0;
+}
+.keynote-speakers .keynote-speaker-photo img {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+</style>
