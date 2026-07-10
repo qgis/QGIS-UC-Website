@@ -44,8 +44,6 @@ While the overall structure is set, minor adjustments may still be made as the s
 
 ## Detailed Schedule
 
-The detailed schedule will be published around mid July
-
 Note that the schedule is quite wide, you can scroll horizontally to see
 the full schedule.
 {{< rich-content-end >}}
