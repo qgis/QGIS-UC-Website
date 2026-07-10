@@ -1,6 +1,5 @@
 ---
 order: 4
-draft: true
 talk: "AI in the QGIS Ecosystem"
 link: "https://talks.osgeo.org/qgis-uc2026/talk/YKQSPT/"
 speakers:
