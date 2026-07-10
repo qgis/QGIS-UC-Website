@@ -2,6 +2,9 @@
 {{ $imgPath := absURL "keynotes/" }}
 {{ $headlessbundle := site.GetPage "section" "keynotes-data" }}
 {{ $keynotes := ( $headlessbundle.Resources.Match "*.md" ) }}
+{{ if not site.BuildDrafts }}
+{{ $keynotes = where $keynotes "Params.draft" "!=" true }}
+{{ end }}
 {{ $keynotes = sort $keynotes "Params.order" }}
 {{ $colors := slice "coloring-1" "coloring-6" }}
 
