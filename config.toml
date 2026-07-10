@@ -147,14 +147,14 @@ sectionPagesMenu = 'main'
   weight = 20
 
 [[menu.main]]
+  name = "Keynotes"
+  url = "/keynotes/"
+  weight = 25
+
+[[menu.main]]
   name = "Schedule"
   url = "/schedule/"
   weight = 30
-
-[[menu.main]]
-  name = "Keynotes"
-  url = "/keynotes/"
-  weight = 32
 
 [[menu.main]]
   name = "Activities"
