@@ -18,7 +18,7 @@ sidebar: true
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 
-This page provides both a high-level overview and a [detailed schedule further down](#conference-schedule).
+This page provides both a high-level [overview](#overview) and a [detailed conference schedule](#conference-schedule) further down.
 
 To take the conference schedule with you and plan your days on the go, download the [official conference app](/apps/#conference-app) to browse the full program, mark your favourite talks, and access key information — even offline.
 
@@ -26,27 +26,15 @@ To take the conference schedule with you and plan your days on the go, download 
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-4">}}
+{{< rich-content-start themeClass="coloring-1">}}
 
 ## Activities
 
 For a full overview of all conference activities — registration requirements, limited-capacity events, and more — see the [Activities page](/activities/).
 
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-5">}}
-
 ## Keynotes
 
 Don't miss our keynote speakers headlining the conference. [See the full keynote lineup and speaker bios](/keynotes/).
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-3">}}
 
 ## Workshops
 
@@ -54,6 +42,9 @@ Looking for hands-on learning? Check out the [Workshop Day schedule and session 
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
+
+
+## Overview 
 
 {{< weekgrid >}}
 
