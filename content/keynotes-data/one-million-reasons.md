@@ -5,7 +5,7 @@ link: "https://talks.osgeo.org/qgis-uc2026/talk/BRMCB9/"
 speakers:
   - name: "Lova Andriarimalala"
     avatar: "lova-andriarimalala.jpeg"
-    role: "Web GIS Developer, Antananarivo, Madagascar"
+    role: "QGIS Web infrastructure maintainer, Antananarivo, Madagascar"
     bio: >-
       Lova is a Web GIS Developer based in Antananarivo, Madagascar,
       self-taught in GIS and skilled in QGIS, Python, Django, and
