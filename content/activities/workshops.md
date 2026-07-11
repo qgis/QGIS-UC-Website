@@ -57,6 +57,65 @@ Registration opens together with conference tickets. Workshops can be added duri
 
 ---
 
+## Schedule
+
+<button id="workshopsScheduleFullSizeButton" class="button is-primary1 is-hidden-mobile">Show workshop schedule in full size</button>
+<script>
+function setupScheduleFullSizeButton(buttonId, scheduleIndex, showLabel) {
+    let fullSize = false;
+    const button = document.getElementById(buttonId);
+    button.addEventListener("click", () => {
+        fullSize = !fullSize;
+
+        document.querySelectorAll("p:has(> pretalx-schedule)")[scheduleIndex].classList.toggle("full-size");
+
+        button.classList.toggle("full-size");
+        button.innerHTML = fullSize ? "Hide schedule full size" : showLabel;
+
+        const topNav = document.querySelector("qg-top-nav");
+        topNav.hidden = !topNav.hidden;
+    });
+}
+
+setupScheduleFullSizeButton("workshopsScheduleFullSizeButton", 0, "Show workshop schedule in full size");
+</script>
+
+<script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2026/widgets/schedule.js"></script>
+
+<style>
+p:has(> pretalx-schedule) {
+    width: 100%;
+    overflow-x: scroll;
+}
+p:has(> pretalx-schedule).full-size {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+#workshopsScheduleFullSizeButton.full-size {
+    z-index: 99999;
+    position: fixed;
+    top: 5px;
+    left: 200px;
+}
+</style>
+
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033" date-filter="2026-10-07" room-filter="388,396,387,389,390,417"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://talks.osgeo.org/qgis-uc2026/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
+
+---
+
 ## Morning Session — 09:00–12:30
 
 {{< columns-start >}}
