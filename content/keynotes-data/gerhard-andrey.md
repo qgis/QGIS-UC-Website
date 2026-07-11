@@ -7,6 +7,6 @@ speakers:
     avatar: "gerhard-andrey.webp"
 ---
 
-Gerhard Andrey is a Swiss National Councillor for the Green Party and a Parldigi Champion, advocating for an open, net-neutral internet and sustainable public digital infrastructure. In 2023 he ran as the Green Party's candidate for the Swiss Federal Council (Bundesrat).
+Gerhard Andrey is a Swiss National Councillor and a Parldigi Champion, advocating for an open, net-neutral internet and sustainable public digital infrastructure. In 2023 he ran as the Green Party's first-ever candidate for the Swiss Federal Council (Bundesrat).
 
 Abstract to be announced soon.
