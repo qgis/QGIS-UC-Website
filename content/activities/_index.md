@@ -45,7 +45,7 @@ Time: Sunday 4th of October<br/>
 Place: Laax Murschetg<br/>
 Price: **€40**, registration required — covers transportation and guide fees. 
 
-You can choose your activity after purchase. Tickets can be purchased together with your conference ticket on [ti.to/qgis/uc-2026](https://ti.to/qgis/uc-2026).
+You can choose your activity after purchase. Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -266,7 +266,9 @@ While there will be short workshops during the main conference, we additionally 
 The price includes lunch between the workshops.
 
 Time: Wednesday 7th of October, 09:00 with a coffee break<br/>
-Price: €160, registration required (lunch included)
+Price: €175, registration required (lunch included)
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -282,6 +284,8 @@ After a short indoor introduction and demo session, we will head outdoors for a 
 Time: Wednesday 7th of October, 09:00–17:00<br/>
 Place: Laax Murschetg
 Price: 80€, registration required (lunch included)
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).  
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

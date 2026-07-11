@@ -45,7 +45,7 @@ All workshops are held in English and require separate registration. Places are 
 
 Registration opens together with conference tickets. Workshops can be added during ticket purchase or later, subject to availability.
 
-[Register on ti.to/qgis/uc-2026](https://ti.to/qgis/uc-2026)
+[Register on our tickets page](/tickets)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
