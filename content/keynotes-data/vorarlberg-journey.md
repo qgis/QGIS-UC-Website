@@ -6,10 +6,11 @@ speakers:
   - name: "Johannes Kanonier"
     avatar: "johannes-kanonier.jpg"
     role: "VoGIS Coordinator, Head of Department"
-    bio: |-
-      Degree in Surveying, Mapping and Remote Sensing, TU Vienna (1989)
-      Degree "Technischer Umweltschutz", TU / BOKU Vienna (1993)
-      (find out more)
+    bio: >-
+      Johannes Kanonier is VoGIS Coordinator and Head of Department at
+      the State of Vorarlberg, Austria, where he has led Vorarlberg's
+      15-year journey with QGIS as a standard desktop GIS component
+      within the state's spatial data infrastructure.
 ---
 
 *Where did we start? What has the journey been like? Where are we now? What's next?* Since our first rollout, the State of Vorarlberg has relied on QGIS as a standard desktop GIS component within an open spatial data infrastructure. This talk reflects on that 15-year journey — the opportunities, the responsibilities of being a major user, and the technological and geopolitical challenges ahead.
