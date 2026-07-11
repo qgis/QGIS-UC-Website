@@ -5,6 +5,13 @@ link: "https://talks.osgeo.org/qgis-uc2026/talk/YKQSPT/"
 speakers:
   - name: "Anita Graser"
     avatar: "anita-graser.jpg"
+    role: "Senior Scientist, AIT Austrian Institute of Technology"
+    bio: >-
+      Anita Graser is a Senior Scientist at the AIT Austrian Institute of
+      Technology in Vienna, working in geoinformatics and spatial data
+      science. She serves on the QGIS project steering committee, is the
+      lead developer of MovingPandas, and received the OSGeo Sol Katz
+      award for her contributions to open-source GIS.
 
 ---
 
