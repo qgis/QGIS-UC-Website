@@ -54,6 +54,7 @@ The conference is almost sold-out, join the waiting list to get updates as soon 
 
 Tickets can be refunded if cancelled **more than 30 days before the event**. The providers' transaction fees of 6% will be deducted from the refunded total.
 Cancellations made **less than 30 days prior** to the event are **non-refundable**.
+Insurance is the responsibility of the participants. The organizer assumes no liability for accidents, property damage, or theft during the event.
 
 We reserve the right to cancel any of the social activities if there are too few participants for it, in which case you will be offered a refund.
 
