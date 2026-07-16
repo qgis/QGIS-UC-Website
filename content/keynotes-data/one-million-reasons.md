@@ -7,11 +7,10 @@ speakers:
     avatar: "lova-andriarimalala.jpeg"
     role: "QGIS Web infrastructure maintainer, Antananarivo, Madagascar"
     bio: >-
-      Lova is a Web GIS Developer based in Antananarivo, Madagascar,
-      self-taught in GIS and skilled in QGIS, Python, Django, and
-      JavaScript. He builds web-based GIS applications and maps with a
-      focus on humanitarian initiatives, and is an avid hiker in his
-      spare time.
+      Lova is a geographer who has used QGIS since his university years, 
+      applying it throughout his academic research. Since October 2023, 
+      he has served as QGIS Web infrastructure maintainer, and in 
+      February 2026 he was elected as a Community voting member.
   - name: "Tim Sutton"
     avatar: "tim-sutton.jpg"
     role: "Co-founder, Kartoza · Former Chair, QGIS.org · OSGeo Board Director"
