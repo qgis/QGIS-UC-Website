@@ -58,7 +58,7 @@ You can choose your activity after purchase. Tickets can be purchased together w
 
 **Ruinaulta Rhine Gorge walk with guide**
 
-[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1784666004867&style=outdoor&bottomBar=open)
+[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/rhine-gorge) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-reinschlucht-1784666004867&style=outdoor&bottomBar=open) | [Download GPX](./route-reinschlucht.gpx)
 
 We take the bus from Laax to Valendas-Sagogn and walk the most scenic stretch of the Ruinaulta, the so-called "Swiss Grand Canyon." A local Ruinaulta guide joins us for the full walk, bringing the gorge's story to life along the way.
 
@@ -81,7 +81,7 @@ Time: 9:30–14:00
 
 **Segnes Plateau hike with GeoGuide Sardona**
 
-[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [View route](https://routeplanner.suunto.com/?route=segnes-short-1784666046963&style=outdoor&bottomBar=open)
+[More info](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [View route](https://routeplanner.suunto.com/?route=segnes-short-1784666046963&style=outdoor&bottomBar=open) | [Download GPX](./route-segnes-short.gpx)
 
 We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included). From there we descend to Stalla and take the bus back to Laax.
 
@@ -104,7 +104,7 @@ Time: 9:30–15:00
 
 **Segnes Plateau hike with GeoGuide Sardona (long option)**
 
-[More info UNESCO](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [More info Trutg dil Flem](https://www.flimslaax.com/en/hiking/trutg-dil-flem) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-2026-segnes-trutg-dil-flem-1784666109345&style=outdoor&bottomBar=open)
+[More info UNESCO](https://www.flimslaax.com/en/outdoor-activities/natural-phenomena/tectonic-arena-sardona) | [More info Trutg dil Flem](https://www.flimslaax.com/en/hiking/trutg-dil-flem) | [View route](https://routeplanner.suunto.com/?route=qgis-uc-2026-segnes-trutg-dil-flem-1784666109345&style=outdoor&bottomBar=open) | [Download GPX](./route-segnes-long.gpx)
 
 We meet in Laax and take the bus up to Berghaus Nagens (2100 m), then walk into the Segnesboden, looping through the open karst plateau before stopping for a well-earned drink or lunch at Segneshütte (not included).
 
@@ -139,7 +139,7 @@ TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 {{< rich-content-start themeClass="coloring-1">}}
 ## Wednesday - trailrun
 
-6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1784666262546&style=outdoor&bottomBar=open)
+6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1784666262546&style=outdoor&bottomBar=open) , download the [GPX](./route-lamutta.gpx)
 
 Meeting point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
 
@@ -162,7 +162,7 @@ Hike & Fly, might be moved to other days depending on weather conditions.
 ## Friday - trailrun
 Wonderful 10K trail run along the Connbächli to the Swiss grand Canyon view platform Il spir.
 
- See the profile and route [here](https://routeplanner.suunto.com/?route=connbaechli-1784666607302&style=outdoor&bottomBar=open)
+ See the profile and route [here](https://routeplanner.suunto.com/?route=connbaechli-1784666607302&style=outdoor&bottomBar=open) , download the [GPX](./route-connbaechli.gpx)
 
 Meeting point [Flims Waldaus Caumasee bus stop](https://www.openstreetmap.org/node/984706253#map=19/46.825889/9.288790).
 
