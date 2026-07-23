@@ -52,7 +52,7 @@
                     {{ end }}
                     <div class="tile is-parent" style="max-width: {{ div 100 $itemsPerRow }}%">
                         <article class="tile is-child box notification {{ $notificationClass }}">
-                            <a href="{{ $sponsor.Params.link }}">
+                            <a href="{{ $sponsor.Params.link }}" target="_blank" rel="noopener">
                                 <figure>
                                     <img src="{{ $logoPath }}{{ $sponsor.Params.logo }}" alt="{{ $sponsor.Params.title }}">
                                 </figure>
