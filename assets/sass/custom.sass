@@ -154,6 +154,11 @@
 .funders
   .organizers
     border: 2px solid #93B023
+  // Mobile: tiles stack vertically, so override the per-row inline max-width
+  // set by the sponsors shortcode; otherwise each box stays pinned to a narrow column
+  @media screen and (max-width: 768px)
+    .tile.is-parent
+      max-width: 100% !important
 
 .supporters-grid 
   .fund-Organizer
