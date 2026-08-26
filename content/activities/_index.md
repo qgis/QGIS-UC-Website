@@ -203,11 +203,11 @@ Laax offers a wide range of [outdoor sports and activities](https://www.flimslaa
 {{< rich-content-start themeClass="coloring-1">}}
 ## Sunday
 
-### Warm-up & Early Registration
+### Warm-up & Registration
 
 Warm-up event on Sunday evening, where you can meet other participants and the organisers, and have a wine, beer or non-alcoholic drink (at your own expense).
 
-We will have a registration desk there as well, in case you would like to avoid queuing for registration on Monday morning.
+We will have a registration desk there as well, to avoid queuing for registration on Monday morning.
 
 Time: Sunday 4th of October, 18:00-22:00<br/>
 Place: Laax Murschetg, Bar TBD

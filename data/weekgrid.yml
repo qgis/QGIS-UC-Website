@@ -53,7 +53,7 @@ events:
         link: "/activities/#sunday---outdoor-day"
       - start: "18:00"
         end: "22:00"
-        label: "Warm-up &amp; Early Registration"
+        label: "Warm-up &amp; Registration"
         class: "ev-social"
         link: "/activities/#warm-up--early-registration"
 
@@ -61,7 +61,7 @@ events:
     main:
       - start: "07:30"
         end: "09:00"
-        label: "Gondola rides & morning activity"
+        label: "Registration, Gondola rides & morning activity"
         class: "ev-other"
         link: "/#venue"
       - start: "09:00"
