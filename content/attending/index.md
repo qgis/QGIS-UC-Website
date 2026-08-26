@@ -24,6 +24,7 @@ sidebar: true
 - Dates: 5–6 October 2026  
 - Workshops: 7 October (Laax Murschetg)  
 - Contributor Meeting: 7–9 October (Laax Murschetg)  
+- Registration: [House D (Sunday 18-22 & Monday 6:30-8:30)](#laax-murschetg-house-d)
   
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -84,6 +85,24 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 {{< column-end >}}
 {{< columns-end >}}
 </div>
+
+## Arrival & Registration
+
+{{< rich-box-start layoutClass="has-right" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
+### LAAX Murschetg, House D
+
+Registration is in the valley, not at the venue. Come to House D in LAAX Murschetg to collect your badge, your conference bag and your gondola tickets.
+
+**Sunday 4 October, 18:00 – 22:00**, together with the [warm-up](https://uc2026.qgis.org/activities/#warm-up--early-registration).
+**Monday 5 October, 07:00 – 08:30**, before the gondola rides up to the venue.
+
+Your gondola time is printed on your badge, so register before you head to the base station.
+{{< rich-content-end >}}
+{{< rich-right-start >}}
+[![](./rocks.webp)](./rocks.webp)
+{{< rich-right-end >}}
+{{< rich-box-end >}}
 
 ## Venue
 
