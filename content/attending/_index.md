@@ -1,5 +1,6 @@
 ---
 type: "page"
+layout: "single"
 title: "QGIS User Conference 2026"
 subtitle: "5-6 October 2026, Laax, Switzerland"
 heroImage: "hero.webp"
