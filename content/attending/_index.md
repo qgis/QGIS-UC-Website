@@ -176,7 +176,8 @@ All rooms are located in or around the **Crap Sogn Gion** building and are reach
 {{< rich-content-start themeClass="coloring-1">}}
 ### Breaks
 
-**Coffee breaks**, **lunch**, the **sponsors exhibition**, and the **social event** will be held at the [Galaaxy Main Station](https://www.laax.com/en/restaurant/galaaxy-main-station).
+The **sponsors exhibition**, *coffee breaks**, **lunch**, and the **social event** will be held at the [Galaaxy Main Station](https://www.laax.com/en/restaurant/galaaxy-main-station).
+**Coffee breaks** will also be served at the Hangar.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
@@ -317,6 +318,16 @@ Daily access to the venue is via the gondola from Laax Murschetg. Operating time
 {{< rich-box-end >}}
 {{< column-end >}}
 {{< columns-end >}}
+
+## What to wear
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
+
+Wear whatever you're comfortable in — there's no dress code. Do bring something warm: at 2,222 m the temperature can range from 18°C to 0°C depending on the day, and it gets noticeably cooler at night. We'll send a weather report over Signal about a week before the conference so you can pack accordingly.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 ## Code of Conduct
 
