@@ -58,26 +58,7 @@ the full schedule.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
-<button id="conferenceScheduleFullSizeButton" class="button is-primary1 is-hidden-mobile">Show conference schedule in full size</button>
-<script>
-function setupScheduleFullSizeButton(buttonId, scheduleIndex, showLabel) {
-    let fullSize = false;
-    const button = document.getElementById(buttonId);
-    button.addEventListener("click", () => {
-        fullSize = !fullSize;
-
-        document.querySelectorAll("p:has(> pretalx-schedule)")[scheduleIndex].classList.toggle("full-size");
-
-        button.classList.toggle("full-size");
-        button.innerHTML = fullSize ? "Hide schedule full size" : showLabel;
-
-        const topNav = document.querySelector("qg-top-nav");
-        topNav.hidden = !topNav.hidden;
-    });
-}
-
-setupScheduleFullSizeButton("conferenceScheduleFullSizeButton", 0, "Show conference schedule in full size");
-</script>
+<a id="conferenceScheduleFullSizeButton" class="button is-primary1 is-hidden-mobile" href="https://talks.osgeo.org/qgis-uc2026/schedule/" target="_blank" rel="noopener">Show conference schedule in full size</a>
 
 <script type="text/javascript" src="https://talks.osgeo.org/qgis-uc2026/widgets/schedule.js"></script>
 
