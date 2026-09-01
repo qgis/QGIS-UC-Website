@@ -67,22 +67,30 @@ p:has(> pretalx-schedule) {
     width: 100%;
     overflow-x: scroll;
 }
-p:has(> pretalx-schedule).full-size {
-    background-color: white;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 9999;
-}
-#conferenceScheduleFullSizeButton.full-size {
-    z-index: 99999;
-    position: fixed;
-    top: 5px;
-    left: 200px;
-}
 </style>
+<script>
+(function () {
+  const css = `
+    .pretalx-modal .text-content .abstract {
+      font-weight: lighter;
+    }
+  `;
+  function inject() {
+    const el = document.querySelector('pretalx-schedule');
+    if (!el || !el.shadowRoot) return false;
+    if (el.shadowRoot.querySelector('style[data-uc-override]')) return true;
+    const style = document.createElement('style');
+    style.dataset.ucOverride = '';
+    style.textContent = css;
+    el.shadowRoot.appendChild(style);
+    return true;
+  }
+  if (!inject()) {
+    const timer = setInterval(() => { if (inject()) clearInterval(timer); }, 100);
+    setTimeout(() => clearInterval(timer), 10000);
+  }
+})();
+</script>
 
 <pretalx-schedule event-url="https://talks.osgeo.org/qgis-uc2026/" locale="en" format="grid" style="--pretalx-clr-primary: #002033" date-filter="2026-10-05,2026-10-06" room-filter="368,369,370,372,374,373,375"></pretalx-schedule>
 <noscript>
