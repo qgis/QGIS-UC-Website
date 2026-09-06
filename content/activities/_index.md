@@ -68,7 +68,7 @@ The trail from Valendas to Versam runs directly along the Rhine, through floodpl
 
 **4.6 km, +52 m / -80 m** — Easy, suitable for all fitness levels.
 
-Time: 9:30–14:00
+Time: 10:00–16:00
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -91,7 +91,7 @@ The perfect way to clear your head the day before three days of QGIS talks.
 
 **7.5 km, +127 m / -297 m** — Easy to moderate, suitable for all fitness levels.
 
-Time: 9:30–15:00
+Time: 10:30–16:00
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -114,7 +114,7 @@ A certified GeoGuide Sardona will guide the group through the geology of the UNE
 
 **14 km, +135 m / -1148 m** — Moderate to challenging, with a long descent. Hiking poles recommended.
 
-Time: 9:30–17:00
+Time: 9:00 (and 9:30) – 17:00
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
