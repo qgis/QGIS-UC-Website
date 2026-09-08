@@ -98,7 +98,12 @@ Registration is in the valley, not at the venue. Come to House D in LAAX Mursche
 **Sunday 4 October, 18:00 – 22:00**, together with the [warm-up](https://uc2026.qgis.org/activities/#warm-up--early-registration).
 **Monday 5 October, 07:00 – 08:30**, before the gondola rides up to the venue.
 
-Your gondola time is printed on your badge, so register before you head to the base station.
+Your gondola time is printed on your badge and you get gondola tickets when registering, so register before you head to the base station.
+
+### Arriving late?
+
+Outside registration hours, go to House Diva in Laax Murschetg, where a helper or a posted note will point you to your conference bag, badge and gondola tickets. Gondolas run roughly every 30 minutes and your ticket is valid on any of them.
+
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 [![](./rocks.webp)](./rocks.webp)
