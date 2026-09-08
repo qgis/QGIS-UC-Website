@@ -47,7 +47,7 @@ Using the app, you can:
 * **Mark your favourite talks** and easily plan your personal agenda
 * Find your way with a **multi-floor room selector**
 * Discover nearby **restaurants, hotels, bars, and points of interest**
-* Find **hicking trails** around the conference area
+* Find **hiking trails** around the conference area
 * Create your own **private notes, photos, videos, and audio recordings** to capture ideas and memories
 
 Most features work entirely offline, so you can rely on the app throughout the conference.
