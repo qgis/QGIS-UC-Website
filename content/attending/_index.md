@@ -245,7 +245,7 @@ There are direct train connections to **Hamburg** and **Stockholm** with only **
 A **direct train from Brig** is also available, offering a particularly scenic journey along the **Glacier Express route**.
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-[![Railroads to Venue](./railroads_to_venue.webp)](./railroads_to_venue.webp)
+<video src="./railroads_to_venue.mp4" poster="./railroads_to_venue.webp" controls muted playsinline style="width:100%; height:auto;"></video>
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
