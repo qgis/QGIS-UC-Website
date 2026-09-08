@@ -318,7 +318,11 @@ A frequent free local bus service connects Laax Murschetg with Laax town (Laax P
 {{< rich-content-start themeClass="coloring-2">}}
 ### Gondola
 
-Daily access to the venue is via the gondola from Laax Murschetg. Operating times will be shared closer to the event.
+Access to the venue is by gondola from Laax Murschetg, about a 12-minute ride. Your ticket includes one ride up and one down per day.
+
+Morning departures up: 07:40, 08:00, 08:20, 08:40. From 09:00 every 30 min, last ride down 17:00.
+
+Monday: social dinner up top, so gondolas down run late at 21:40, 22:00, 22:20, 22:40.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
