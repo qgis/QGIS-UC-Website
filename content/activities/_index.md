@@ -231,9 +231,9 @@ Price: Free, no registration required, everyone welcome
 {{< rich-content-start themeClass="coloring-6">}}
 ## Monday
 
-### Preconf special event
+### Preconf activation
 
-Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
+Free. Only for people in the first two gondolas. See [above](#monday---preconf-activation)
 
 ### Main Conference
 
@@ -242,7 +242,7 @@ opportunities.
 
 ### Social Dinner
 
-Join us for a social dinner on Monday night directly after the conference. The dinner is included in the price of your ticket.
+Join us for a social dinner on Monday night *directly* after the conference. The dinner is included in the price of your ticket.
 
 Time: Monday 5th of October, 18:00 (easy start)<br/>
 Place: Galaaxy Mainstation<br/>
@@ -256,7 +256,7 @@ Price: Included in the conference ticket
 ## Tuesday
 
 ### Preconf activation
-Free. TBD (Yoga4all, Small hike, Discover Mission control, How does a ski resort work, Gondola talks, ...?)
+Free. Only for people in the first two gondolas. See [above](#tuesday---preconf-activation)
 
 ### Main Conference
 
