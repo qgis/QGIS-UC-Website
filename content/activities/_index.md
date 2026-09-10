@@ -122,7 +122,12 @@ Time: 9:00 (and 9:30) – 17:00
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 ## Monday - Preconf activation
-TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
+08:15-08:45 Activity on Crap Sogn Gion
+- Yoga4all (light yoga session) confirmed
+- GIS behind a ski resort TBC
+- Reducing impact of a ski resort TBC
+
+only for people in the first two gondolas (07:40 and 08:00)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -130,7 +135,13 @@ TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
 ## Tuesday - Preconf activation
-TBD Activity on Crap Sogn Gion (Yoga4all, Small hike, ...?)
+08:15-08:45 Activity on Crap Sogn Gion
+
+- Yoga4all (light yoga session) confirmed
+- GIS behind a ski resort TBC
+- Reducing impact of a ski resort TBC
+
+only for people in the first two gondolas (07:40 and 08:00)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
