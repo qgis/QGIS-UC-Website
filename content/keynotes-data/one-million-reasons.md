@@ -11,6 +11,11 @@ speakers:
       applying it throughout his academic research. Since October 2023, 
       he has served as QGIS Web infrastructure maintainer, and in 
       February 2026 he was elected as a Community voting member.
+  - name: "Ivan Minčík"
+    avatar: "imincik.webp"
+    role: "IT consultant · NGI team manager at NixOS Foundation"
+    bio: >-
+      TODO
   - name: "Tim Sutton"
     avatar: "tim-sutton.jpg"
     role: "Co-founder, Kartoza · Former Chair, QGIS.org · OSGeo Board Director"
