@@ -17,8 +17,8 @@ speakers:
     bio: >-
       Free software user, developer, and enthusiast since the previous century. Over
       the years, Ivan has been involved in multiple geospatial software communities
-      and helped deploy their software across both hemispheres. These days, he helps
-      people build, deploy, and run software with Nix and NixOS.
+      and helped to deploy their software across both hemispheres. These days, he helps
+      people to build, deploy, and run software with Nix and NixOS.
   - name: "Tim Sutton"
     avatar: "tim-sutton.jpg"
     role: "Co-founder, Kartoza · Former Chair, QGIS.org · OSGeo Board Director"
