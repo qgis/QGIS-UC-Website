@@ -15,7 +15,7 @@ speakers:
     avatar: "imincik.webp"
     role: "IT consultant · NGI team manager at NixOS Foundation"
     bio: >-
-      TODO
+Free software user, developer, and enthusiast since the previous century. Over the years, I’ve been involved in multiple geospatial software communities and helped deploy our software across both hemispheres. These days, I’m helping people build, deploy, and run software with Nix and NixOS.
   - name: "Tim Sutton"
     avatar: "tim-sutton.jpg"
     role: "Co-founder, Kartoza · Former Chair, QGIS.org · OSGeo Board Director"
