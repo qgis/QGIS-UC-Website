@@ -53,7 +53,7 @@ Registration opens together with conference tickets. Workshops can be added duri
 ---
 ## Current availability
 
-![](../workshops-status.webp)
+![](./workshops-status.webp)
 
 ---
 
