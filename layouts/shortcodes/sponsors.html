@@ -10,13 +10,8 @@
 {{/* Define sponsor level configurations */}}
 {{ $levelConfigs := dict
     "organizers" (dict
-        "level" "Organizer"
+        "levels" (slice "Organizer" "Co-organizer")
         "itemsPerRow" 4
-        "notificationClass" "organizers"
-    )
-    "co-organizers" (dict
-        "level" "Co-organizer"
-        "itemsPerRow" 5
         "notificationClass" "organizers"
     )
     "sponsors" (dict
@@ -39,6 +34,7 @@
     {{ $notificationClass := .notificationClass }}
     {{ $showTitle := .showTitle | default false }}
     {{ $title := .title | default "" }}
+    {{ $showLevel := .showLevel | default false }}
 
     {{ with $sponsors }}
         {{ if $showTitle }}<h3 class="subtitle">{{ $title }}</h3>{{ end }}
@@ -57,6 +53,9 @@
                                     <img src="{{ $logoPath }}{{ $sponsor.Params.logo }}" alt="{{ $sponsor.Params.title }}">
                                 </figure>
                                 <h3 class="title is-5">{{ $sponsor.Params.title }}</h3>
+                                {{ if $showLevel }}
+                                    <p class="subtitle is-6">{{ $sponsor.Params.level }}</p>
+                                {{ end }}
                             </a>
                         </article>
                     </div>
@@ -67,9 +66,9 @@
 {{ end }}
 
 {{/* Render based on type */}}
-{{ if or (eq $type "organizers") (eq $type "co-organizers") }}
+{{ if eq $type "organizers" }}
     {{ $config := index $levelConfigs $type }}
-    {{ $sponsors := where $allSponsors "Params.level" $config.level }}
+    {{ $sponsors := where $allSponsors "Params.level" "in" $config.levels }}
 
     {{ template "renderSponsors" (dict
         "params" $
@@ -77,6 +76,7 @@
         "logoPath" $logoPath
         "itemsPerRow" $config.itemsPerRow
         "notificationClass" $config.notificationClass
+        "showLevel" true
     ) }}
 {{ else if eq $type "sponsors" }}
     {{ range $level := index $levelConfigs "sponsors" "levels" }}

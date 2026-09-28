@@ -13,13 +13,9 @@ sidebar: true
 ---
 
 {{< content-start >}}
-## Organizers
+## Organizers and Co-organizers
 
 {{< sponsors type="organizers" >}}
-
-## Co-organizers
-
-{{< sponsors type="co-organizers" >}}
 
 ## Sponsors
 
