@@ -221,7 +221,7 @@ Warm-up event on Sunday evening, where you can meet other participants and the o
 We will have a registration desk there as well, to avoid queuing for registration on Monday morning.
 
 Time: Sunday 4th of October, 18:00-22:00<br/>
-Place: Laax Murschetg, Bar TBD
+Place: Laax Murschetg, "House D" at rocksresort
 Price: Free, no registration required, everyone welcome
 
 {{< rich-content-end >}}
