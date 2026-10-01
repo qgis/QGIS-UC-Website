@@ -59,12 +59,6 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 <div class="qr-container">
 
-<small>
-
-*Note: the QR code currently links to the 2025 conference app and will be updated to the 2026 version closer to the event.*
-
-</small>
-
 ![QField QR Code](./qr-uc-app.png)
 
 </div>
