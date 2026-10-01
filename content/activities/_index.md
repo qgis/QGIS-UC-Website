@@ -170,9 +170,47 @@ We leave at 07:01 after the bus from Laax arrives
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-6">}}
+## Wednesday - stargazing
+
+![](./stars.png)
+
+[Sternwarte Mirasteilas](https://www.mirasteilas.ch/) in Falera has one of the largest publicly accessible telescopes in Switzerland, and Falera's skies are dark enough to make good use of it. We've arranged guided tours on both evenings for anyone who wants to come along.
+
+The tour runs from 21:45 to 23:40: a 30-minute introduction to what's currently happening in the sky, then 90 minutes at the telescopes looking at planets, the moon, star clusters, nebulae and galaxies. If the weather doesn't play along we cancel and refund you.
+
+Getting there: bus B 81 from [Laax Bergbahnen](https://www.openstreetmap.org/#map=19/46.819735/9.265168) at 21:13, arriving Falera center at 21:26, then a 20 minute walk up to the observatory. The bus back leaves Falera center at 00:04. Your guest card from your accommodation covers the bus; without one you'll need a ticket.
+
+Bring a headtorch for the walk if you want, and warm clothes: the dome is unheated, on purpose, since warm air ruins the image. Dress as if you were standing still outside at night in the mountains, because that is exactly what you'll be doing.
+
+Time: Wednesday 7th of October, 21:45–23:40<br/>
+Place: Sternwarte Mirasteilas, Falera<br/>
+Price: **€22**, registration required, 20 places
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
 ## Thursday - hike & fly
 
 Hike & Fly, might be moved to other days depending on weather conditions.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-2">}}
+## Thursday - stargazing
+
+Same tour as Wednesday, see [above](#wednesday---stargazing).
+
+Time: Thursday 8th of October, 21:45–23:40<br/>
+Place: Sternwarte Mirasteilas, Falera<br/>
+Price: **€22**, registration required, 20 places
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
