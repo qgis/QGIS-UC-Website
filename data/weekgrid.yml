@@ -1,6 +1,6 @@
 slot_minutes: 30
 time_start: "07:00"
-time_end: "22:00"
+time_end: "23:30"
 
 days:
   - id: sun
@@ -213,7 +213,7 @@ events:
         class: "ev-other"
       - start: "09:00"
         end: "12:30"
-        label: "QField excursion"
+        label: "QField day"
         class: "ev-workshop"
         link: "/activities/#qfield-day"
       - start: "12:30"
@@ -222,7 +222,7 @@ events:
         class: "ev-break"
       - start: "14:00"
         end: "17:30"
-        label: "QField excursion"
+        label: "QField day"
         class: "ev-workshop"
         link: "/activities/#qfield-day"
     cm:
@@ -239,10 +239,15 @@ events:
         label: "Lunch"
         class: "ev-break"
       - start: "14:00"
-        end: "22:00"
+        end: "21:00"
         label: "Contributor Meeting"
         class: "ev-contributor"
         link: "/activities/#contributor-meeting-until-friday"
+      - start: "21:00"
+        end: "23:30"
+        label: "Stargazing in Falera"
+        class: "ev-social"
+        link: "/activities/#wednesday---stargazing"
 
   thu:
     cm:
@@ -261,10 +266,15 @@ events:
         label: "Lunch"
         class: "ev-break"
       - start: "14:00"
-        end: "22:00"
+        end: "21:00"
         label: "Contributor Meeting"
         class: "ev-contributor"
         link: "/activities/#contributor-meeting-until-friday"
+      - start: "21:00"
+        end: "23:30"
+        label: "Stargazing in Falera"
+        class: "ev-social"
+        link: "/activities/#thursday---stargazing"
 
   fri:
     cm:
