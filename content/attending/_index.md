@@ -25,7 +25,7 @@ sidebar: true
 - Dates: 5–6 October 2026  
 - Workshops: 7 October (Laax Murschetg)  
 - Contributor Meeting: 7–9 October (Laax Murschetg)  
-- Registration: [House D (Sunday 18-22 & Monday 6:30-8:30)](#laax-murschetg-house-d)
+- Registration: [House D (Sunday 18-22 & Monday 7:00-8:30)](#arrival--registration)
   
 {{< rich-content-end >}}
 {{< rich-box-end >}}
