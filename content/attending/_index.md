@@ -95,7 +95,7 @@ To complement these maps, the [official conference app](/apps/#conference-app) b
 
 Registration is in the valley, not at the venue. Come to House D in LAAX Murschetg to collect your badge, your conference bag and your gondola tickets.
 
-**Sunday 4 October, 18:00 – 22:00**, together with the [warm-up](https://uc2026.qgis.org/activities/#warm-up--early-registration).
+**Sunday 4 October, 18:00 – 22:00**, together with the [warm-up](https://uc2026.qgis.org/activities/#warm-up--registration).
 **Monday 5 October, 07:00 – 08:30**, before the gondola rides up to the venue.
 
 Your gondola time is printed on your badge and you get gondola tickets when registering, so register before you head to the base station.
@@ -181,10 +181,10 @@ All rooms are located in or around the **Crap Sogn Gion** building and are reach
 {{< rich-content-start themeClass="coloring-1">}}
 ### Breaks
 
-The **sponsors exhibition**, *coffee breaks**, **lunch**, and the **social event** will be held at the [Galaaxy Main Station](https://www.laax.com/en/restaurant/galaaxy-main-station).
+The **sponsors exhibition**, **coffee breaks**, **lunch**, and the **social event** will be held at the [Galaaxy Main Station](https://www.laax.com/en/restaurant/galaaxy-main-station).
 **Coffee breaks** will also be served at the Hangar.
 
-Lunch is served in two seatings. Your seating is the coloured dot on the back of your badge, blue or green. Both seatings are full, so please keep to the one you were given.
+Lunch is served in multiple seatings. Your seating is the coloured dot on the back of your badge: blue, green or orange. All seatings are full, so please keep to the one you were given.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
@@ -211,6 +211,13 @@ Lunch is served in two seatings. Your seating is the coloured dot on the back of
 
 </div>
 
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-6">}}
+### Dinner buffet
+
+Dinner buffet at Casa Veglia on Sunday 4 and Tuesday 6 October, entry between 18:00 and 20:00. Buy it in advance with your conference ticket, or pay 42 CHF at the door.
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-5">}}
@@ -218,7 +225,7 @@ Lunch is served in two seatings. Your seating is the coloured dot on the back of
 
 Workshops will be held in Laax Murschetg (no gondola required).
 
-Details and locations are wisible  [here](/activities/workshops).
+Details and locations are visible  [here](/activities/workshops).
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
@@ -232,7 +239,7 @@ The [QGIS Contributor Meeting](/activities/#contributor-meeting-until-friday) wi
 {{< rich-box-end >}}
 
 ## Getting there
-No mater how you reach Chur, we suggest taking (at least on one leg) the train to Ilanz and then bus to Laax instead the to the direct Bus from Chhur to Laax. This will take 15min more but the train ride through the Rhine Gorge is wonderful.
+No matter how you reach Chur, we suggest taking (at least on one leg) the train to Ilanz and then bus to Laax instead of the direct bus from Chur to Laax. This will take 15min more but the train ride through the Rhine Gorge is wonderful.
 
 {{< columns-start >}}
 {{< column-start >}}
@@ -322,11 +329,13 @@ A frequent free local bus service connects Laax Murschetg with Laax town (Laax P
 
 Access to the venue is by gondola from Laax Murschetg, about a 12-minute ride. Your ticket includes one ride up and one down per day.
 
-Morning departures up: 07:40, 08:00, 08:20, 08:40. From 09:00 every 30 min, last ride down 17:00.
+Morning up, Monday and Tuesday: 07:40, 08:00, 08:20, 08:40, then every 30 min from 09:00. The time printed on your badge is the one to take, be there 5 minutes early.
 
-Monday: social dinner up top, so no down-and-back-up before dinner — gondolas down run at 18:45, 21:20, 21:40, 22:00, 22:20.
+Monday: social dinner up top, so no down-and-back-up before dinner. Gondolas down at 18:45, 21:20, 21:40, 22:00, 22:20.
 
-Tuesday: gondolas down run at 17:40, 18:00, 18:20, 18:40.
+Tuesday: gondolas down at 17:00, 17:30, 17:50, 18:10, 18:30. The 18:30 is the last one.
+
+Wednesday: everything is in Laax Murschetg, no gondola.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
