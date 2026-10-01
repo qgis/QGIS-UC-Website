@@ -56,7 +56,7 @@ The detailed program will be published closer to the event. In the meantime, you
 ### Call for Papers
 Share your work, ideas, and experiences with the QGIS community. We welcome user stories, technical talks, case studies, and workshops from all sectors and experience levels.
 
-[The call for papers is open](https://talks.osgeo.org/qgis-uc2026/cfp) and will close on 2026-04-12 23:59 (Europe/Zurich)
+[The call for papers is closed](https://talks.osgeo.org/qgis-uc2026/cfp) since 2026-04-12 23:59 (Europe/Zurich)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -67,7 +67,7 @@ Share your work, ideas, and experiences with the QGIS community. We welcome user
 {{< rich-content-start themeClass="coloring-3" >}}
 ### Tickets
 
-Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps. Ticket details and pricing will be announced soon.
+Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps.
 
 [Tickets will go on sale mid April](/tickets)
 
