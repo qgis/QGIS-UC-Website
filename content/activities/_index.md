@@ -123,11 +123,14 @@ Time: 9:00 (and 9:30) – 17:00
 {{< rich-content-start themeClass="coloring-1">}}
 ## Monday - Preconf activation
 08:15-08:45 Activity on Crap Sogn Gion
-- Yoga4all (light yoga session) confirmed
-- Laax from above mountain sight seeing walk
+
+Take the 07:40 or 08:00 gondola, the guides will be waiting on the terrace just outside the sponsors hall with a sign saying what they're offering, just walk up to the one you like.
+
+- Yoga4all (light standing yoga session)
+- Laax from above - mountain sightseeing walk
 - QField Crash course
-- GIS behind a ski resort TBC
-- Reducing impact of a ski resort TBC
+- GIS behind a ski resort (TBC)
+- Reducing impact of a ski resort (TBC)
 
 only for people in the first two gondolas (07:40 and 08:00)
 
@@ -139,11 +142,13 @@ only for people in the first two gondolas (07:40 and 08:00)
 ## Tuesday - Preconf activation
 08:15-08:45 Activity on Crap Sogn Gion
 
-- Yoga4all (light yoga session) confirmed
-- Laax from above mountain sight seeing walk
+Take the 07:40 or 08:00 gondola, the guides will be waiting on the terrace just outside the sponsors hall with a sign saying what they're offering, just walk up to the one you like.
+
+- Yoga4all (light standing yoga session)
+- Laax from above - mountain sightseeing walk
 - QField Crash course
-- GIS behind a ski resort TBC
-- Reducing impact of a ski resort TBC
+- GIS behind a ski resort (TBC)
+- Reducing impact of a ski resort (TBC)
 
 only for people in the first two gondolas (07:40 and 08:00)
 
