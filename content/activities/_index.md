@@ -285,7 +285,8 @@ While there will be short workshops during the main conference, we additionally 
 
 The price includes lunch between the workshops.
 
-Time: Wednesday 7th of October, 09:00 with a coffee break<br/>
+Time: Wednesday 7th of October, 09:00-17:30 with a coffee break<br/>
+Place: Laax Murschetg, no gondola required<br/>
 Price: €175, registration required (lunch included)
 
 Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
