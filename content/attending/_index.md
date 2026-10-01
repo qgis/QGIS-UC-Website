@@ -322,7 +322,9 @@ Access to the venue is by gondola from Laax Murschetg, about a 12-minute ride. Y
 
 Morning departures up: 07:40, 08:00, 08:20, 08:40. From 09:00 every 30 min, last ride down 17:00.
 
-Monday: social dinner up top, so gondolas down run late at 21:40, 22:00, 22:20, 22:40.
+Monday: social dinner up top, so no down-and-back-up before dinner — gondolas down run at 18:45, 21:20, 21:40, 22:00, 22:20.
+
+Tuesday: gondolas down run at 17:40, 18:00, 18:20, 18:40.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
