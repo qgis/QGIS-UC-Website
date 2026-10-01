@@ -44,7 +44,7 @@ In addition to the main conference days:
 {{< rich-box-end >}}
 ## Program
 
-The detailed program will be published closer to the event. In the meantime, you can explore a recent edition on the [QGIS User Conference 2025 website](https://uc2025.qgis.org/) to get a sense of the format and content, and refer to the current [schedule overview](/schedule).
+The detailed [program](schedule/#conference-schedule) and the [schedule overview](/schedule#overview) are live.
 
 
 
@@ -69,7 +69,7 @@ Share your work, ideas, and experiences with the QGIS community. We welcome user
 
 Join the QGIS community in Laax for two days of talks, discussions, and networking in the Swiss Alps.
 
-[Tickets will go on sale mid April](/tickets)
+[Tickets go on sale mid April](/tickets)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
