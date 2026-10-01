@@ -124,6 +124,8 @@ Time: 9:00 (and 9:30) – 17:00
 ## Monday - Preconf activation
 08:15-08:45 Activity on Crap Sogn Gion
 - Yoga4all (light yoga session) confirmed
+- Laax from above mountain sight seeing walk
+- QField Crash course
 - GIS behind a ski resort TBC
 - Reducing impact of a ski resort TBC
 
@@ -138,6 +140,8 @@ only for people in the first two gondolas (07:40 and 08:00)
 08:15-08:45 Activity on Crap Sogn Gion
 
 - Yoga4all (light yoga session) confirmed
+- Laax from above mountain sight seeing walk
+- QField Crash course
 - GIS behind a ski resort TBC
 - Reducing impact of a ski resort TBC
 
@@ -221,7 +225,7 @@ Warm-up event on Sunday evening, where you can meet other participants and the o
 We will have a registration desk there as well, to avoid queuing for registration on Monday morning.
 
 Time: Sunday 4th of October, 18:00-22:00<br/>
-Place: Laax Murschetg, Bar TBD
+Place: Laax Murschetg, bar Il Pup
 Price: Free, no registration required, everyone welcome
 
 {{< rich-content-end >}}
@@ -292,8 +296,8 @@ Want to learn more about QField, the mobile app for QGIS, in the town where it w
 
 After a short indoor introduction and demo session, we will head outdoors for a guided hike, using QField along the way to explore the surrounding landscape, discover the region, and work through real-world field mapping workflows together.
 
-Time: Wednesday 7th of October, 09:00–17:00<br/>
-Place: Laax Murschetg
+Time: Wednesday 7th of October, 08:30/09:00–17:00<br/>
+Place: Riders Hotel (Laax Murschetg), No gondola required
 Price: 80€, registration required (lunch included)
 
 Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).  
@@ -308,8 +312,8 @@ Tickets can be purchased together with your conference ticket on our [tickets pa
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
 to the project, or those who want to get more involved. Topics will be announced later.
 
-Time: Wednesday 7th of October, times TBA<br/>
-Place: Room Diva, Laax Murschetg<br/>
+Time: Wednesday 7th of October<br/>
+Place: Room Diva 1, Laax Murschetg<br/>
 Price: Free, no registration required
 
 {{< rich-content-end >}}
@@ -324,9 +328,9 @@ Tackle bugs, write documentation, or help with translations, there is something 
 
 See more information and register (helps us ensure that there's enough food and t-shirts) on [GitHub](https://github.com/qgis/QGIS/wiki/29th-Contributor-Meeting-in-Switzerland).
 
-Time: Wednesday-Friday 7-9th of October, 08:30-23:30<br/>
-Place: Room Diva, Laax Murschetg<br/>
-Price: Free, open to everyone
+Time: Wednesday-Friday 7-9th of October, 08:30 until late<br/>
+Place: Room Diva 1, Laax Murschetg<br/>
+Price: Free, open to everyone, registration required
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
