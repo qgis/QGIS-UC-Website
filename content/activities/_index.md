@@ -28,7 +28,7 @@ We reserve the right to cancel any of the social activities if there are too few
 {{< rich-content-start themeClass="coloring-4">}}
 # Mens sana in corpore sano
 
-Kick-start each day with guided activities around **Laax** to get moving before the sessions. Check the schedule for daily times and meeting points.
+Kick-start each day with guided activities around **Laax** to get moving before the sessions, and unwind with evening activities after. Check the schedule for daily times and meeting points.
 
 Unless noted otherwise, activities are **free** and require **no registration**.
 
@@ -159,7 +159,7 @@ only for people in the first two gondolas (07:40 and 08:00)
 {{< rich-content-start themeClass="coloring-1">}}
 ## Wednesday - trailrun
 
-6 Km run in the forrest to some fantastic view point. Mix of gravel roards and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1784666262546&style=outdoor&bottomBar=open) , download the [GPX](./route-lamutta.gpx) or [open it in QField](qfield://local?import=https://uc2026.qgis.org/activities/route-lamutta.gpx)
+6 Km run in the forest to some fantastic view point. Mix of gravel roads and single trails. See the profile and route [here](https://routeplanner.suunto.com/?route=ault-la-mutta-run-1784666262546&style=outdoor&bottomBar=open) , download the [GPX](./route-lamutta.gpx) or [open it in QField](qfield://local?import=https://uc2026.qgis.org/activities/route-lamutta.gpx)
 
 Meeting point [Kiss&Ride parking in front of the Laax Bergbahnen bus stop](https://www.openstreetmap.org/#map=19/46.819735/9.265168).
 
@@ -218,7 +218,7 @@ Tickets can be purchased together with your conference ticket on our [tickets pa
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 ## Friday - trailrun
-Wonderful 10K trail run along the Connbächli to the Swiss grand Canyon view platform Il spir.
+Wonderful 10K trail run along the Connbächli to the Swiss Grand Canyon view platform Il Spir.
 
  See the profile and route [here](https://routeplanner.suunto.com/?route=connbaechli-1784666607302&style=outdoor&bottomBar=open) , download the [GPX](./route-connbaechli.gpx) or [open it in QField](qfield://local?import=https://uc2026.qgis.org/activities/route-connbaechli.gpx)
 
@@ -268,8 +268,19 @@ Warm-up event on Sunday evening, where you can meet other participants and the o
 We will have a registration desk there as well, to avoid queuing for registration on Monday morning.
 
 Time: Sunday 4th of October, 18:00-22:00<br/>
-Place: Laax Murschetg, bar Il Pup
+Place: Laax Murschetg, bar Il Pup<br/>
 Price: Free, no registration required, everyone welcome
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+### Dinner buffet
+
+Dinner buffet at Casa Veglia on Sunday 4 and Tuesday 6 October, entry between 18:00 and 20:00. Buy it in advance with your conference ticket, or pay 42 CHF at the door.
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -314,6 +325,17 @@ opportunities.
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1">}}
+### Dinner buffet
+
+Dinner buffet at Casa Veglia on Sunday 4 and Tuesday 6 October, entry between 18:00 and 20:00. Buy it in advance with your conference ticket, or pay 42 CHF at the door.
+
+Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+{{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-5">}}
 ## Wednesday
 
@@ -323,7 +345,7 @@ While there will be short workshops during the main conference, we additionally 
 
 The price includes lunch between the workshops.
 
-Time: Wednesday 7th of October, 09:00-17:30 with a coffee break<br/>
+Time: Wednesday 7th of October, 09:00–17:30, with coffee breaks 10:30–11:00 and 15:30–16:00, and a business lunch 12:30–14:00 at Casa Veglia<br/>
 Place: Laax Murschetg, no gondola required<br/>
 Price: €175, registration required (lunch included)
 
@@ -340,9 +362,9 @@ Want to learn more about QField, the mobile app for QGIS, in the town where it w
 
 After a short indoor introduction and demo session, we will head outdoors for a guided hike, using QField along the way to explore the surrounding landscape, discover the region, and work through real-world field mapping workflows together.
 
-Time: Wednesday 7th of October, 08:30/09:00–17:00<br/>
-Place: Riders Hotel (Laax Murschetg), No gondola required
-Price: 80€, registration required (lunch included)
+Time: Wednesday 7th of October, 08:30/09:00, ending around 17:00<br/>
+Place: Riders Hotel (Laax Murschetg), No gondola required<br/>
+Price: €80, registration required (lunch included)
 
 Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).  
 
@@ -356,7 +378,7 @@ Tickets can be purchased together with your conference ticket on our [tickets pa
 Want to get involved with the QGIS project? On the Wednesday there will additionally be several sessions for newcomers
 to the project, or those who want to get more involved. Topics will be announced later.
 
-Time: Wednesday 7th of October<br/>
+Time: Wednesday 7th of October, times TBA<br/>
 Place: Room Diva 1, Laax Murschetg<br/>
 Price: Free, no registration required
 
