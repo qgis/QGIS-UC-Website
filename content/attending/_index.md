@@ -183,6 +183,8 @@ All rooms are located in or around the **Crap Sogn Gion** building and are reach
 
 The **sponsors exhibition**, *coffee breaks**, **lunch**, and the **social event** will be held at the [Galaaxy Main Station](https://www.laax.com/en/restaurant/galaaxy-main-station).
 **Coffee breaks** will also be served at the Hangar.
+
+Lunch is served in two seatings. Your seating is the coloured dot on the back of your badge, blue or green. Both seatings are full, so please keep to the one you were given.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 
