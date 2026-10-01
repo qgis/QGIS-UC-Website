@@ -169,7 +169,7 @@ We leave at 07:01 after the bus from Laax arrives
 {{< rich-box-end >}}
 
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-6">}}
+{{< rich-content-start themeClass="coloring-2">}}
 ## Wednesday - stargazing
 
 ![](./stars.png)
