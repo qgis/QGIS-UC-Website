@@ -317,7 +317,7 @@ Mountain biking is fantastic in this region! Lift-accessed trails, cross-country
 {{< rich-content-start themeClass="coloring-3">}}
 ### Bus
 
-A frequent free local bus service connects Laax Murschetg with Laax town (Laax Posta) in about 5 minutes, and also with nearby villages such as Flims and Falera.
+A frequent free local bus service connects Laax Murschetg (Laax Bergbahnen) with Laax town (Laax Posta) in about 5 minutes, and also with nearby villages such as Flims and Falera.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

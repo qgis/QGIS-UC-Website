@@ -42,7 +42,7 @@ Unless noted otherwise, activities are **free** and require **no registration**.
 Sunday is an informal outdoor day with guided hiking trips and possibly other sports. We will offer multiple distances to suit different fitness levels.
 
 Time: Sunday 4th of October<br/>
-Place: Laax Murschetg<br/>
+Place: Laax Bergbahnen Bus stop (in Laax Murschetg)<br/>
 Price: **€40**, registration required — covers transportation and guide fees. 
 
 You can choose your activity after purchase. Tickets can be purchased together with your conference ticket on our [tickets page](/tickets).
@@ -222,7 +222,7 @@ Wonderful 10K trail run along the Connbächli to the Swiss Grand Canyon view pla
 
 Meeting point [Flims Waldaus Caumasee bus stop](https://www.openstreetmap.org/node/984706253#map=19/46.825889/9.288790).
 
-We leave at 07:06 after the bus from Laax arrives (take the 7:02 Bus from Laax Murschetg)
+We leave at 07:06 after the bus from Laax arrives (take the 7:02 Bus from Laax Bergbahnen)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

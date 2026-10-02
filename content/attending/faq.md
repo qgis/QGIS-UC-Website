@@ -105,7 +105,7 @@ Tickets can be refunded if cancelled **more than 30 days before the event**, min
 
 ### How do I get to Laax?
 
-Most travellers fly into **Zurich Airport**, take the train to **Chur**, then a bus to **Laax Murschetg (Laax Bergbahnen)**. Total travel time is roughly 2.5–3 hours. See the [getting there section](/attending/#getting-there) for train, bus, and car options.
+Most travellers fly into **Zurich Airport**, take the train to **Chur**, then a bus to **Laax Murschetg (Laax Bergbahnen stop)**. Total travel time is roughly 2.5–3 hours. See the [getting there section](/attending/#getting-there) for train, bus, and car options.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
