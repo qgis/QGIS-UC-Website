@@ -129,8 +129,7 @@ Take the 07:40 or 08:00 gondola, the guides will be waiting on the terrace just 
 - Yoga4all (light standing yoga session)
 - Laax from above - mountain sightseeing walk
 - QField Crash course
-- GIS behind a ski resort (TBC)
-- Reducing impact of a ski resort (TBC)
+- more TBC
 
 only for people in the first two gondolas (07:40 and 08:00)
 
@@ -147,8 +146,7 @@ Take the 07:40 or 08:00 gondola, the guides will be waiting on the terrace just 
 - Yoga4all (light standing yoga session)
 - Laax from above - mountain sightseeing walk
 - QField Crash course
-- GIS behind a ski resort (TBC)
-- Reducing impact of a ski resort (TBC)
+- More TBC
 
 only for people in the first two gondolas (07:40 and 08:00)
 
