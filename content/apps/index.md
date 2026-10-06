@@ -92,4 +92,15 @@ To get started, install QField on your device and scan the QR code or visit [one
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
+{{< rich-box-start layoutClass="has-right" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
+
+## Webmap
+Our gold sponsors Lutra Consulting have prepared a webmap detailing the schedule and activities [here](
+https://app.merginmaps.com/maps/R8xDycaBZllb37WrSPXEcNWVyhE)
+
+{{< rich-right-end >}}
+{{< rich-box-end >}}
+
 {{< content-end >}}
