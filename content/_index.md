@@ -9,10 +9,10 @@ heroLogo: "logo-white.webp"
 additionalLogo: "logo-white.webp"
 HasBanner: true
 heroIsUserConference: true
-ButtonText: "Add to your Calendar"
-ButtonLink: "qgis-uc-2026.ics"
-SecondButtonText: "See schedule"
-SecondButtonLink: "/schedule"
+ButtonText: "See pictures"
+ButtonLink: "https://photos.app.goo.gl/M2EJRp9LxPLGnr9j6"
+SecondButtonText: "Find slides in schedule"
+SecondButtonLink: "https://talks.osgeo.org/qgis-uc2026/schedule/"
 sidebar: true
 ---
 
