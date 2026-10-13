@@ -97,8 +97,14 @@ To get started, install QField on your device and scan the QR code or visit [one
 
 
 ## Webmap
-Our gold sponsors Lutra Consulting have prepared a webmap detailing the schedule and activities [here](
-https://app.merginmaps.com/maps/R8xDycaBZllb37WrSPXEcNWVyhE)
+Our gold sponsors [Lutra Consulting](https://www.lutraconsulting.co.uk/) have prepared an interactive webmap of the conference, built with Mergin Maps. It brings together everything you need to find your way around: the conference venues and session rooms, the tracks and full program, social events and activities, as well as useful locations such as public transport stops and points of interest in Laax.
+
+Explore the webmap [here](https://app.merginmaps.com/maps/R8xDycaBZllb37WrSPXEcNWVyhE).
+
+{{< rich-content-end >}}
+{{< rich-right-start >}}
+
+[![Screenshot of the conference webmap](./webmap.png)](./webmap.png)
 
 {{< rich-right-end >}}
 {{< rich-box-end >}}
